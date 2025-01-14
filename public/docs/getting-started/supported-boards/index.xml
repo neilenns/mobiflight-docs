@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MobiFlight documentation – Supported boards</title>
+    <link>http://localhost:1313/docs/getting-started/supported-boards/</link>
+    <description>Recent content in Supported boards on MobiFlight documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/docs/getting-started/supported-boards/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

@@ -1,0 +1,55 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MobiFlight documentation – Docs</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Docs on MobiFlight documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Features</title>
+      <link>http://localhost:1313/docs/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/features/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;a href=&#34;https://github.com/MobiFlight/MobiFlight-Connector/wiki/Mobiflight-Connector-Main-Window&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maybe like this.&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Advanced topics</title>
+      <link>http://localhost:1313/docs/advanced-topics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/advanced-topics/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;NCalc and RPN, which one to use, and where&lt;/li&gt;
+&lt;li&gt;Few concrete examples using preconditions, config references, MF variables&lt;/li&gt;
+&lt;li&gt;Light and power logic, backlight dimmer&lt;/li&gt;
+&lt;li&gt;Transponder with one rotary&lt;/li&gt;
+&lt;li&gt;Link to Neil&amp;rsquo;s blog posts to look up events&lt;/li&gt;
+&lt;li&gt;Troubleshooting guide&lt;/li&gt;
+&lt;li&gt;Intro to using LUA for x-plane&lt;/li&gt;
+&lt;li&gt;Extending MobiFlight: Custom output devices&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
