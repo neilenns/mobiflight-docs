@@ -8,6 +8,14 @@
       "preLaunchTask": "Run Hugo Server",
       "url": "http://localhost:1313/",
       "webRoot": "${workspaceFolder}"
+    },
+    {
+      "name": "Launch Chrome",
+      "request": "launch",
+      "type": "chrome",
+      "preLaunchTask": "Run Hugo Server",
+      "url": "http://localhost:1313/",
+      "webRoot": "${workspaceFolder}"
     }
   ]
 }
