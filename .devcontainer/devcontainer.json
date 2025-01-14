@@ -1,0 +1,22 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/go:1",
+  "features": {
+    "ghcr.io/devcontainers/features/hugo:1": {
+      "extended": true
+    },
+    "ghcr.io/devcontainers/features/node:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "esbenp.prettier-vscode",
+        "tamasfe.even-better-toml",
+        "budparr.language-hugo-vscode",
+        "yzhang.markdown-all-in-one",
+        "streetsidesoftware.code-spell-checker",
+        "jock.svg"
+      ]
+    }
+  },
+  "forwardPorts": [1313]
+}

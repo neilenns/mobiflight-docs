@@ -1,0 +1,45 @@
+{
+  "files.exclude": {
+    ".hugo_build.lock": true,
+    "public/": true,
+    "resources/": true
+  },
+  "files.associations": {
+    "*.svg.html": "plaintext"
+  },
+  "[markdown]": {
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    }
+  },
+  "cSpell.words": [
+    "ATIS",
+    "callsign",
+    "callsigns",
+    "discordtimestamp",
+    "Elgato",
+    "KBFI",
+    "KGRF",
+    "KHIO",
+    "KOLM",
+    "KPAE",
+    "KPDX",
+    "KRNT",
+    "KSEA",
+    "KTCM",
+    "KTIW",
+    "KUAO",
+    "ogimage",
+    "opengraph",
+    "streamdeck",
+    "trackaudio",
+    "vatis",
+    "VATSIM",
+    "Verdana"
+  ],
+  "cSpell.enabledFileTypes": {
+    ".svg.html": false
+  }
+}

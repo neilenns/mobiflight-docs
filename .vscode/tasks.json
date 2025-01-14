@@ -1,0 +1,24 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run Hugo Server",
+      "type": "shell",
+      "command": "hugo server --buildDrafts --disableFastRender --baseURL http://localhost:1313/",
+      "problemMatcher": {
+        "pattern": {
+          "regexp": "^Error:",
+          "file": 1,
+          "location": 2,
+          "message": 0
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": ".*building site.*",
+          "endsPattern": "^Web Server is available at"
+        }
+      },
+      "isBackground": true
+    }
+  ]
+}
