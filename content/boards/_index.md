@@ -7,6 +7,8 @@ cascade:
   type: docs
 ---
 
+{{< buy-in-shop url="https://shop.mobiflight.com/category/boards" >}}
+
 MobiFlight supports a wide range of different boards as the foundation for connecting [devices](../devices/).
 
 > [!WARNING]
