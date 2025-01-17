@@ -1,4 +1,4 @@
 ---
-title: LCD displays
-description: LCD displays for MobiFlight output
+title: Encoders
+description: Encoders for MobiFlight input
 ---
