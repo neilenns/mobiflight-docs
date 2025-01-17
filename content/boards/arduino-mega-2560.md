@@ -13,7 +13,7 @@ The Mega 2560 Rev3 is a classic Arduino board with a large number of IO pins and
 
 ## Specifications
 
-- 54 digital inputs, 15 with PWM support
+- 54 digital IO pins, 15 with PWM support
 - 16 analog inputs (can be used as digital inputs)
 
 > [!WARNING]
