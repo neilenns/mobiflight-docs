@@ -7,8 +7,6 @@ cascade:
   type: docs
 ---
 
-{{< buy-in-shop url="https://shop.mobiflight.com/category/boards" >}}
-
 MobiFlight supports a wide range of different boards as the foundation for connecting [devices](../devices/).
 
 > [!WARNING]
@@ -16,13 +14,27 @@ MobiFlight supports a wide range of different boards as the foundation for conne
 > [unsupported boards](#unsupported-boards) section for a list of boards that are often purchased by accident
 > that will **not** work with MobiFlight.
 
+## Recommended boards
+
+{{< buy-in-shop url="https://shop.mobiflight.com/category/boards" >}}
+
+These boards are all widely available, inexpensive, and are popular with MobiFlight users. 
+
 {{< cards >}}
 {{< card link="arduino-mega-2560-pro-mini" title="Arduino Mega 2560 Pro Mini" subtitle="ATmega2560 microcontroller" image="card-images/boards/arduino-mega-2560-pro-mini.png" method="Resize" options="600x q80 webp" >}}
-{{< card link="arduino-mega-2560" title="Arduino Mega 2560 Rev3" subtitle="ATmega2560 microcontroller" image="card-images/boards/arduino-mega-2560-rev3.png" method="Resize" options="600x q80 webp" >}}
 {{< card link="arduino-nano" title="Arduino Nano" subtitle="ATmega328P microcontroller" image="card-images/boards/arduino-nano.png" method="Resize" options="600x q80 webp" >}}
 {{< card link="arduino-pro-micro" title="Arduino Pro Micro (16MHz)" subtitle="ATmega32U4 microcontroller" image="card-images/boards/arduino-pro-micro.png" method="Resize" options="600x q80 webp" >}}
-{{< card link="arduino-uno" title="Arduino Uno R3" subtitle="ATmega328P microcontroller" image="card-images/boards/arduino-uno.png" method="Resize" options="600x q80 webp" >}}
 {{< card link="raspberry-pi-pico" title="Raspberry Pi Pico 1" subtitle="RP2040 microcontroller" image="card-images/boards/raspberry-pi-pico.png" method="Resize" options="600x q80 webp" >}}
+{{< /cards >}}
+
+## Other supported boards
+
+These boards are supported but are older designs. If you already own one they work fine. If you are
+purchasing a new board for your project we suggest getting a [recommended board](#recommended-boards) instead.
+
+{{< cards >}}
+{{< card link="arduino-mega-2560" title="Arduino Mega 2560 Rev3" subtitle="ATmega2560 microcontroller" image="card-images/boards/arduino-mega-2560-rev3.png" method="Resize" options="600x q80 webp" >}}
+{{< card link="arduino-uno" title="Arduino Uno R3" subtitle="ATmega328P microcontroller" image="card-images/boards/arduino-uno.png" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
 
 ## Unsupported boards
