@@ -1,6 +1,7 @@
 ---
 title: Advanced topics
 description: Advanced MobiFlight techniques
+toc: false
 weight: 40
 cascade:
   type: docs

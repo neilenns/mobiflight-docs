@@ -1,6 +1,7 @@
 ---
 title: Hardware
 description: Details on supported hardware and how to connect to MobiFlight
+toc: false
 weight: 30
 cascade:
   type: docs

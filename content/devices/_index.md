@@ -1,6 +1,7 @@
 ---
 title: Devices
 description: Details on supported devices and how to connect to MobiFlight
+toc: false
 weight: 30
 cascade:
   type: docs
