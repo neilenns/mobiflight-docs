@@ -11,6 +11,8 @@ MobiFlight supports a wide range of different hardware components when connected
 
 ## Input devices
 
+{{< buy-in-shop url="https://shop.mobiflight.com/category/input-devices" >}}
+
 {{< cards >}}
 {{< card link="button-switch" title="Buttons and switches" image="card-images/devices/buttons-switches.png" method="Resize" options="600x q80 webp" >}}
 {{< card link="encoder" title="Encoders" image="card-images/devices/encoder.png" method="Resize" options="600x q80 webp" >}}
@@ -20,6 +22,8 @@ MobiFlight supports a wide range of different hardware components when connected
 {{< /cards >}}
 
 ## Output devices
+
+{{< buy-in-shop url="https://shop.mobiflight.com/category/output-devices" >}}
 
 {{< cards >}}
 {{< card link="lcd-display" title="LCD displays" image="card-images/devices/lcd-display.png" method="Resize" options="600x q80 webp" >}}
