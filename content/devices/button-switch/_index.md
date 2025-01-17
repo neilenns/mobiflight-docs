@@ -3,6 +3,8 @@ title: Buttons and switches
 description: Buttons and switches for MobiFlight input
 ---
 
+{{< buy-in-shop url="https://shop.mobiflight.com/product/switch-12mm-panel-mount" >}}
+
 Buttons and switches are the most common hardware used with MobiFlight, and come in many forms:
 
 - Push buttons
@@ -28,4 +30,3 @@ This section should list links to common options
 - (ON)-OFF-ON -These switches require two input pins. One On position is momentarily only as long as the user holds the switch. On release the switch snaps back to the OFF (middle) position. The opposite ON-position is a permanent position. This switch is used, e.g. for APU switch in the B737.
 
 - (ON)-OFF-(ON) -These switches require two input pins. Both "On" positions are momentarily only as long as the user holds the switch. On release the switch snaps back to the OFF (middle) position. This switch can be used as trim switch or flaps switch.
-
