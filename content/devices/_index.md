@@ -1,5 +1,5 @@
 ---
-title: Hardware
+title: Devices
 description: Details on supported devices and how to connect to MobiFlight
 weight: 30
 cascade:
