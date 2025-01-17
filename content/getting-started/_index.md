@@ -1,6 +1,7 @@
 ---
 title: Getting started
 description: How to start using MobiFlight with flight simulators
+toc: false
 weight: 10
 cascade:
   type: docs
