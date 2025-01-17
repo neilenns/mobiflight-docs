@@ -5,35 +5,35 @@ toc: false
 weight: 10
 ---
 
-MobiFlight is a powerful tool to control your flight simulator with a [board](../boards/) and [wide range of devices](../devices/). The choices can be overwhelming at first so we recommend getting started with a simple parking brake switch and parking brake indicator LED.
+MobiFlight is a powerful tool to control your flight simulator with a [board](/boards/) and [wide range of devices](/devices/). The choices can be overwhelming at first, so we recommend getting started with a simple parking brake switch and indicator LED.
 
 The following video provides complete instructions for those two projects:
 
 {{< youtube id="pS8KGfYRNrY" title="Getting started with MobiFlight" >}}
 
-Here are basic steps:
+Here are the basic steps:
 
 {{% steps %}}
 
 ### Close your flight simulator
 
-If you use Microsoft Flight Simulator 2020 or Microsoft Flight Simulator 2024 close it before installing
+If you use Microsoft Flight Simulator 2020 or Microsoft Flight Simulator 2024, close it before installing
 MobiFlight.
 
 ### Download and install MobiFlight
 
 Download the latest release from the [MobiFlight website](https://www.mobiflight.com/en/download.html) and
-run the download to install. MobiFlight will launch automatically after install completes.
+run the installer. MobiFlight will launch automatically after install completes.
 
 ### Connect a board to your PC
 
-Connect a [supported board](../boards/) to your PC and when prompted by MobiFlight install the matching
+Connect a [supported board](/boards/) to your PC and when prompted by MobiFlight install the matching
 firmware.
 
 > [!TIP]
-> Some boards cannot have their type automatically determined by MobiFlight. If that happens a dialog
-> will warn you that the board type couldn't be identified and you will need to manually install the firmware
-> from the [MobiFlight Modules dialog](../features/modules/).
+> Some boards cannot have their type automatically determined by MobiFlight. If that happens, a dialog
+> will warn you that the board type couldn't be identified, and you will need to manually install the firmware
+> from the [MobiFlight Modules dialog](/features/modules/).
 
 ### Add an LED device and output configuration for the parking brake indicator
 
