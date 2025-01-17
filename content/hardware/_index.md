@@ -1,7 +1,9 @@
 ---
-title: Getting started
-description: How to start using MobiFlight with flight simulators
-weight: 10
+title: Hardware
+description: Details on supported hardware and how to connect to MobiFlight
+weight: 30
+cascade:
+  type: docs
 ---
 
 - Flight simulator connection: MSFS+WASM / XPlane, sim status menu
