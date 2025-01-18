@@ -11,14 +11,14 @@ The Raspberry Pi Pico 1 is a compact board with a moderate number of IO pins. It
 
 {{</ cards >}}
 
+> [!WARNING]
+> MobiFlight only supports the Raspberry Pi Pico 1. The newer Pico 2 board, with the RP2350 microcontroller,
+> is not supported.
+
 ## Specifications
 
 - 23 digital IO pins, 16 with PWM support
 - 3 analog inputs (can be used as digital IO pins)
-
-> [!WARNING]
-> MobiFlight only supports the Raspberry Pi Pico 1. The newer Pico 2 board, with the RP2350 microcontroller,
-> is not supported.
 
 > [!WARNING]
 > The Raspberry Pi Pico uses 3V3 for its digital signals. Certain output devices, most notably the MAX7219

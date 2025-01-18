@@ -15,9 +15,11 @@
     }
   },
   "cSpell.words": [
+    "Anson",
     "ATIS",
     "callsign",
     "callsigns",
+    "datasheet",
     "discordtimestamp",
     "DPDT",
     "EEPROM",
@@ -43,7 +45,11 @@
     "ogimage",
     "opengraph",
     "pico",
+    "RCLK",
     "SPDT",
+    "SRCLK",
+    "SSOP",
+    "SSOP24",
     "streamdeck",
     "trackaudio",
     "vatis",

@@ -14,7 +14,8 @@
         "budparr.language-hugo-vscode",
         "yzhang.markdown-all-in-one",
         "streetsidesoftware.code-spell-checker",
-        "jock.svg"
+        "jock.svg",
+        "DavidAnson.vscode-markdownlint"
       ]
     }
   },

@@ -18,7 +18,7 @@ MobiFlight supports a wide range of different boards as the foundation for conne
 
 {{< buy-in-shop url="https://shop.mobiflight.com/category/boards" >}}
 
-These boards are all widely available, inexpensive, and are popular with MobiFlight users. 
+These boards are all widely available, inexpensive, and are popular with MobiFlight users.
 
 {{< cards >}}
 {{< card link="arduino-mega-2560-pro-mini" title="Arduino Mega 2560 Pro Mini" subtitle="ATmega2560 microcontroller" image="card-images/boards/arduino-mega-2560-pro-mini.png" method="Resize" options="600x q80 webp" >}}
