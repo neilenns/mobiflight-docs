@@ -59,6 +59,7 @@
     "Verdana"
   ],
   "cSpell.enabledFileTypes": {
-    ".svg.html": false
+    ".svg.html": false,
+    ".svg": false
   }
 }
