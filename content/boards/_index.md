@@ -23,7 +23,7 @@ These boards are all widely available, inexpensive, and are popular with MobiFli
 {{< cards >}}
 {{< card link="arduino-mega-2560-pro-mini" title="Arduino Mega 2560 Pro Mini" subtitle="ATmega2560 microcontroller" image="card-images/boards/arduino-mega-2560-pro-mini.png" method="Resize" options="600x q80 webp" >}}
 {{< card link="arduino-nano" title="Arduino Nano" subtitle="ATmega328P microcontroller" image="card-images/boards/arduino-nano.png" method="Resize" options="600x q80 webp" >}}
-{{< card link="arduino-pro-micro" title="Arduino Pro Micro (16MHz)" subtitle="ATmega32U4 microcontroller" image="card-images/boards/arduino-pro-micro.png" method="Resize" options="600x q80 webp" >}}
+{{< card link="pro-micro" title="Pro Micro (16MHz)" subtitle="ATmega32U4 microcontroller" image="card-images/boards/pro-micro.png" method="Resize" options="600x q80 webp" >}}
 {{< card link="raspberry-pi-pico" title="Raspberry Pi Pico 1" subtitle="RP2040 microcontroller" image="card-images/boards/raspberry-pi-pico.png" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
 
@@ -46,5 +46,5 @@ The following boards are not supported by MobiFlight despite having names simila
 - Arduino Micro: This is an entirely different board from the supported Arduino **Pro** Micro.
 - Arduino Mini: This board is no longer manufactured.
 - Arduino Nano ESP32: Despite having `Nano` in the name this board does not use the ATmega328P microcontroller and is not supported.
-- Arduino Pro Micro (8MHz): This is most often encountered in low-cost AliExpress listings. Be very careful when ordering: only the 16MHz variant is supported.
+- Pro Micro (8MHz): This is most often encountered in low-cost AliExpress listings. Be very careful when ordering: only the 16MHz variant is supported.
 - Raspberry Pi Pico 2: This is the newer version of the Raspberry Pi Pico 1, using the RP2350 microcontroller, and is not yet supported by MobiFlight.
