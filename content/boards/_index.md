@@ -45,6 +45,10 @@ The following boards are not supported by MobiFlight despite having names simila
 - Arduino Leonardo: This is similar to the Arduino Uno but is not supported.
 - Arduino Micro: This is an entirely different board from the supported Arduino **Pro** Micro.
 - Arduino Mini: This board is no longer manufactured.
-- Arduino Nano ESP32: Despite having `Nano` in the name this board does not use the ATmega328P microcontroller and is not supported.
+- Arduino Nano BLE: Despite having `Nano` in the name this board does not use the ATmega328P microcontroller and is not supported.
+- Arduino Nano ESP32: Same as above.
+- Arduino Nano Every: Same as above.
+- Arduino Nano IoT: Same as above.
+- Arduino Uno R4: Uses a different microcontroller than the Arduino Uno R3. Unlike many Arduino sketches, MobiFlight firmware is not compatible.
 - Arduino Pro Micro (8MHz): This is most often encountered in low-cost AliExpress listings. Be very careful when ordering: only the 16MHz variant is supported.
 - Raspberry Pi Pico 2: This is the newer version of the Raspberry Pi Pico 1, using the RP2350 microcontroller, and is not yet supported by MobiFlight.
