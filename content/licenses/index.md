@@ -23,3 +23,8 @@ Pinout diagrams for [supported boards](/boards) are based on the following vecto
 - [SparkFun Pro Micro](https://github.com/sparkfun/Pro_Micro), SparkFun CC BY-SA 4.0
 
 All pinout diagrams on this site are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+## License details
+
+- [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+- [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
