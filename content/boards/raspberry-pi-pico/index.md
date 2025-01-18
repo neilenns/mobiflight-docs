@@ -27,4 +27,4 @@ The Raspberry Pi Pico 1 is a compact board with a moderate number of IO pins. It
 
 ## Pinout
 
-{{ <pinout img="images/pinouts/raspberry-pi-pico.svg" title="Raspberry Pi Pico 1 pinout">}}
+{{< pinout img="raspberry-pi-pico.svg" title="Raspberry Pi Pico 1 pinout" >}}

@@ -1,5 +1,8 @@
+{{ $img := $.Get "img" }}
+{{ with $.Page.Resources.Get $img }}
 <div class="pinout">
-	<a href="{{ .Get "url"}}" rel="noopener noreferrer" target="_blank">
-		<img src="{{ .Get "img" }}" alt="{{ .Get "title" }}" title="{{ .Get "title" }}" />
+	<a href="{{ $.Get "url"}}" rel="noopener noreferrer" target="_blank">
+		<img src="{{ .RelPermalink }}" alt="{{ $.Get "title" }}" title="{{ $.Get "title" }}" />
 	</a>
 </div>
+{{ end }}
