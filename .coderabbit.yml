@@ -9,5 +9,5 @@ reviews:
     - path: "**/*.svg"
       instructions: |
         Review all SVG files and ensure that:
-          - They are minified
-          - They do not contain a viewBox
+          - They are minified (using svgo or similar tool to remove comments, whitespace, and unnecessary attributes)
+          - They do not contain a viewBox attribute (to ensure consistent scaling behavior)

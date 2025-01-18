@@ -24,3 +24,5 @@ The Arduino Nano is a compact board that trades a smaller size for fewer IO pins
 > [additional steps to make the boards work with MobiFlight](https://www.badcasserole.com/arduino-nano-with-ch340-chips-connection-issues/). Purchasing an Arduino Nano
 > [from the MobiFlight Shop](https://shop.mobiflight.com/product/arduino-nano-usb-c) ensures
 > you will get a board with genuine chips.
+
+{{< pinout >}}

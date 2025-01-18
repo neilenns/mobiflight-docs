@@ -1,6 +1,6 @@
 {{ with $.Page.Resources.Get "pinout.svg" }}
-<h2>Pinout</h2>
-<div class="pinout">
+<h2 class="pinout-heading">{{ default "Pinout" ($.Get "heading") }}</h2>
+<div class="pinout-container">
   <img
     src="{{ .RelPermalink }}"
     alt="{{ $.Page.Title }} pinout diagram"
