@@ -3,7 +3,7 @@ title: Licenses
 description: Licenses for documentation content
 ---
 
-## ## Board image licenses
+## Board image licenses
 
 {{< cards >}}
 {{< card link="https://creativecommons.org/licenses/by-sa/4.0/" title="Arduino Mega 2560 Rev3" subtitle="arduino.cc CC BY-SA 4.0" image="card-images/boards/arduino-mega-2560-rev3.png" method="Resize" options="600x q80 webp" >}}
