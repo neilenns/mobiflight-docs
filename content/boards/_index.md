@@ -7,8 +7,6 @@ cascade:
   type: docs
 ---
 
-# Break listings
-
 MobiFlight supports a wide range of different boards as the foundation for connecting [devices](../devices/).
 
 > [!WARNING]
