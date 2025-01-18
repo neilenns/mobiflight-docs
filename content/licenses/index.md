@@ -17,10 +17,10 @@ description: Licenses for documentation content
 
 Pinout diagrams for [supported boards](/boards) are based on the following vector assets:
 
-- [Arduino Mega 2560 Rev3](https://docs.arduino.cc/hardware/mega-2560/), arduino.cc CC BY-SA 4.0
-- [Arduino Uno R3](https://docs.arduino.cc/hardware/uno-rev3/), arduino.cc CC BY-SA 4.0
-- [Arduino Nano](https://docs.arduino.cc/hardware/nano/), arduino.cc CC BY-SA 4.0
-- [Pro Micro](https://github.com/sparkfun/Pro_Micro), SparkFun CC BY-SA 4.0
+- [Arduino Mega 2560 Rev3](https://docs.arduino.cc/hardware/mega-2560/), arduino.cc CC BY-SA 4.0.
+- [Arduino Uno R3](https://docs.arduino.cc/hardware/uno-rev3/), arduino.cc CC BY-SA 4.0.
+- [Arduino Nano](https://docs.arduino.cc/hardware/nano/), arduino.cc CC BY-SA 4.0.
+- [Pro Micro](https://github.com/sparkfun/Pro_Micro), SparkFun CC BY-SA 4.0.
 
 All pinout diagrams on this site are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
