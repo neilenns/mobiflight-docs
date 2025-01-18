@@ -17,8 +17,8 @@ The Raspberry Pi Pico 1 is a compact board with a moderate number of IO pins. It
 
 ## Specifications
 
-- 23 digital IO pins, 16 with PWM support
-- 3 analog inputs (can be used as digital IO pins)
+- 23 digital IO pins, 16 with PWM support.
+- 3 analog inputs (can be used as digital IO pins).
 
 > [!WARNING]
 > The Raspberry Pi Pico uses 3V3 for its digital signals. Certain output devices, most notably the MAX7219

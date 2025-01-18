@@ -15,8 +15,8 @@ The Arduino Nano is a compact board that trades a smaller size for fewer IO pins
 
 ## Specifications
 
-- 14 digital IO pins, 6 with PWM support
-- 8 analog inputs (can be used as digital inputs)
+- 14 digital IO pins, 6 with PWM support.
+- 8 analog inputs (can be used as digital inputs).
 
 > [!WARNING]
 > Many lower-cost Arduino Nano boards, particularly when purchased from AliExpress, use the CH340G chip for
