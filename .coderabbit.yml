@@ -8,6 +8,7 @@ reviews:
           - All lists items that are sentences have a period at the end
           - Spelling and grammar is correct
           - Additional valid words are listed in the workspace settings file in the cSpell.words property
+          - "Arduino Pro Micro" and "SparkFun Pro Micro" should always be called "Pro Micro" instead
     - path: "**/*.svg"
       instructions: |
         Review all SVG files and ensure that:
