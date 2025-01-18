@@ -10,6 +10,7 @@ reviews:
           - Additional valid words are listed in the workspace settings file in the cSpell.words property.
           - Voltages should be described with periods, e.g. 3.3V instead of 3V3.
           - All leaf pages should be in their own folder as a page bundle
+          - Device and board intro pages should always have an opening descriptive paragraph before a card with an image of the device or board
     - path: "**/*.svg"
       instructions: |
         Review all SVG files and ensure that:
