@@ -2,3 +2,13 @@
   display: inline-flex; /* Ensures the element wraps tightly around its content */
   width: fit-content; /* Shrinks the element to match the width of the SVG */
 }
+
+.buy-in-shop-image {
+  content: url('/buy-in-mobiflight-shop-light.svg'); /* Default for light mode */
+}
+
+@media (prefers-color-scheme: dark) {
+  .buy-in-shop-image {
+      content: url('/buy-in-mobiflight-shop-dark.svg'); /* Use dark mode image */
+  }
+}
