@@ -13,5 +13,9 @@ The Arduino Uno R3 is an older design that doesn't offer many IO pins and has a 
 
 ## Specifications
 
-- 14 digital IO pins, 6 with PWM support
-- 6 analog inputs (can be used as digital inputs)
+- 14 digital IO pins, 6 with PWM support.
+- 6 analog inputs (can be used as digital inputs).
+
+## Pinout
+
+{{< pinout >}}

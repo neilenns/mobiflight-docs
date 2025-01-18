@@ -45,6 +45,8 @@
     "ogimage",
     "opengraph",
     "pico",
+    "pinout",
+    "pinouts",
     "RCLK",
     "SPDT",
     "SRCLK",
@@ -57,6 +59,7 @@
     "Verdana"
   ],
   "cSpell.enabledFileTypes": {
-    ".svg.html": false
+    ".svg.html": false,
+    ".svg": false
   }
 }

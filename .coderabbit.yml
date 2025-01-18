@@ -1,0 +1,15 @@
+language: "en-US"
+reviews:
+  path_instructions:
+    - path: "content/**/*.md"
+      instructions: |
+        Review all markdown files and ensure that:
+          - Pinout diagrams are inserted using the pinout shortcode
+          - All lists items that are sentences have a period at the end
+          - Spelling and grammar is correct
+          - Additional valid words are listed in the workspace settings file in the cSpell.words property
+    - path: "**/*.svg"
+      instructions: |
+        Review all SVG files and ensure that:
+          - They are minified (using svgo or similar tool to remove comments, whitespace, and unnecessary attributes)
+          - They do not contain a viewBox attribute (to ensure consistent scaling behavior)

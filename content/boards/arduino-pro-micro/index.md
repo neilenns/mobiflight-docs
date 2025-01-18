@@ -15,8 +15,8 @@ The Arduino Pro Micro (16MHz) is a compact board that trades a smaller size for 
 
 ## Specifications
 
-- 12 digital IO pins, 5 with PWM support
-- 9 analog inputs (can be used as digital inputs)
+- 12 digital IO pins, 5 with PWM support.
+- 9 analog inputs (can be used as digital inputs).
 
 > [!WARNING]
 > Some lower-cost Arduino Pro Micro boards, particularly those purchased from AliExpress, are 8MHz
@@ -24,3 +24,7 @@ The Arduino Pro Micro (16MHz) is a compact board that trades a smaller size for 
 > you are ordering the 16MHz version. Purchasing an Arduino Pro Micro
 > [from the MobiFlight Shop](https://shop.mobiflight.com/product/arduino-pro-micro-usb-c) ensures
 > you will get a board running at 16Mhz.
+
+## Pinout
+
+{{< pinout >}}
