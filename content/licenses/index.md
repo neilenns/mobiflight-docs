@@ -12,3 +12,8 @@ description: Licenses for documentation content
 {{< card link="https://store.arduino.cc/products/arduino-uno-rev3-smd" title="Arduino Uno R3" subtitle="arduino.cc CC BY-SA 4.0" image="card-images/boards/arduino-uno.png" method="Resize" options="600x q80 webp" >}}
 {{< card link="https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pico-1-family" title="Raspberry Pi Pico 1" subtitle="Raspberry Pi Ltd CC BY-SA 4.0" image="card-images/boards/raspberry-pi-pico.png" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
+
+## License details
+
+- [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+- [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
