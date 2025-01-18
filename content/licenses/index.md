@@ -8,7 +8,7 @@ description: Licenses for documentation content
 {{< cards >}}
 {{< card link="https://store.arduino.cc/products/arduino-mega-2560-rev3" title="Arduino Mega 2560 Rev3" subtitle="arduino.cc CC BY-SA 4.0" image="card-images/boards/arduino-mega-2560-rev3.png" method="Resize" options="600x q80 webp" >}}
 {{< card link="https://store.arduino.cc/products/arduino-nano" title="Arduino Nano" subtitle="arduino.cc CC BY-SA 4.0" image="card-images/boards/arduino-nano.png" method="Resize" options="600x q80 webp" >}}
-{{< card link="https://www.sparkfun.com/pro-micro-5v-16mhz.html" title="Arduino Pro Micro (16MHz)" subtitle="SparkFun CC BY-SA 4.0" image="card-images/boards/arduino-pro-micro.png" method="Resize" options="600x q80 webp" >}}
+{{< card link="https://www.sparkfun.com/pro-micro-5v-16mhz.html" title="Pro Micro (16MHz)" subtitle="SparkFun CC BY-SA 4.0" image="card-images/boards/pro-micro.png" method="Resize" options="600x q80 webp" >}}
 {{< card link="https://store.arduino.cc/products/arduino-uno-rev3-smd" title="Arduino Uno R3" subtitle="arduino.cc CC BY-SA 4.0" image="card-images/boards/arduino-uno.png" method="Resize" options="600x q80 webp" >}}
 {{< card link="https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pico-1-family" title="Raspberry Pi Pico 1" subtitle="Raspberry Pi Ltd CC BY-SA 4.0" image="card-images/boards/raspberry-pi-pico.png" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
@@ -20,7 +20,7 @@ Pinout diagrams for [supported boards](/boards) are based on the following vecto
 - [Arduino Mega 2560 Rev3](https://docs.arduino.cc/hardware/mega-2560/), arduino.cc CC BY-SA 4.0
 - [Arduino Uno R3](https://docs.arduino.cc/hardware/uno-rev3/), arduino.cc CC BY-SA 4.0
 - [Arduino Nano](https://docs.arduino.cc/hardware/nano/), arduino.cc CC BY-SA 4.0
-- [SparkFun Pro Micro](https://github.com/sparkfun/Pro_Micro), SparkFun CC BY-SA 4.0
+- [Pro Micro](https://github.com/sparkfun/Pro_Micro), SparkFun CC BY-SA 4.0
 
 All pinout diagrams on this site are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
