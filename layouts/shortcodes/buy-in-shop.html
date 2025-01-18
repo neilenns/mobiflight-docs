@@ -1,3 +1,7 @@
-<a class="buy-in-shop" href="{{ .Get "url"}}" rel="noopener noreferrer" target="_blank">
-	<img class="buy-in-shop-image" src="/buy-in-mobiflight-shop-light.svg" alt="Buy in the MobiFlight shop" title="Buy in the MobiFlight shop" />
+<a class="buy-in-shop-button" href="{{ .Get "url"}}" rel="noopener noreferrer" target="_blank">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="/buy-in-mobiflight-shop-dark.svg">
+		<source media="(prefers-color-scheme: light)" srcset="/buy-in-mobiflight-shop-light.svg">
+		<img src="/buy-in-mobiflight-shop-light.svg" alt="Buy in the MobiFlight shop" title="Buy in the MobiFlight shop" />
+	</picture>
 </a>
