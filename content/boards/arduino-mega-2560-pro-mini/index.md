@@ -18,4 +18,6 @@ The Arduino Mega 2560 Pro Mini offers the same number of IO pins as the [Arduino
 - 54 digital IO pins, 15 with PWM support.
 - 16 analog inputs (can be used as digital inputs).
 
+## Pinout
+
 {{< pinout >}}

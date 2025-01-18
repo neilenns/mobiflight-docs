@@ -25,4 +25,6 @@ The Arduino Pro Micro (16MHz) is a compact board that trades a smaller size for 
 > [from the MobiFlight Shop](https://shop.mobiflight.com/product/arduino-pro-micro-usb-c) ensures
 > you will get a board running at 16Mhz.
 
+## Pinout
+
 {{< pinout >}}

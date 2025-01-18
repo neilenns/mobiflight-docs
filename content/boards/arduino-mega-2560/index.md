@@ -21,4 +21,6 @@ The Mega 2560 Rev3 is a classic Arduino board with a large number of IO pins and
 > for serial communication to the PC. These chips are frequently counterfeit and require
 > [additional steps to make the boards work with MobiFlight](https://www.badcasserole.com/arduino-nano-with-ch340-chips-connection-issues/).
 
+## Pinout
+
 {{< pinout >}}

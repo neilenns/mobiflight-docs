@@ -1,5 +1,4 @@
 {{ with $.Page.Resources.Get "pinout.svg" }}
-<h2 class="pinout-heading">{{ default "Pinout" ($.Get "heading") }}</h2>
 <div class="pinout-container">
   <img
     src="{{ .RelPermalink }}"
