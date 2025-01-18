@@ -23,7 +23,7 @@ The Raspberry Pi Pico 1 is a compact board with a moderate number of IO pins. It
 > [!WARNING]
 > The Raspberry Pi Pico uses 3V3 for its digital signals. Certain output devices, most notably the MAX7219
 > 7-segment LED driver chip, require 5V digital signals. If you plan to use those devices with the Pico, you will
-> need to add a level shifter to your build.
+> need to add a level shifter to your build. Forcing a change for a test.
 
 ## Pinout
 
