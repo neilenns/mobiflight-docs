@@ -16,7 +16,13 @@ markup:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: favicon.svg
+      dark: favicon-dark.svg
+      link: /
+      width: 30
+      height: 30
 
   footer:
     displayCopyright: true
