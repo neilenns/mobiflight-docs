@@ -25,7 +25,7 @@ Click the button with three dots in the **Edit** column for the row created in t
 
 ### Filter the output presets
 
-On the **Sim Variable** tab use the **Filter Preset List** dropdowns to filter by **Microsoft**, **Generic**, and **Controls**.
+On the **Sim Variable** tab, use the **Filter Preset List** dropdowns to filter by **Microsoft**, **Generic**, and **Controls**.
 
 {{< screenshot image="sim-variable-filtered-list.png" title="Screenshot of the sim variable tab in the output dialog filtered by Microsoft / Generic / Controls." >}}
 
@@ -37,7 +37,7 @@ Use the **Select Preset** dropdown to select the **PARKING BRAKE INDICATOR** pre
 
 ### Select the board and device type for the output
 
-On the **Display** tab use the **Module** and **Use type of** dropdowns to select your connected board and the **LED / Output** device type.
+On the **Display** tab, use the **Module** and **Use type of** dropdowns to select your connected board and the **LED / Output** device type.
 
 {{< screenshot image="display-tab-output-selected.png" title="Screenshot of the display tab in the output dialog with a board and LED / Output type selected." >}}
 
