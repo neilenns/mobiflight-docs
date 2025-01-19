@@ -4,7 +4,12 @@ reviews:
     - path: "**/*.*"
       instructions: |
         Review all files and ensure that:
-          - File and directory names are in lower case and spaces are replaced with dashes
+          - File and directory names must:
+            - Be in lowercase
+            - Use dashes (-) instead of spaces
+            - Use dashes to separate numbers from words (e.g., page-2-content.md)
+            - Avoid special characters except dashes
+            - Use lowercase file extensions
     - path: "content/**/*.md"
       instructions: |
         Review all markdown files and ensure that:
