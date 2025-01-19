@@ -33,6 +33,7 @@ To view the documentation press `F5` and it will automatically build and open in
 - Set width to 800px.
 - Store in the `assets/screenshots` folder.
 - Reference using the `{{% screenshot %}}` shortcode.
+- The shortcode must have a title specified, and the title must end in a period.
 - Take screenshots using the [Windows Snipping Tool](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b) in `Window` mode, not `Freeform` mode.
 - Clean up the rounded corners so a transparent background shows.
 

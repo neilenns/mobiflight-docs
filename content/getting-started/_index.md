@@ -37,7 +37,7 @@ firmware.
 
 ### Add an LED device and output configuration for the parking brake indicator
 
-See the LED tutorial for complete steps on how to wire the LED and create the output configuration.
+See the [LED tutorial](/devices/led) for complete steps on how to wire the LED and create the output configuration.
 
 ### Add a switch and create an input configuration for the parking brake
 
