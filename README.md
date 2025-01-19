@@ -33,6 +33,8 @@ To view the documentation press `F5` and it will automatically build and open in
 - Set width to 800px.
 - Store in the `assets/screenshots` folder.
 - Reference using the `{{% screenshot %}}` shortcode.
+- Take screenshots using the Windows Snipping Tool in `Window` mode, not `Freeform` mode.
+- When possible, clean up the rounded corners so a transparent background shows.
 
 ### Board and device images
 
