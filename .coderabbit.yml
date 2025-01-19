@@ -26,6 +26,8 @@ reviews:
           - Screenshots must use the screenshot shortcode instead of Markdown image and must have a title that ends in a period.
           - Pinout diagrams must use the pinout shortcode instead of Markdown image
           - Board and device images must be placed in card shortcodes instead of Markdown image
+          - Headings are in sentence case.
+          - Links to other documentation pages on the site are absolute, not relative.
     - path: "**/*.png"
       instructions: |
         Review all PNGs that are screenshots and ensure that:

@@ -26,6 +26,8 @@ To view the documentation press `F5` and it will automatically build and open in
 - Use GitHub alerts instead of Hextra callout shortcodes.
 - Reference board and device images using cards (see the `boards/` and `devices/` pages for examples).
 - Reference UI elements that users should click or interact with in **bold**.
+- Headings are in sentence case.
+- Links to other documentation pages should be absolute not relative.
 
 ### Screenshots
 
