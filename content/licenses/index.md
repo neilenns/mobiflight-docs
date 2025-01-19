@@ -1,6 +1,7 @@
 ---
 title: Licenses
 description: Licenses for documentation content
+toc: false
 ---
 
 ## Board image licenses
@@ -11,6 +12,12 @@ description: Licenses for documentation content
 {{< card link="https://www.sparkfun.com/pro-micro-5v-16mhz.html" title="Pro Micro (16MHz)" subtitle="SparkFun CC BY-SA 4.0" image="card-images/boards/pro-micro.png" method="Resize" options="600x q80 webp" >}}
 {{< card link="https://store.arduino.cc/products/arduino-uno-rev3-smd" title="Arduino Uno R3" subtitle="arduino.cc CC BY-SA 4.0" image="card-images/boards/arduino-uno.png" method="Resize" options="600x q80 webp" >}}
 {{< card link="https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pico-1-family" title="Raspberry Pi Pico 1" subtitle="Raspberry Pi Ltd CC BY-SA 4.0" image="card-images/boards/raspberry-pi-pico.png" method="Resize" options="600x q80 webp" >}}
+{{< /cards >}}
+
+## Device image licenses
+
+{{< cards >}}
+{{< card link="https://commons.wikimedia.org/w/index.php?curid=293447" title="LEDs" subtitle="Aney CC BY-SA 3.0" image="card-images/devices/led.png" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
 
 ## Vector image licenses
