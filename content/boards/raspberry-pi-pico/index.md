@@ -28,3 +28,7 @@ The Raspberry Pi Pico 1 is a compact board with a moderate number of IO pins. It
 ## Pinout
 
 {{< pinout >}}
+
+## Additional resources
+
+- [Official technical documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pico-1-technical-specification)
