@@ -10,7 +10,6 @@ The Arduino Leonardo is an Arduino board based on the ATmega32U4 microcontroller
 Despite its physical resemblance to the Arduino Uno, it is more closely related to the [Arduino Micro](../../arduino-micro),
 another unsupported board.
 
-
 {{< cards >}}
 
 {{< card title="Arduino Leonardo" subtitle="ATmega32U4 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-leonardo.png" method="Resize" options="600x q80 webp" >}}
