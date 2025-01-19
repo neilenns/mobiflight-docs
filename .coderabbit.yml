@@ -1,6 +1,10 @@
 language: "en-US"
 reviews:
   path_instructions:
+    - path: "**/*.*"
+      instructions: |
+        Review all files and ensure that:
+          - File and directory names are in lower case and spaces are replaced with dashes
     - path: "content/**/*.md"
       instructions: |
         Review all markdown files and ensure that:
