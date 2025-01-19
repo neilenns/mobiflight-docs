@@ -21,7 +21,7 @@ Double-click on the bottom row where the description says **Double-click row to 
 
 Click the button with three dots in the **Edit** column for the row created in the previous step.
 
-{{< screenshot image="output-config-highlight-edit.png" title="Screenshot of the output tab in the main window with the bottom row highlighted in red." >}}
+{{< screenshot image="output-config-highlight-edit.png" title="Screenshot of the output tab in the main window with the edit button highlighted in red." >}}
 
 ### Filter the output presets
 
