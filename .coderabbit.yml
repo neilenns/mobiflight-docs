@@ -14,6 +14,7 @@ reviews:
           - Require GitHub alerts instead of callout shortcodes
           - "Arduino Pro Micro" and "SparkFun Pro Micro" should always be called "Pro Micro" instead
           - References to click or select an item in the UI should have the UI item in bold
+          - Screenshots must use the screenshot shortcode instead of Markdown image
     - path: "**/*.svg"
       instructions: |
         Review all SVG files and ensure that:
