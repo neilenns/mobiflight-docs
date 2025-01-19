@@ -6,3 +6,8 @@
 .pinout-container {
   background-color: #FFF;
 }
+
+.paypal-container {
+  text-align: center;
+  margin-top: 10px;
+}
