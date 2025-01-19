@@ -11,4 +11,4 @@ Monetary donations can be made via PayPal:
 
 You can also support the project by [sponsoring the project on GitHub](https://github.com/sponsors/MobiFlight) and purchasing boards and hardware from the [MobiFlight shop](https://shop.mobiflight.com/).
 
-In addition to monetary donations consider supporting the project by helping new users in our [Discord](https://discord.gg/yUaBqMbz). We often have users who need help with the basics of getting started and we welcome everyone who has some MobiFlight experience to jump in and assist.
+In addition to monetary donations consider supporting the project by helping new users in our [Discord](https://discord.gg/yUaBqMbz). We often have users who need help with the basics of getting started, and we welcome everyone who has some MobiFlight experience to jump in and assist.
