@@ -14,3 +14,25 @@ The documentation is set up for editing using Visual Studio Code dev containers:
 7. Wait for the dev container to build
 
 To view the documentation press `F5` and it will automatically build and open in Edge. To use Chrome instead select `Launch Chrome` in the run and debug tab.
+
+## Style guidelines
+
+### Screenshots
+
+- Must be 800px wide
+- Must be placed in the `assets/screenshots` folder
+- Must be referenced using the `{{% screenshot %}}` shortcode
+
+### Board and device images
+
+- Must be 800x600
+- Must be placed in the `assets/card-images` folder
+- Must be referenced using the `{{% card %}}` shortcode
+
+## Pinout diagrams
+
+- Must be `.svg`
+- Must be processed using [svgomg](https://svgomg.net/) with the default options plus `Prefer viewBox to width/height` enabled
+- Must be placed in the page bundle for the associated board and named `pinout.svg`
+- Must be referenced using the `{{% pinout %}}` shortcode
+-

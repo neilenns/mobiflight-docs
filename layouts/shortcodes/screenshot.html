@@ -12,7 +12,7 @@
 
 {{/* Image processing options */}}
 {{- $method := .Get "method" | default "Resize" | humanize -}}
-{{- $options := .Get "options" | default "800x webp q80" -}}
+{{- $options := .Get "options" | default "800x webp text q80" -}}
 {{- $process := .Get "process" | default (printf "%s %s" $method $options) -}}
 
 {{- if and $image (not (urls.Parse $image).Scheme) -}}

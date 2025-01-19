@@ -24,6 +24,14 @@ reviews:
           - "Arduino Pro Micro" and "SparkFun Pro Micro" should always be called "Pro Micro" instead
           - References to click or select an item in the UI should have the UI item in bold
           - Screenshots must use the screenshot shortcode instead of Markdown image
+    - path: "**/*.png"
+      instructions: |
+        Review all PNGs that are screenshots and ensure that:
+          - They are 800px wide
+          - They are stored under the assets/screenshots folder
+        Review all PNGs that are board or device images and ensure that:
+          - They are 800x600px
+          - They are stored under the assets/card-images folder
     - path: "**/*.svg"
       instructions: |
         Review all SVG files and ensure that:
