@@ -12,6 +12,7 @@ reviews:
           - All leaf pages should be in their own folder as a page bundle
           - Device and board intro pages should always have an opening descriptive paragraph before a card with an image of the device or board
           - Require GitHub alerts instead of callout shortcodes
+          - "Arduino Pro Micro" and "SparkFun Pro Micro" should always be called "Pro Micro" instead
     - path: "**/*.svg"
       instructions: |
         Review all SVG files and ensure that:
