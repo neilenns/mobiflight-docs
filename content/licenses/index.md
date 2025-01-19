@@ -13,6 +13,17 @@ description: Licenses for documentation content
 {{< card link="https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pico-1-family" title="Raspberry Pi Pico 1" subtitle="Raspberry Pi Ltd CC BY-SA 4.0" image="card-images/boards/raspberry-pi-pico.png" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
 
+## Vector image licenses
+
+Pinout diagrams for [supported boards](/boards) are based on the following vector assets:
+
+- [Arduino Mega 2560 Rev3](https://docs.arduino.cc/hardware/mega-2560/), arduino.cc CC BY-SA 4.0.
+- [Arduino Uno R3](https://docs.arduino.cc/hardware/uno-rev3/), arduino.cc CC BY-SA 4.0.
+- [Arduino Nano](https://docs.arduino.cc/hardware/nano/), arduino.cc CC BY-SA 4.0.
+- [Pro Micro](https://github.com/sparkfun/Pro_Micro), SparkFun CC BY-SA 4.0.
+
+All pinout diagrams on this site are licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
 ## License details
 
 - [Creative Commons Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
