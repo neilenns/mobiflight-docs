@@ -13,6 +13,6 @@ incompatible with MobiFlight firmware.
 
 {{< cards >}}
 
-{{< card title="Arduino Nano Every" subtitle="ATMega4809 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-nano.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Arduino Nano Every" subtitle="ATMega4809 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-nano-every.png" method="Resize" options="600x q80 webp" >}}
 
 {{</ cards >}}

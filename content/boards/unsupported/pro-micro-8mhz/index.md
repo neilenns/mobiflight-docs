@@ -4,9 +4,9 @@ description: Details on MobiFlight incompatibility with the Pro Micro clocked at
 ---
 
 > [!IMPORTANT]
-> This board is unsupported. Consider a [Pro Micro (16 MHz)](../../arduino-pro-micro) instead.
+> This board is unsupported. Consider a [Pro Micro (16 MHz)](../../pro-micro) instead.
 
-Some models of [Pro Micro](../../arduino-pro-micro) are offered at a reduced clock speed of 8 MHz.
+Some models of [Pro Micro](../../pro-micro) are offered at a reduced clock speed of 8 MHz.
 MobiFlight is designed for use with the 16 MHz version of the board. Particularly on low-cost
 AliExpress listings, it is important to pay close attention to the product description to avoid
 buying the 8 MHz version instead. Pro Micro boards sold on the [MobiFlight Shop](https://shop.mobiflight.com/product/arduino-pro-micro-usb-c)
@@ -14,7 +14,7 @@ are always the 16 MHz version.
 
 {{< cards >}}
 
-{{< card title="Pro Micro (8 MHz)" subtitle="ATmega32U4 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-pro-micro.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Pro Micro (8 MHz)" subtitle="ATmega32U4 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/pro-micro-8.png" method="Resize" options="600x q80 webp" >}}
 
 {{</ cards >}}
 

@@ -41,10 +41,17 @@ purchasing a new board for your project we suggest getting a [recommended board]
 
 The following boards are not supported by MobiFlight despite having names similar to the above supported boards:
 
-- Any ESP32-based board: The ESP32 microcontroller is not supported.
-- Arduino Leonardo: This is similar to the Arduino Uno but is not supported.
-- Arduino Micro: This is an entirely different board from the supported Arduino **Pro** Micro.
-- Arduino Mini: This board is no longer manufactured.
-- Arduino Nano ESP32: Despite having `Nano` in the name this board does not use the ATmega328P microcontroller and is not supported.
-- Pro Micro (8MHz): This is most often encountered in low-cost AliExpress listings. Be very careful when ordering: only the 16MHz variant is supported.
-- Raspberry Pi Pico 2: This is the newer version of the Raspberry Pi Pico 1, using the RP2350 microcontroller, and is not yet supported by MobiFlight.
+{{< cards >}}
+
+{{< card link="unsupported/esp32" title="Any ESP32 board" subtitle="ESP32 microcontroller family" tag="Unsupported" tagType="error" image="card-images/boards/arduino-nano-esp32.png" method="Resize" options="600x q80 webp" >}}
+{{< card link="unsupported/arduino-leonardo" title="Arduino Leonardo" subtitle="ATmega32U4 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-leonardo.png" method="Resize" options="600x q80 webp" >}}
+{{< card link="unsupported/arduino-micro" title="Arduino Micro" subtitle="ATmega32U4 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-micro.png" method="Resize" options="600x q80 webp" >}}
+{{< card link="unsupported/arduino-nano-ble" title="Arduino Nano 33 BLE" subtitle="nRF52840 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-nano-ble.png" method="Resize" options="600x q80 webp" >}}
+{{< card link="unsupported/arduino-nano-iot" title="Arduino Nano 33 IoT" subtitle="ATSAMD21 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-nano-iot.png" method="Resize" options="600x q80 webp" >}}
+{{< card link="unsupported/arduino-nano-esp32" title="Arduino Nano ESP32" subtitle="ESP32-S3 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-nano-esp32.png" method="Resize" options="600x q80 webp" >}}
+{{< card link="unsupported/arduino-nano-every" title="Arduino Nano Every" subtitle="ATMega4809 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-nano-every.png" method="Resize" options="600x q80 webp" >}}
+{{< card link="unsupported/arduino-uno-r4" title="Arduino Uno R4" subtitle="Renesas RA4M1 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-uno-r4-minima.png" method="Resize" options="600x q80 webp" >}}
+{{< card link="unsupported/pro-micro-8mhz" title="Pro Micro (8 MHz)" subtitle="ATmega32U4 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/pro-micro-8.png" method="Resize" options="600x q80 webp" >}}
+{{< card link="unsupported/raspberry-pi-pico-2" title="Raspberry Pi Pico 2" subtitle="RP2350 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/raspberry-pi-pico2.png" method="Resize" options="600x q80 webp" >}}
+
+{{</ cards >}}

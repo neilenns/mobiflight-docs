@@ -13,6 +13,6 @@ MobiFlight firmware.
 
 {{< cards >}}
 
-{{< card title="Arduino Nano 33 IoT" subtitle="ATSAMD21 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-nano.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Arduino Nano 33 IoT" subtitle="ATSAMD21 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-nano-iot.png" method="Resize" options="600x q80 webp" >}}
 
 {{</ cards >}}
