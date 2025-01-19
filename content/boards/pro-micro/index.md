@@ -9,7 +9,7 @@ The Pro Micro (16MHz) is a compact board that trades a smaller size for fewer IO
 
 {{< cards >}}
 
-{{< card title="Pro Micro (16MHz)" subtitle="ATmega32U4 microcontroller" image="card-images/boards/arduino-pro-micro.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Pro Micro (16MHz)" subtitle="ATmega32U4 microcontroller" image="card-images/boards/pro-micro.png" method="Resize" options="600x q80 webp" >}}
 
 {{</ cards >}}
 

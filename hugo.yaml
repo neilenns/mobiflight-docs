@@ -30,6 +30,20 @@ params:
 
 menu:
   main:
-    - name: Discord
+    - name: Donate
       weight: 1
+      pageRef: /donate
+    - name: Search
+      weight: 2
+      params:
+        type: search
+    - name: Discord
+      weight: 3
       url: "https://discord.gg/yUaBqMbz"
+      params:
+        icon: discord
+    - name: GitHub
+      weight: 4
+      url: "https://github.com/mobiflight"
+      params:
+        icon: github
