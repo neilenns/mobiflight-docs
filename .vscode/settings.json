@@ -2,7 +2,8 @@
   "files.exclude": {
     ".hugo_build.lock": true,
     "public/": true,
-    "resources/": true
+    "resources/": true,
+    "design-files": true
   },
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.patterns": {
