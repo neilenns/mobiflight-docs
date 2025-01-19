@@ -18,4 +18,4 @@ LEDs are the most common output device used with MobiFlight. They are used as in
 
 Boards are limited in the number of LEDs they can drive simultaneously due to current restrictions. Each board pin can typically supply or sink a maximum of 20-40 mA, and the total current draw for all pins combined must not exceed the board's rated limit, often around 200-400 mA. Exceeding these limits can cause the board to behave unpredictably.
 
-To control more LEDs from a single board consider using an LED driver chip, which can be connected to MobiFlight as an [output shift register](/devices/output-shift-register).
+To control more LEDs from a single board, consider using an LED driver chip, which can be connected to MobiFlight as an [output shift register](/devices/output-shift-register).

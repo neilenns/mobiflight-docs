@@ -29,21 +29,21 @@ To view the documentation press `F5` and it will automatically build and open in
 
 ### Screenshots
 
-- Must be `.png`.
-- Must be 800px wide.
-- Must be placed in the `assets/screenshots` folder.
-- Must be referenced using the `{{% screenshot %}}` shortcode.
+- Use `.png` format for all screenshots.
+- Set width to 800px.
+- Store in the `assets/screenshots` folder.
+- Reference using the `{{% screenshot %}}` shortcode.
 
 ### Board and device images
 
-- Must be `.png`.
-- Must be 800x600.
-- Must be placed in the `assets/card-images` folder.
-- Must be referenced using the `{{% card %}}` shortcode.
+- Use `.png` format for all board and device images.
+- Set dimensions to 800x600.
+- Store in the `assets/card-images` folder.
+- Reference using the `{{% card %}}` shortcode.
 
 ## Pinout diagrams
 
-- Must be `.svg`.
-- Must be processed using [svgomg](https://svgomg.net/) with the default options plus `Prefer viewBox to width/height` enabled.
-- Must be placed in the page bundle for the associated board and named `pinout.svg`.
-- Must be referenced using the `{{% pinout %}}` shortcode.
+- Use `.svg` format for all pinout diagrams.
+- Process the files using [svgomg](https://svgomg.net/) with the default options plus `Prefer viewBox to width/height` enabled.
+- Store in the page bundle for the associated board and name the file `pinout.svg`.
+- Reference using the `{{% pinout %}}` shortcode.

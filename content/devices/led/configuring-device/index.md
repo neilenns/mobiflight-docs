@@ -16,7 +16,7 @@ Click on the **MobiFlight Modules** button in the main window toolbar.
 
 Click on the board the device is connected to then select **LED / Output** from the **Add device** menu.
 
-{{% screenshot image="modules-dialog/add-device-menu/led.png" alt="Screenshot of the  menu open with the LED / Output item highlighted" %}}
+{{% screenshot image="modules-dialog/add-device-menu/led.png" alt="Screenshot of the menu open with the LED / Output item highlighted" %}}
 
 ### Configure the LED pin
 
