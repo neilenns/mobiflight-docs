@@ -17,22 +17,33 @@ To view the documentation press `F5` and it will automatically build and open in
 
 ## Style guidelines
 
+## General conventions
+
+- Filenames are in lowercase, spaces are replaced with hyphens (-).
+- All Markdown files must pass markdownlint.
+- Unordered lists use hyphens (-).
+- Unordered lists have a period at the end of each sentence.
+- Use GitHub alerts instead of Hextra callout shortcodes.
+- Reference board and device images using cards (see the `boards/` and `devices/` pages for examples).
+- Reference UI elements that users should click or interact with in **bold**.
+
 ### Screenshots
 
-- Must be 800px wide
-- Must be placed in the `assets/screenshots` folder
-- Must be referenced using the `{{% screenshot %}}` shortcode
+- Must be `.png`.
+- Must be 800px wide.
+- Must be placed in the `assets/screenshots` folder.
+- Must be referenced using the `{{% screenshot %}}` shortcode.
 
 ### Board and device images
 
-- Must be 800x600
-- Must be placed in the `assets/card-images` folder
-- Must be referenced using the `{{% card %}}` shortcode
+- Must be `.png`.
+- Must be 800x600.
+- Must be placed in the `assets/card-images` folder.
+- Must be referenced using the `{{% card %}}` shortcode.
 
 ## Pinout diagrams
 
-- Must be `.svg`
-- Must be processed using [svgomg](https://svgomg.net/) with the default options plus `Prefer viewBox to width/height` enabled
-- Must be placed in the page bundle for the associated board and named `pinout.svg`
-- Must be referenced using the `{{% pinout %}}` shortcode
--
+- Must be `.svg`.
+- Must be processed using [svgomg](https://svgomg.net/) with the default options plus `Prefer viewBox to width/height` enabled.
+- Must be placed in the page bundle for the associated board and named `pinout.svg`.
+- Must be referenced using the `{{% pinout %}}` shortcode.
