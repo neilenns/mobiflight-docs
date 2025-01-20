@@ -13,6 +13,13 @@
 		],
 		"description": "Snippet for inserting a schematic screenshot with a title."
 	},
+	"Pinout snippet": {
+		"prefix": "pinout",
+		"body": [
+			"{{< pinout >}}"
+		],
+		"description": "Snippet for inserting a pinout."
+	},
 	"Board snippet": {
 		"prefix": "board",
 		"body": [
