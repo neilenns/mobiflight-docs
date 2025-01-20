@@ -22,6 +22,7 @@ reviews:
           - Device and board intro pages should always have an opening descriptive paragraph before a card with an image of the device or board
           - Require GitHub alerts instead of callout shortcodes
           - "Arduino Pro Micro" and "SparkFun Pro Micro" should always be called "Pro Micro" instead
+          - "Arduino Mega Pro Mini" should always be called "Mega Pro Mini" instead
           - References to click or select an item in the UI should have the UI item in bold
           - Screenshots must use the screenshot shortcode instead of Markdown image and must have a title that ends in a period.
           - Pinout diagrams must use the pinout shortcode instead of Markdown image

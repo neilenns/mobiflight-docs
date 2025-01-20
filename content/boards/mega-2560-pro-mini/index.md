@@ -1,15 +1,15 @@
 ---
-title: Arduino Mega 2560 Pro Mini
-description: Details on MobiFlight support for the Arduino Mega 2560 Pro Mini
+title: Mega 2560 Pro Mini
+description: Details on MobiFlight support for the Mega 2560 Pro Mini
 ---
 
 {{< buy-in-shop url="https://shop.mobiflight.com/product/arduino-mega-2560-pro-mini-usb-c" >}}
 
-The Arduino Mega 2560 Pro Mini offers the same number of IO pins as the [Arduino Mega 2560 Rev3](../arduino-mega-2560) but in a smaller package. If you need a large number of pins this is the recommended board to use.
+The Mega 2560 Pro Mini offers the same number of IO pins as the [Arduino Mega 2560 Rev3](../arduino-mega-2560) but in a smaller package. If you need a large number of pins this is the recommended board to use.
 
 {{< cards >}}
 
-{{< card title="Arduino Mega 2560 Pro Mini" subtitle="ATmega2560 microcontroller" image="card-images/boards/arduino-mega-2560-pro-mini.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Mega 2560 Pro Mini" subtitle="ATmega2560 microcontroller" image="card-images/boards/mega-2560-pro-mini.png" method="Resize" options="600x q80 webp" >}}
 
 {{</ cards >}}
 
