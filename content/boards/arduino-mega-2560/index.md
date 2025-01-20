@@ -8,7 +8,7 @@ The Mega 2560 Rev3 is a classic Arduino board with a large number of IO pins and
 
 {{< cards >}}
 
-{{< card title="Arduino Mega 2560 Rev3" subtitle="ATmega2560 microcontroller" image="card-images/boards/arduino-mega-2560-rev3.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Arduino Mega 2560 Rev3" subtitle="ATmega2560 microcontroller" image="card-images/boards/mega-2560-rev3.png" method="Resize" options="600x q80 webp" >}}
 
 {{</ cards >}}
 
