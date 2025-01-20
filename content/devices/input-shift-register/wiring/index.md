@@ -1,6 +1,6 @@
 ---
 title: Wiring
-description: Wiring LEDs
+description: Wiring 74HC165 input shift registers.
 weight: 10
 prev: /devices/input-shift-register
 ---
