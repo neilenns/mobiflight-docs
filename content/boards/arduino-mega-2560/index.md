@@ -19,12 +19,12 @@ The Mega 2560 Rev3 is a classic Arduino board with a large number of IO pins and
 | Device | Limit | Notes |
 | ------------- | :-----------: | ----------- |
 | [Analog inputs](/devices/potentiometer/) | 16 | Potentiometers or linear hall sensors can be connected. |
-| [Input shift registers](/devices/input-shift-register/) | 6 | Six *chains* of shift registers, 32 bits each (2x16 or 4x8 bit shift registers). |
 | [Buttons](/devices/button-switch/) | 68 | |
 | [Encoders](/devices/encoder/) | 20 | |
+| [Input shift registers](/devices/input-shift-register/) | 6 | Six *chains* of shift registers, 32 bits each (2x16 or 4x8 bit shift registers). |
 | [LCD screens](/devices/lcd-display/) | 2 | |
-| 7-segment displays | 6 | 6 [TM1637](/devices/seven-segment-tm1637/)modules, or 6 chains of [MAX7219](/devices/seven-segment-max7219/) modules, or a mix of both. You need external 5V power supply for more than one. |
 | [LED / Outputs](/devices/led/) | 68 | |
+| 7-segment displays | 6 | 6 [TM1637](/devices/seven-segment-tm1637/)modules, or 6 chains of [MAX7219](/devices/seven-segment-max7219/) modules, or a mix of both. You need external 5V power supply for more than one. |
 | Servos | 12 | |
 
 > [!WARNING]
