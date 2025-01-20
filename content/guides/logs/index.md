@@ -44,7 +44,7 @@ With logging enabled, re-create the issue. Depending on the problem, this may in
 
 ### Copy the logs to the clipboard
 
-After re-creating the issue copy the logs to the clipboard by going to the **Extras** menu and selecting **Copy logs to clipboard**. A success dialog will show after the logs are copied.
+After re-creating the issue, copy the logs to the clipboard by going to the **Extras** menu and selecting **Copy logs to clipboard**. A success dialog will show after the logs are copied.
 
 {{< screenshot image="extras-copy-logs.png" title="Screenshot of the Extras menu with the Copy logs to clipboard menu item selected." >}}
 
