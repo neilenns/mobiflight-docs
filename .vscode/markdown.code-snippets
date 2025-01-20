@@ -1,0 +1,37 @@
+{
+	"Schematic snippet": {
+		"prefix": "schematic",
+		"body": [
+			"{{< schematic image=\"$1\" title=\"$2\" >}}"
+		],
+		"description": "Snippet for inserting a schematic image with a title."
+	},
+	"Screenshot snippet": {
+		"prefix": "screenshot",
+		"body": [
+			"{{< screenshot image=\"$1\" title=\"$2\" >}}"
+		],
+		"description": "Snippet for inserting a schematic screenshot with a title."
+	},
+	"Pinout snippet": {
+		"prefix": "pinout",
+		"body": [
+			"{{< pinout >}}"
+		],
+		"description": "Snippet for inserting a pinout."
+	},
+	"Board snippet": {
+		"prefix": "board",
+		"body": [
+			"{{< card link=\"$1\" title=\"$2\" subtitle=\"$3\" image=\"card-images/boards/$4\" method=\"Resize\" options=\"600x q80 webp\" >}}"
+		],
+		"description": "Snippet for inserting a board card."
+	},
+	"Device snippet": {
+		"prefix": "device",
+		"body": [
+			"{{< card link=\"$1\" title=\"$2\" subtitle=\"$3\" image=\"card-images/devices/$4\" method=\"Resize\" options=\"600x q80 webp\" >}}"
+		],
+		"description": "Snippet for inserting a device card."
+	}
+}
