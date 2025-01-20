@@ -1,5 +1,5 @@
 ---
-title: Adding an the input shift register
+title: Adding the device
 description: Step-by-step guide for configuring a board with an input shift register in MobiFlight.
 weight: 20
 ---
