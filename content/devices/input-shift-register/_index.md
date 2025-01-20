@@ -1,6 +1,7 @@
 ---
 title: Input shift registers
 description: How to use input shift registers with MobiFlight
+next: devices/input-shift-register/wiring/
 ---
 
 {{< cards >}}
