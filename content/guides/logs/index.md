@@ -35,7 +35,7 @@ Click **OK** to close the dialog.
 
 ### Re-create the issue
 
-With logging is enabled, re-create the issue. Depending on the problem, this may include:
+With logging enabled, re-create the issue. Depending on the problem, this may include:
 
 - Closing and running MobiFlight.
 - Attempting to update the board firmware.
