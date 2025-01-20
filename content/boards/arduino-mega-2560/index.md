@@ -42,4 +42,3 @@ The Mega 2560 Rev3 is a classic Arduino board with a large number of IO pins and
 ## Additional resources
 
 - [Official technical documentation](https://docs.arduino.cc/hardware/mega-2560/)
-
