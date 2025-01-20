@@ -1,6 +1,6 @@
 ---
 title: Configuring the output
-description: Configuring an output to use an LED
+description: Step-by-step guide for configuring an output to use an LED in MobiFlight
 weight: 30
 ---
 
