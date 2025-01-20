@@ -4,6 +4,13 @@ description: Configuring a board with an encoder
 weight: 20
 ---
 
+> [!TIP]
+> If the encoder has an integrated button follow the [button guide](/devices/button-switch)
+> to add the button after following this guide to add the encoder.
+>
+> If the encoder is a dual encoder follow this guide twice, once for the inner
+> encoder and a second time for the outer encoder.
+
 {{% steps %}}
 
 ### Open the MobiFlight Modules dialog
