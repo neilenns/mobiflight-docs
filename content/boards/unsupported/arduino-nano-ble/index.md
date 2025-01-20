@@ -4,7 +4,7 @@ description: Details on MobiFlight incompatibility with the Arduino Nano 33 BLE
 ---
 
 > [!IMPORTANT]
-> This board is unsupported. Consider an [Arduino Nano](../../arduino-nano) instead.
+> This board is unsupported. Consider an [Arduino Nano](/boards/arduino-nano) instead.
 
 The Arduino Nano 33 BLE is an Arduino board based on the nRF52840 wireless-enabled microcontroller.
 While it bears the Arduino Nano name and is prominently featured on the Arduino website, the fact

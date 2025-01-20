@@ -4,7 +4,7 @@ description: Details on MobiFlight incompatibility with the Arduino Nano ESP32
 ---
 
 > [!IMPORTANT]
-> This board is unsupported. Consider an [Arduino Nano](../../arduino-nano) instead.
+> This board is unsupported. Consider an [Arduino Nano](/boards/arduino-nano) instead.
 
 The Arduino Nano ESP32 is an Arduino board based on the ESP32 wireless-enabled microcontroller.
 While it bears the Arduino Nano name and is prominently featured on the Arduino website, the fact

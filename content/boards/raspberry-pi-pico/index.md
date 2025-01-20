@@ -1,7 +1,7 @@
 ---
 title: Raspberry Pi Pico 1
 description: Details on MobiFlight support for the Raspberry Pi Pico
-weight: 30
+weight: 100
 ---
 
 The Raspberry Pi Pico 1 is a compact board with a moderate number of IO pins. It is a popular choice in builds where space is at a premium.

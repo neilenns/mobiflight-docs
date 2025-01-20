@@ -4,7 +4,7 @@ description: Details on MobiFlight incompatibility with the Arduino Nano Every
 ---
 
 > [!IMPORTANT]
-> This board is unsupported. Consider an [Arduino Nano](../../arduino-nano) instead.
+> This board is unsupported. Consider an [Arduino Nano](/boards/arduino-nano) instead.
 
 The Arduino Nano Every is an Arduino board based on the ATMega4809 microcontroller.
 While it bears the Arduino Nano name and is prominently featured on the Arduino website as a successor
