@@ -14,7 +14,7 @@ Click on the **MobiFlight Modules** button in the main window toolbar.
 
 ### Add the LED
 
-Click on the board the device is connected to then select **LED / Output** from the **Add device** menu.
+Click on the board the device is connected to, then select **LED / Output** from the **Add device** menu.
 
 {{< screenshot image="add-device-menu.png" title="Screenshot of the menu open with the LED / Output item highlighted." >}}
 
