@@ -44,11 +44,19 @@ To view the documentation press `F5` and it will automatically build and open in
 - Use `.png` format for all board and device images.
 - Set dimensions to 800x600.
 - Store in the `assets/card-images` folder.
-- Reference using the `{{% card %}}` shortcode.
+- Reference using the `{{% card %}}` shortcode, accessible using the VSCode `board` and `device` snippets.
 
 ## Pinout diagrams
 
 - Use `.svg` format for all pinout diagrams.
 - Process the files using [svgomg](https://svgomg.net/) with the default options plus `Prefer viewBox to width/height` enabled.
 - Store in the page bundle for the associated board and name the file `pinout.svg`.
-- Reference using the `{{< pinout >}}` shortcode.
+- Reference using the `{{< pinout >}}` shortcode, accessible using the VSCode snippet `pinout`.
+
+## Schematics
+
+- Use `.svg` format for all pinout diagrams.
+- Turn off the grid so the background is solid.
+- Process the files using [svgomg](https://svgomg.net/) with the default options plus `Prefer viewBox to width/height` enabled.
+- Store in the page bundle for the associated board.
+- Reference using the `{{< schematic >}}` shortcode, accessible using the VSCode snippet `schematic`.

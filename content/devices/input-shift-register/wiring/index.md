@@ -16,7 +16,7 @@ The following components are required to wire an LED:
 
 Connect the 74HC165 to the board and buttons as follows. The resistors are required on every input pin, even if you aren't attaching a button to that pin, to avoid false input events.
 
-{{% schematic image="single-chip.png" title="Schematic for wiring a single 74HC165 chip." %}}
+{{< schematic image="single-chip.png" title="Schematic for wiring a single 74HC165 chip." >}}
 
 While the wiring diagram shows an 8-position DIP switch you can use 8 individual tactile buttons instead.
 
@@ -24,6 +24,6 @@ While the wiring diagram shows an 8-position DIP switch you can use 8 individual
 
 MobiFlight supports up to four 74HC165 chips connected in series. When wiring the chips it is important to wire them so the right most chip in the series is the one connected to the board's data input line. The clock and latch pins are shared across all chips.
 
-{{% schematic image="multiple-chips.png" title="Schematic for wiring four  74HC165 chips in series." %}}
+{{< schematic image="multiple-chips.png" title="Schematic for wiring four  74HC165 chips in series." >}}
 
 (Buttons and pull-up resistors omitted for clarity)
