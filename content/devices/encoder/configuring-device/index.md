@@ -1,6 +1,6 @@
 ---
 title: Configuring the device
-description: Configuring a board with an encoder
+description: Step-by-step guide for configuring a board with an encoder in MobiFlight
 weight: 20
 ---
 
@@ -8,7 +8,7 @@ weight: 20
 > If the encoder has an integrated button follow the [button guide](/devices/button-switch)
 > to add the button after following this guide to add the encoder.
 >
-> If the encoder is a dual encoder follow this guide twice, once for the inner
+> If the encoder is a dual encoder, follow this guide twice: once for the inner
 > encoder and a second time for the outer encoder.
 
 {{% steps %}}
@@ -23,15 +23,15 @@ Click on the **MobiFlight Modules** button in the main window toolbar.
 
 Click on the board the device is connected to then select **Encoder** from the **Add device** menu.
 
-{{% screenshot image="add-device-menu.png" title="Screenshot of the menu open with the Encoder item highlighted." %}}
+{{< screenshot image="add-device-menu.png" title="Screenshot of the menu open with the Encoder item highlighted." >}}
 
 ### Configure the encoder pins
 
-Use the **Pin settings** dropdown to specify the board pins for the left and right pin of the encoder.
+Use the **Pin settings** dropdown to specify the board pins for the left and right pins of the encoder.
 
-Use the **Type** dropdown to specify the type of the encoder.
+Select the **Type** dropdown to specify the type of the encoder.
 
-Use the **Name** field to give the encoder a meaningful name. This name is shown in the output configuration screens when assigning a flight simulator input to the encoder.
+Provide a meaningful name for the encoder in the **Name**. This name is shown in the output configuration screens when assigning the encoder to a flight simulator input.
 
 > [!TIP]
 > The encoder type usually isn't listed on the encoder datasheet.
@@ -39,14 +39,14 @@ Use the **Name** field to give the encoder a meaningful name. This name is shown
 > If the encoder is missing steps when turned edit the device configuration and
 > try the other three types until the encoder accurately responds to each step.
 
-{{% screenshot image="device-configuration.png" title="Screenshot of the settings for an encoder, with pin 2 and 3 selected, type 11 selected, and Encoder as the name." %}}
+{{< screenshot image="device-configuration.png" title="Screenshot of the settings for an encoder, with pin 2 and 3 selected, type 11 selected, and Encoder as the name." >}}
 
 ### Upload the changes to the board
 
 Click the **Upload config** button at the bottom of the **MobiFlight Modules** tab to upload the modified
 configuration to the board.
 
-{{% screenshot image="/upload-config-button.png" title="Screenshot of the MobiFlight Module dialog with the Upload config highlighted." %}}
+{{< screenshot image="/upload-config-button.png" title="Screenshot of the MobiFlight Module dialog with the Upload config highlighted." >}}
 
 ### Close the MobiFlight modules dialog
 

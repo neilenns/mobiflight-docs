@@ -34,7 +34,7 @@ To view the documentation press `F5` and it will automatically build and open in
 - Use `.png` format for all screenshots.
 - Set width to 800px.
 - Store in a `screenshots` folder in the page bundle, or in the `static/screenshots` folder if the screenshot is used across multiple pages.
-- Reference using the `{{% screenshot %}}` shortcode.
+- Reference using the `{{< screenshot >}}` shortcode.
 - The shortcode must have a title specified, and the title must end in a period.
 - Take screenshots using the [Windows Snipping Tool](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b) in `Window` mode, not `Freeform` mode.
 - Clean up the rounded corners so a transparent background shows.
@@ -51,4 +51,4 @@ To view the documentation press `F5` and it will automatically build and open in
 - Use `.svg` format for all pinout diagrams.
 - Process the files using [svgomg](https://svgomg.net/) with the default options plus `Prefer viewBox to width/height` enabled.
 - Store in the page bundle for the associated board and name the file `pinout.svg`.
-- Reference using the `{{% pinout %}}` shortcode.
+- Reference using the `{{< pinout >}}` shortcode.
