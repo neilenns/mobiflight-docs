@@ -1,5 +1,5 @@
 ---
-title: Configuring the device
+title: Adding the device
 description: Step-by-step guide for configuring a board with an LED in MobiFlight.
 weight: 20
 ---

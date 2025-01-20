@@ -5,8 +5,6 @@ weight: 10
 prev: /devices/led
 ---
 
-## Wiring
-
 The following components are required to wire an LED:
 
 - The LED
