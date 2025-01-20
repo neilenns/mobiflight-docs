@@ -13,8 +13,8 @@ The Raspberry Pi Pico 1 is a compact board with a moderate number of IO pins. It
 {{</ cards >}}
 
 > [!WARNING]
-> MobiFlight only supports the Raspberry Pi Pico 1. The newer Pico 2 board, with the RP2350 microcontroller,
-> is not supported.
+> MobiFlight only supports the Raspberry Pi Pico 1. The newer [Pico 2 board](/boards/unsupported/raspberry-pi-pico-2),
+> with the RP2350 microcontroller, is not supported.
 
 ## Specifications
 

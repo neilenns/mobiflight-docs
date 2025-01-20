@@ -4,7 +4,10 @@ description: Details on MobiFlight support for the Arduino Uno
 weight: 100
 ---
 
-The Arduino Uno R3 is an older design that doesn't offer many IO pins and has a large size. Unless you already own one we recommend purchasing a different board, either the [Arduino Mega 2560 Pro Mini](../arduino-mega-2560-pro-mini) if you need a large number of pins or the [Arduino Nano](../arduino-nano) if space is at a premium.
+The Arduino Uno R3 is an older design that doesn't offer many IO pins and has a large size.
+Unless you already own one, we recommend purchasing a different board, either the
+[Mega 2560 Pro Mini](/boards/mega-2560-pro-mini) if you need more IO pins (up to 70) or the
+[Arduino Nano](/boards/arduino-nano) if space is at a premium.
 
 {{< cards >}}
 
