@@ -1,6 +1,6 @@
 ---
 title: Configuring the device
-description: Configuring a board with an LED
+description: Step-by-step guide for configuring a board with an LED in MobiFlight
 weight: 20
 ---
 
@@ -16,22 +16,22 @@ Click on the **MobiFlight Modules** button in the main window toolbar.
 
 Click on the board the device is connected to then select **LED / Output** from the **Add device** menu.
 
-{{% screenshot image="add-device-menu.png" title="Screenshot of the menu open with the LED / Output item highlighted." %}}
+{{< screenshot image="add-device-menu.png" title="Screenshot of the menu open with the LED / Output item highlighted." >}}
 
 ### Configure the LED pin
 
-Use the **Pin settings** dropdown to specify the board pin the LED is connected to. Use the **Name** field to give
-the LED a meaningful name. This name is shown in the output configuration screens when assigning a flight simulator
-value to the LED.
+Use the **Pin settings** dropdown to specify the board pin the LED is connected to.
 
-{{% screenshot image="device-configuration.png" title="Screenshot of the settings for an LED, with pin 2 selected and Output as the name." %}}
+Provide a meaningful name for the LED in the **Name** field. This name is shown in the output configuration screens when assigning a flight simulator value to the LED.
+
+{{< screenshot image="device-configuration.png" title="Screenshot of the settings for an LED, with pin 2 selected and Output as the name." >}}
 
 ### Upload the changes to the board
 
 Click the **Upload config** button at the bottom of the **MobiFlight Modules** tab to upload the modified
 configuration to the board.
 
-{{% screenshot image="/upload-config-button.png" title="Screenshot of the MobiFlight Module dialog with the Upload config highlighted." %}}
+{{< screenshot image="/upload-config-button.png" title="Screenshot of the MobiFlight Module dialog with the Upload config highlighted." >}}
 
 ### Close the MobiFlight modules dialog
 
