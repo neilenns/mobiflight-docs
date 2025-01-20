@@ -25,7 +25,7 @@ Check the **enabled** checkbox in the **Logging** section.
 
 ### Set the log level
 
-In many cases, the default **Info** log level is sufficient for troubleshooting. If the request was for debug, logging change the **Log Level** dropdown to **Debug**.
+In many cases, the default **Info** log level is sufficient for troubleshooting. If the request was for debug logging, change the **Log Level** dropdown to **Debug**.
 
 {{< screenshot image="settings-log-level.png" title="Screenshot of the Settings dialog with the Log Level dropdown open and Info selected." >}}
 
