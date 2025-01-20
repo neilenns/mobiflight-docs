@@ -55,8 +55,9 @@ To view the documentation press `F5` and it will automatically build and open in
 
 ## Schematics
 
-- Use `.svg` format for all pinout diagrams.
-- Turn off the grid so the background is solid.
+- Use `.svg` format for all schematics.
+- Turn off the grid, so the background is solid.
+- Prefer net labels over global labels.
 - Process the files using [svgomg](https://svgomg.net/) with the default options plus `Prefer viewBox to width/height` enabled.
 - Store in the page bundle for the associated board.
 - Reference using the `{{< schematic >}}` shortcode, accessible using the VSCode snippet `schematic`.

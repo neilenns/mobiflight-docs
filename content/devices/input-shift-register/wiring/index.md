@@ -7,10 +7,10 @@ prev: /devices/input-shift-register
 
 The following components are required to wire an LED:
 
-- A 74HC165 chip
-- Eight buttons
-- Eight 10kΩ resistors
-- A 0.1uF capacitor
+- A 74HC165 chip.
+- Eight buttons.
+- Eight 10kΩ resistors.
+- A 0.1uF capacitor.
 
 ## Wiring a single input shift register
 
@@ -18,11 +18,11 @@ Connect the 74HC165 to the board and buttons as follows. The resistors are requi
 
 {{< schematic image="single-chip.png" title="Schematic for wiring a single 74HC165 chip." >}}
 
-While the wiring diagram shows an 8-position DIP switch you can use 8 individual tactile buttons instead.
+While the wiring diagram shows an 8-position DIP switch, you can use 8 individual tactile buttons instead.
 
 ## Wiring multiple shift registers in series
 
-MobiFlight supports up to four 74HC165 chips connected in series. When wiring the chips it is important to wire them so the right most chip in the series is the one connected to the board's data input line. The clock and latch pins are shared across all chips.
+MobiFlight supports up to four 74HC165 chips connected in series. When wiring the chips it is important to wire them with the right most chip in the series one connected to the board's data input line. The clock and latch pins are shared across all chips.
 
 {{< schematic image="multiple-chips.png" title="Schematic for wiring four  74HC165 chips in series." >}}
 

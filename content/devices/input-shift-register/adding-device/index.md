@@ -20,8 +20,7 @@ Click on the board the device is connected to, then select **Input Shift Registe
 
 ### Configure the input shift register
 
-Use the **Latch**, **Clock**, and **Data** dropdowns to specify the board pins used. The pin names can vary depending on the chip used, use the following mapping for
-the most common names:
+Use the **Latch**, **Clock**, and **Data** dropdowns to specify the board pins used. The pin names can vary depending on the chip variant used. Use the following mapping for the most common names:
 
 | MobiFlight Setting | 74HC165 input | 74HC165 pin |
 | ------------------ | ------------- | ----------- |
@@ -42,8 +41,7 @@ Provide a meaningful name for the input shift register in the **Name** field. Th
 
 ### Upload the changes to the board
 
-Click the **Upload config** button at the bottom of the **MobiFlight Modules** tab to upload the modified
-configuration to the board.
+Click the **Upload config** button at the bottom of the **MobiFlight Modules** tab to upload the modified configuration to the board.
 
 {{< screenshot image="/upload-config-button.png" title="Screenshot of the MobiFlight Module dialog with the Upload config highlighted." >}}
 
