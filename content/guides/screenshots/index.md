@@ -1,7 +1,6 @@
 ---
 title: Taking screenshots
 description: How to take screenshots of MobiFlight when requesting support.
-weight: 10
 ---
 
 Good screenshots make it easier for people to answer support questions in [Discord](https://discord.gg/yUaBqMbz). Here are the recommended steps to capture screenshots and share them in a support thread.

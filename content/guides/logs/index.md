@@ -1,7 +1,6 @@
 ---
 title: Sharing logs
 description: How to share logs from MobiFlight when requesting support.
-weight: 10
 ---
 
 MobiFlight logs make it easier for people to answer support questions in [Discord](https://discord.gg/yUaBqMbz). The following steps show how to enable and share logs from MobiFlight.
