@@ -5,7 +5,7 @@ weight: 20
 ---
 
 > [!TIP]
-> If the encoder has an integrated button follow the [button guide](/devices/button-switch)
+> If the encoder has an integrated button, follow the [button guide](/devices/button-switch)
 > to add the button after following this guide to add the encoder.
 >
 > If the encoder is a dual encoder, follow this guide twice: once for the inner
