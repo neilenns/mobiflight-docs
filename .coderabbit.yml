@@ -1,6 +1,15 @@
 language: "en-US"
 reviews:
   path_instructions:
+    - path: "**/*.*"
+      instructions: |
+        Review all files and ensure that:
+          - File and directory names must:
+            - Be in lowercase
+            - Use dashes (-) instead of spaces
+            - Use dashes to separate numbers from words (e.g., page-2-content.md)
+            - Avoid special characters except dashes
+            - Use lowercase file extensions
     - path: "content/**/*.md"
       instructions: |
         Review all markdown files and ensure that:
@@ -9,7 +18,26 @@ reviews:
           - Spelling and grammar is correct.
           - Additional valid words are listed in the workspace settings file in the cSpell.words property.
           - Voltages should be described with periods, e.g. 3.3V instead of 3V3.
-          - "Arduino Pro Micro" and "SparkFun Pro Micro" should always be called "Pro Micro" instead
+          - All leaf pages should be in their own folder as a page bundle.
+          - Device and board intro pages should always have an opening descriptive paragraph before a card with an image of the device or board.
+          - Require GitHub alerts instead of callout shortcodes.
+          - "Arduino Pro Micro" and "SparkFun Pro Micro" should always be called "Pro Micro" instead.
+          - "Arduino Mega 2560 Pro Mini" should always be called "Mega 2560 Pro Mini" instead.
+          - References to click or select an item in the UI should have the UI item in bold.
+          - Screenshots must use the screenshot shortcode instead of Markdown image and must have a title that ends in a period.
+          - Pinout diagrams must use the pinout shortcode instead of Markdown image.
+          - Schematics must use the schematic shortcode instead of Markdown image.
+          - Board and device images must be placed in card shortcodes instead of Markdown image.
+          - Headings are in sentence case.
+          - Links to other documentation pages on the site are absolute, not relative.
+    - path: "**/*.png"
+      instructions: |
+        Review all PNGs that are screenshots and ensure that:
+          - They are 800px wide.
+          - They are stored under the assets/screenshots folder.
+        Review all PNGs that are board or device images and ensure that:
+          - They are 800x600px.
+          - They are stored under the assets/card-images folder.
     - path: "**/*.svg"
       instructions: |
         Review all SVG files and ensure that:

@@ -4,7 +4,7 @@ description: Details on MobiFlight incompatibility with the Arduino Leonardo
 ---
 
 > [!IMPORTANT]
-> This board is unsupported. Consider a [Mega 2560 Pro Mini](../../arduino-mega-2560-pro-mini/) instead.
+> This board is unsupported. Consider a [Mega 2560 Pro Mini](../../mega-2560-pro-mini/) instead.
 
 The Arduino Leonardo is an Arduino board based on the ATmega32U4 microcontroller.
 Despite its physical resemblance to the Arduino Uno, it is more closely related to the [Arduino Micro](../../arduino-micro),

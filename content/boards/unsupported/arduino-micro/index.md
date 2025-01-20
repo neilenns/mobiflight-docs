@@ -4,10 +4,10 @@ description: Details on MobiFlight incompatibility with the Arduino Micro
 ---
 
 > [!IMPORTANT]
-> This board is unsupported. Consider an [Arduino Nano](../../arduino-nano) or [Pro Micro](../../arduino-pro-micro) instead.
+> This board is unsupported. Consider an [Arduino Nano](../../arduino-nano) or [Pro Micro](../../pro-micro) instead.
 
 The Arduino Micro is an Arduino board based on the ATmega32U4 microcontroller.
-While very similar to the [Pro Micro](../../arduino-pro-micro), it is a different board with different
+While very similar to the [Pro Micro](../../pro-micro), it is a different board with different
 features that cause incompatibilities.
 
 {{< cards >}}

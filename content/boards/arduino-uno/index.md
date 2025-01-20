@@ -20,3 +20,7 @@ The Arduino Uno R3 is an older design that doesn't offer many IO pins and has a 
 ## Pinout
 
 {{< pinout >}}
+
+## Additional resources
+
+- [Official technical documentation](https://docs.arduino.cc/hardware/uno-rev3/)

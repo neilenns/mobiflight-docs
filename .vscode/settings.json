@@ -2,7 +2,8 @@
   "files.exclude": {
     ".hugo_build.lock": true,
     "public/": true,
-    "resources/": true
+    "resources/": true,
+    "design-files": true
   },
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.patterns": {
@@ -24,6 +25,7 @@
   "cSpell.words": [
     "Anson",
     "ATIS",
+    "backlighting",
     "callsign",
     "callsigns",
     "datasheet",
@@ -60,6 +62,8 @@
     "SSOP",
     "SSOP24",
     "streamdeck",
+    "svgomg",
+    "Tayda",
     "trackaudio",
     "Unported",
     "vatis",
