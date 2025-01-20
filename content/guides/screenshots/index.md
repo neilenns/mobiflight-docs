@@ -20,7 +20,7 @@ The Windows Snipping Tool is the preferred way to take screenshots. Press **WIN+
 Click and drag the crosshair to draw a rectangle around the portion of the screen to capture.
 
 > [!TIP]
-> If capturing the main MobiFlight window make sure to include the complete window with
+> If capturing the main MobiFlight window, make sure to include the complete window with
 > the title bar at the top and status bar at the bottom.
 
 ### Paste the screenshot in Discord

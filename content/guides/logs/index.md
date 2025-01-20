@@ -25,7 +25,7 @@ Check the **enabled** checkbox in the **Logging** section.
 
 ### Set the log level
 
-In many cases the default **Info** log level is sufficient for troubleshooting. If the request was for debug logging change the **Log Level** dropdown to **Debug**.
+In many cases, the default **Info** log level is sufficient for troubleshooting. If the request was for debug, logging change the **Log Level** dropdown to **Debug**.
 
 {{< screenshot image="settings-log-level.png" title="Screenshot of the Settings dialog with the Log Level dropdown open and Info selected." >}}
 
@@ -35,12 +35,12 @@ Click **OK** to close the dialog.
 
 ### Re-create the issue
 
-With logging is enabled, re-create the issue. Depending on the problem this may include:
+With logging is enabled, re-create the issue. Depending on the problem, this may include:
 
 - Closing and running MobiFlight.
 - Attempting to update the board firmware.
 - Interacting with devices.
-- Triggering events in the the simulator.
+- Triggering events in the simulator.
 
 ### Copy the logs to the clipboard
 
@@ -52,7 +52,7 @@ After re-creating the issue copy the logs to the clipboard by going to the **Ext
 
 Switch to Discord and click in the message box for the support thread, then press **CTRL+V** to paste the logs. Discord will automatically convert the logs to a text attachment.
 
-{{< screenshot image="discord-logs-pasted" title="Screenshot of Discord with the logs pasted as a message.txt attachment." >}}
+{{< screenshot image="discord-logs-pasted.png" title="Screenshot of Discord with the logs pasted as a message.txt attachment." >}}
 
 {{% /steps %}}
 
