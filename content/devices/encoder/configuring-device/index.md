@@ -25,13 +25,13 @@ Click on the board the device is connected to then select **Encoder** from the *
 
 {{< screenshot image="add-device-menu.png" title="Screenshot of the menu open with the Encoder item highlighted." >}}
 
-### Configure the encoder pins
+### Configure the encoder
 
 Use the **Pin settings** dropdown to specify the board pins for the left and right pins of the encoder.
 
 Select the **Type** dropdown to specify the type of the encoder.
 
-Provide a meaningful name for the encoder in the **Name**. This name is shown in the output configuration screens when assigning the encoder to a flight simulator input.
+Provide a meaningful name for the encoder in the **Name**. This name is shown in the input configuration screens when assigning the encoder to a flight simulator input.
 
 > [!TIP]
 > The encoder type usually isn't listed on the encoder datasheet.

@@ -18,7 +18,7 @@ Click on the board the device is connected to then select **LED / Output** from 
 
 {{< screenshot image="add-device-menu.png" title="Screenshot of the menu open with the LED / Output item highlighted." >}}
 
-### Configure the LED pin
+### Configure the LED
 
 Use the **Pin settings** dropdown to specify the board pin the LED is connected to.
 
