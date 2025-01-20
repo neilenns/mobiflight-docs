@@ -24,7 +24,7 @@ Use the **Pin settings** dropdown to specify the board pin the button is connect
 
 Provide a meaningful name for the button in the **Name** field. This name is shown in the input configuration screens when assigning the button to a flight simulator input.
 
-{{< screenshot image="device-configuration.png" title="Screenshot of the settings for an button, with pin 2 selected, and Button as the name." >}}
+{{< screenshot image="device-configuration.png" title="Screenshot of the settings for a button, with pin 2 selected, and Button as the name." >}}
 
 ### Upload the changes to the board
 
