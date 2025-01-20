@@ -1,6 +1,6 @@
 ---
 title: Configuring the device
-description: Step-by-step guide for configuring a board with an LED in MobiFlight
+description: Step-by-step guide for configuring a board with an LED in MobiFlight.
 weight: 20
 ---
 
