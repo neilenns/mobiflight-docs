@@ -1,6 +1,7 @@
 ---
 title: Arduino Nano
 description: Details on MobiFlight support for the Arduino Nano
+weight: 100
 ---
 
 {{< buy-in-shop url="https://shop.mobiflight.com/product/arduino-nano-usb-c" >}}
@@ -9,7 +10,7 @@ The Arduino Nano is a compact board that trades a smaller size for fewer IO pins
 
 {{< cards >}}
 
-{{< card title="Arduino Nano" subtitle="ATmega328P microcontroller" image="card-images/boards/arduino-nano.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Arduino Nano" subtitle="ATmega328P microcontroller" image="card-images/boards/nano.png" method="Resize" options="600x q80 webp" >}}
 
 {{</ cards >}}
 

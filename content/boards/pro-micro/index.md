@@ -1,6 +1,7 @@
 ---
 title: Pro Micro
 description: Details on MobiFlight support for the Pro Micro
+weight: 100
 ---
 
 {{< buy-in-shop url="https://shop.mobiflight.com/product/arduino-pro-micro-usb-c" >}}
