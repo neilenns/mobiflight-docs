@@ -6,7 +6,7 @@ weight: 100
 
 {{< buy-in-shop url="https://shop.mobiflight.com/product/arduino-mega-2560-pro-mini-usb-c" >}}
 
-The Mega 2560 Pro Mini offers the same number of IO pins as the [Arduino Mega 2560 Rev3](../arduino-mega-2560) but in a smaller package. If you need a lot of pins, this is the recommended board to use.
+The Mega 2560 Pro Mini offers the same number of IO pins as the [Arduino Mega 2560 Rev3](/boards/arduino-mega-2560) but in a smaller package. If you need a lot of pins, this is the recommended board to use.
 
 {{< cards >}}
 

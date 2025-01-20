@@ -4,7 +4,7 @@ description: Details on MobiFlight support for the Arduino Mega 2560 Rev3
 weight: 100
 ---
 
-The Mega 2560 Rev3 is a classic Arduino board with a large number of IO pins and relatively low cost. Historically a popular board for MobiFlight projects, the newer [Arduino Mega 2560 Pro Mini](../arduino-mega-2560-pro-mini) is a better option for new projects.
+The Arduino Mega 2560 Rev3 is a classic Arduino board with a large number of IO pins and relatively low cost. Historically a popular board for MobiFlight projects, the newer [Mega 2560 Pro Mini](/boards/mega-2560-pro-mini) is a better option for new projects.
 
 {{< cards >}}
 
@@ -18,7 +18,7 @@ The Mega 2560 Rev3 is a classic Arduino board with a large number of IO pins and
 - 16 analog inputs (can be used as digital inputs).
 
 > [!WARNING]
-> Many lower-cost Arduino Mega 2560 Rev3 boards, particularly when purchased from AliExpress, use the CH340G chip
+> Many lower-cost Mega 2560 Rev3 boards, particularly when purchased from AliExpress, use the CH340G chip
 > for serial communication to the PC. These chips are frequently counterfeit and require
 > [additional steps to make the boards work with MobiFlight](https://www.badcasserole.com/arduino-nano-with-ch340-chips-connection-issues/).
 
