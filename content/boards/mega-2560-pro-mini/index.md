@@ -11,7 +11,7 @@ but in a smaller package. If you need many IO pins, this is the recommended boar
 
 {{< cards >}}
 
-{{< card title="Mega 2560 Pro Mini" subtitle="ATmega2560 microcontroller" image="card-images/boards/mega-2560-pro-mini.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Mega 2560 Pro Mini" subtitle="ATmega2560 microcontroller" image="card-images/boards/mega-2560-pro-mini.png" >}}
 
 {{</ cards >}}
 

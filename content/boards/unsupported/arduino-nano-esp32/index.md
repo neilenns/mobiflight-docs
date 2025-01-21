@@ -13,6 +13,6 @@ MobiFlight firmware.
 
 {{< cards >}}
 
-{{< card title="Arduino Nano ESP32" subtitle="ESP32-S3 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-nano-esp32.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Arduino Nano ESP32" subtitle="ESP32-S3 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-nano-esp32.png" >}}
 
 {{</ cards >}}

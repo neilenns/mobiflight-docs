@@ -11,7 +11,7 @@ Unless you already own one, we recommend purchasing a different board, either th
 
 {{< cards >}}
 
-{{< card title="Arduino Uno" subtitle="ATmega328P microcontroller" image="card-images/boards/arduino-uno.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Arduino Uno" subtitle="ATmega328P microcontroller" image="card-images/boards/arduino-uno.png" >}}
 
 {{</ cards >}}
 

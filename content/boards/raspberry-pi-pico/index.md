@@ -8,7 +8,7 @@ The Raspberry Pi Pico 1 is a compact board with a moderate number of IO pins. It
 
 {{< cards >}}
 
-{{< card title="Raspberry Pi Pico 1" subtitle="RP2040 microcontroller" image="card-images/boards/raspberry-pi-pico.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Raspberry Pi Pico 1" subtitle="RP2040 microcontroller" image="card-images/boards/raspberry-pi-pico.png" >}}
 
 {{</ cards >}}
 

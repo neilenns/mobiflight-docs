@@ -12,7 +12,7 @@ features that cause incompatibilities.
 
 {{< cards >}}
 
-{{< card title="Arduino Micro" subtitle="ATmega32U4 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-micro.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Arduino Micro" subtitle="ATmega32U4 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-micro.png" >}}
 
 {{</ cards >}}
 
