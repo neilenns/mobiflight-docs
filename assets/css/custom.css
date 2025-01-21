@@ -14,3 +14,19 @@
   text-align: center;
   margin-top: 10px;
 }
+
+.mf-darkonly {
+  display: none;
+}
+
+.dark .mf-darkonly {
+  display: block;
+}
+
+.mf-lightonly {
+  display: block;
+}
+
+.dark .mf-lightonly {
+  display: none;
+}
