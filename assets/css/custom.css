@@ -1,4 +1,4 @@
-.buy-in-shop {
+.buy-in-shop-button {
   display: inline-flex; /* Ensures the element wraps tightly around its content */
   width: fit-content; /* Shrinks the element to match the width of the SVG */
 }
