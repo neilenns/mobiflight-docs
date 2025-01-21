@@ -28,9 +28,9 @@ Use the **Latch**, **Clock**, and **Data** dropdowns to specify the board pins u
 
 | MobiFlight setting | 74HC595 output | 74HC595 pin |
 | ------------------ | -------------- | ----------- |
-| Latch              | SH/~LD         | 1           |
-| Clock              | CLK            | 2           |
-| Data               | QH             | 9           |
+| Latch              | SRCLK          | 11          |
+| Clock              | RCLK           | 12          |
+| Data               | SER            | 14          |
 
 {{< /tab >}}
 

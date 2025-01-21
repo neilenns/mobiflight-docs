@@ -8,9 +8,9 @@ prev: /devices/input-shift-register
 The following components are required to wire an LED:
 
 - A 74HC165 chip.
-- Eight buttons.
-- Eight 10kΩ resistors.
-- A 0.1uF capacitor.
+- Buttons or switches.
+- 10kΩ resistors.
+- 0.1uF capacitors.
 
 {{< tabs items="One chip,Four chips in series">}}
 
