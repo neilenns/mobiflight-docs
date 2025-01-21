@@ -1,6 +1,7 @@
 ---
 title: Output shift registers
-description: How to use output shift registers with MobiFlight
+description: How to use output shift registers with MobiFlight.
+next: devices/output-shift-register/wiring
 ---
 
 LEDs are the most common output device when building panels, and it is often the case where the number of LEDs exceed the number of output pins or current available on a board. Output shift registers, in particular LED driver chips, solve this issue. They provide individual control of many LEDs using only three pins on a board. The brightness of all connected LEDs can be controlled by using a fourth board pin.
@@ -14,7 +15,6 @@ There are several output shift registers commonly used in panel builds. One is a
 | 74HC595 | Basic output shift register |
 | DM13A   | LED driver for 16 LEDs      |
 | TLC5917 | LED driver for 8 LEDs       |
-| TLC5940 | LED driver for 16 LEDs      |
 
 > [!TIP]
 > When using a shift register to drive LED output it is best to use a dedicated LED driver chip instead of the basic
@@ -41,10 +41,10 @@ There are many chips that function as an output shift register, including many d
 - TLC5927
 - TLC5928
 - TLC59283 (SSOP24 p0.64)
+- TLC5940
 
 ## Additional resources
 
 - [74HC595 datasheet](https://www.ti.com/lit/gpn/sn74hc595).
 - [DM13A datasheet](https://www.alldatasheet.com/datasheet-pdf/pdf/307093/SITI/DM13A.html).
 - [TLC5917 datasheet](https://www.ti.com/lit/gpn/tlc5917).
-- [TLC5940 datasheet](https://www.ti.com/lit/gpn/tlc5940).
