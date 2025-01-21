@@ -34,7 +34,6 @@ The Pro Micro (16MHz) is a compact board that trades a smaller size for fewer IO
 | [Servo](/devices/servo/)                                 |  8   |                                                                                                                                                                                                               |
 | [Stepper](/devices/stepper-motor)                        |  4   |                                                                                                                                                                                                               |
 
-
 > [!WARNING]
 > Some lower-cost Pro Micro clones, particularly those purchased from AliExpress, are
 > [8MHz variants](/boards/unsupported/pro-micro-8mhz) which are not supported by MobiFlight.
