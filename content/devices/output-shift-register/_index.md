@@ -17,30 +17,30 @@ There are several output shift registers commonly used in panel builds. One is a
 | TLC5917 | LED driver for 8 LEDs       |
 
 > [!TIP]
-> When using a shift register to drive LED output it is best to use a dedicated LED driver chip instead of the basic
+> When using a shift register to drive LED output, it is best to use a dedicated LED driver chip instead of the basic
 > 74HC595 output shift register.
 
 ## Other options
 
 There are many chips that function as an output shift register, including many designed for LED output. The following are usually pin compatible with the [popular options](#popular-options), but check the specific chip's data sheet to confirm.
 
-- DM134/5/6 (SSOP24 p1-p0.64)
-- DM13A (SSOP24 p1-p0.64)
+- DM134/5/6
+- DM13A
 - FD9802
-- MBI5024 (SSOP24 p1-p0.64)
-- MBI5026 (DIP-SOP-SSOP)
-- MBI5041 (SSOP24 p1-p0.64)
+- MBI5024
+- MBI5026
+- MBI5041
 - SCT2026
 - SCT2210
 - STP16CP05
 - TB62701
 - TB62706
 - TB62709
-- TB62747 (SSOP24 p1-p0.64)
-- TC62D748 (SSOP24 p0.64)
+- TB62747
+- TC62D748
 - TLC5927
 - TLC5928
-- TLC59283 (SSOP24 p0.64)
+- TLC59283
 - TLC5940
 
 ## Additional resources
