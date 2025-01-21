@@ -30,7 +30,7 @@
 	"Device snippet": {
 		"prefix": "device",
 		"body": [
-			"{{< card link=\"$1\" title=\"$2\" subtitle=\"$3\" image=\"card-images/devices/$4\" method=\"Resize\" options=\"600x q80 webp\" >}}"
+			"{{< card link=\"$1\" title=\"$2\" subtitle=\"$3\" image=\"card-images/devices/$4\" >}}"
 		],
 		"description": "Snippet for inserting a device card."
 	}
