@@ -45,6 +45,6 @@ There are many chips that function as an output shift register, including many d
 
 ## Additional resources
 
-- [74HC595 datasheet](https://www.ti.com/lit/gpn/sn74hc595).
-- [DM13A datasheet](https://www.alldatasheet.com/datasheet-pdf/pdf/307093/SITI/DM13A.html).
-- [TLC5917 datasheet](https://www.ti.com/lit/gpn/tlc5917).
+- [74HC595 datasheet](https://www.ti.com/lit/gpn/sn74hc595)
+- [DM13A datasheet](https://www.alldatasheet.com/datasheet-pdf/pdf/307093/SITI/DM13A.html)
+- [TLC5917 datasheet](https://www.ti.com/lit/gpn/tlc5917)

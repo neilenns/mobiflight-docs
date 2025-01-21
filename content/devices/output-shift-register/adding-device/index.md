@@ -46,11 +46,11 @@ Use the **Latch**, **Clock**, and **Data** dropdowns to specify the board pins u
 
 {{< tab >}}
 
-| MobiFlight setting | TLC5917 output | TLC5917 pin |
-| ------------------ | -------------- | ----------- |
-| Latch              | LE(ED1)        | 4           |
-| Clock              | CLK            | 3           |
-| Data               | SDI            | 2           |
+| MobiFlight setting | Pin name | Pin number |
+| ------------------ | -------- | ---------- |
+| Latch              | LE(ED1)  | 4          |
+| Clock              | CLK      | 3          |
+| Data               | SDI      | 2          |
 
 {{< /tab >}}
 
