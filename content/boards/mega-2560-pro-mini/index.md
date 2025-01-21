@@ -24,6 +24,9 @@ but in a smaller package. If you need many IO pins, this is the recommended boar
 
 {{< pinout >}}
 
+> [!NOTE]
+> Pins D0 and D1 are not available for use.
+
 ## Additional resources
 
 - [Buy from the MobiFlight shop and help support the project](https://shop.mobiflight.com/product/arduino-mega-2560-pro-mini-usb-c)
