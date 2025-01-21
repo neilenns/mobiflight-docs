@@ -3,9 +3,14 @@
   width: fit-content; /* Shrinks the element to match the width of the SVG */
 }
 
+.schematic-container {
+  background-color: #FFF;
+}
+
 .pinout-container {
   background-color: #FFF;
 }
+
 .hextra-card-tag .dark\:hx-bg-red-900\/30:is(html[class~="dark"] *) {
   background-color: rgb(127 29 29 / 1);
 }
