@@ -26,7 +26,7 @@ Use the **Latch**, **Clock**, and **Data** dropdowns to specify the board pins u
 
 {{< tab >}}
 
-| MobiFlight Setting | 74HC595 output | 74HC595 pin |
+| MobiFlight setting | 74HC595 output | 74HC595 pin |
 | ------------------ | -------------- | ----------- |
 | Latch              | SH/~LD         | 1           |
 | Clock              | CLK            | 2           |
@@ -36,7 +36,7 @@ Use the **Latch**, **Clock**, and **Data** dropdowns to specify the board pins u
 
 {{< tab >}}
 
-| MobiFlight Setting | DM13A output | DM13A pin |
+| MobiFlight setting | DM13A output | DM13A pin |
 | ------------------ | ------------ | --------- |
 | Latch              | LAT          | 4         |
 | Clock              | DCK          | 3         |
@@ -46,7 +46,7 @@ Use the **Latch**, **Clock**, and **Data** dropdowns to specify the board pins u
 
 {{< tab >}}
 
-| MobiFlight Setting | TLC5917 output | TLC5917 pin |
+| MobiFlight setting | TLC5917 output | TLC5917 pin |
 | ------------------ | -------------- | ----------- |
 | Latch              | LE(ED1)        | 4           |
 | Clock              | CLK            | 3           |

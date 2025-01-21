@@ -30,6 +30,7 @@ reviews:
           - Board and device images must be placed in card shortcodes instead of Markdown image.
           - Headings are in sentence case.
           - Links to other documentation pages on the site are absolute, not relative.
+          - Table headers are in sentence case.
     - path: "**/*.png"
       instructions: |
         Review all PNGs that are screenshots and ensure that:
