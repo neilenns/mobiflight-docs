@@ -6,6 +6,13 @@ next: devices/output-shift-register/wiring
 
 LEDs are the most common output device when building panels, and it is often the case where the number of LEDs exceed the number of output pins or current available on a board. Output shift registers, in particular LED driver chips, solve this issue. They provide individual control of many LEDs using only three pins on a board. The brightness of all connected LEDs can be controlled by using a fourth board pin.
 
+{{< cards >}}
+{{< card title="74HC595" subtitle="Basic output shift register" image="card-images/devices/output-shift-register-74hc595.png" >}}
+{{< card title="DM13A" subtitle="LED driver for 16 LEDs" image="card-images/devices/output-shift-register-dm13a.png" >}}
+{{< /cards >}}
+
+MobiFlight supports up to 32 bits of shift registers in a chain (typically four 8-bit or two 16-bit chips), and up to six chains of output shifters can be connected to a single board.
+
 ## Popular options
 
 There are several output shift registers commonly used in panel builds. One is a basic shift register, the rest are specifically designed to manage multiple LEDs.
