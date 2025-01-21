@@ -6,7 +6,7 @@ math: true
 prev: /devices/output-shift-register
 ---
 
-The following components are required to an output shift register or LED driver:
+The following components are required for an output shift register or LED driver:
 
 - The output shift register or LED driver chip.
 - LEDs.
