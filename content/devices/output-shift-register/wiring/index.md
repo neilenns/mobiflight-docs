@@ -6,7 +6,7 @@ math: true
 prev: /devices/output-shift-register
 ---
 
-The following components are required to an output shift register or LED driver:
+The following components are required for an output shift register or LED driver:
 
 - The output shift register or LED driver chip.
 - LEDs.
@@ -26,7 +26,9 @@ Pay close attention to the orientation of the LEDs: the anode (long leg) should 
 {{< /tab >}}
 
 {{< tab >}}
-Pay close attention to the orientation of the LEDs: the anode (long leg) should be connected to +5V and the cathode (short leg) should be connected to the chip. This is the opposite of how LEDs are connected to a 74HC165.
+Connect the DM13A to the board and LEDs as follows.
+
+Pay close attention to the orientation of the LEDs: the anode (long leg) should be connected to +5V and the cathode (short leg) should be connected to the chip. This is the opposite of how LEDs are connected to a 74HC595.
 
 {{< schematic image="dm13a.svg" title="Schematic for wiring a single DM13A chip." >}}
 
