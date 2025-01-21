@@ -30,7 +30,7 @@ To view the documentation press `F5` and it will automatically build and open in
 - Headings are in sentence case.
 - Table headers are in sentence case.
 - Page descriptions are in sentence case and end in a period.
-- Page titles are in sentence case and do not end a period.
+- Page titles are in sentence case and do not end in a period.
 
 ### Screenshots
 
