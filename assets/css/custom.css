@@ -15,18 +15,29 @@
   margin-top: 10px;
 }
 
-.mf-darkonly {
-  display: none;
+.buy-button-container {
+  display: grid;
 }
 
-.dark .mf-darkonly {
-  display: block;
+.buy-button-container img {
+  grid-area: 1 / 1;
+  transition: opacity 0.3s ease;
 }
 
+/* Light mode image */
 .mf-lightonly {
-  display: block;
+  opacity: 1;
 }
 
 .dark .mf-lightonly {
-  display: none;
+  opacity: 0;
+}
+
+/* Dark mode image */
+.mf-darkonly {
+  opacity: 0;
+}
+
+.dark .mf-darkonly {
+  opacity: 1;
 }
