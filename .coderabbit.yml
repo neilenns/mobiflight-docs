@@ -1,5 +1,7 @@
 language: "en-US"
 reviews:
+  collapse_walkthrough: true
+  sequence_diagrams: false
   path_instructions:
     - path: "**/*.*"
       instructions: |
@@ -30,6 +32,10 @@ reviews:
           - Board and device images must be placed in card shortcodes instead of Markdown image.
           - Headings are in sentence case.
           - Links to other documentation pages on the site are absolute, not relative.
+          - Table headers are in sentence case.
+          - Ohms should use the Ω symbol.
+          - Page descriptions are in sentence case and must end in a period.
+          - Page titles are in sentence case and do not end in a period.
     - path: "**/*.png"
       instructions: |
         Review all PNGs that are screenshots and ensure that:

@@ -18,4 +18,4 @@ The chip is available anywhere you buy electronics, including [Amazon](https://w
 
 ## Additional resources
 
-- [74HC165 datasheet](https://www.ti.com/lit/ds/symlink/sn74hc165.pdf).
+- [74HC165 datasheet](https://www.ti.com/lit/ds/symlink/sn74hc165.pdf)
