@@ -1,6 +1,6 @@
 ---
 title: Wiring
-description: Wiring output-shift-registers
+description: Step-by-step instructions for wiring LEDs to output shift registers and LED driver chips.
 weight: 10
 math: true
 prev: /devices/output-shift-register
