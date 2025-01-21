@@ -22,11 +22,11 @@ Click on the board the device is connected to, then select **Input Shift Registe
 
 Use the **Latch**, **Clock**, and **Data** dropdowns to specify the board pins used. The pin names can vary depending on the chip variant used. Use the following mapping for the most common names:
 
-| MobiFlight setting | 74HC165 input | 74HC165 pin |
-| ------------------ | ------------- | ----------- |
-| Latch              | SH/~LD        | 1           |
-| Clock              | CLK           | 2           |
-| Data               | QH            | 9           |
+| MobiFlight setting | Pin name | Pin number |
+| ------------------ | -------- | ---------- |
+| Latch              | SH/~LD   | 1          |
+| Clock              | CLK      | 2          |
+| Data               | QH       | 9          |
 
 Specify the number of connected chips using the **# of 8 bit registers** dropdown.
 

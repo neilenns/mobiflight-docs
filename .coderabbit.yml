@@ -31,6 +31,7 @@ reviews:
           - Headings are in sentence case.
           - Links to other documentation pages on the site are absolute, not relative.
           - Table headers are in sentence case.
+          - Ohms should use the Ω symbol.
     - path: "**/*.png"
       instructions: |
         Review all PNGs that are screenshots and ensure that:

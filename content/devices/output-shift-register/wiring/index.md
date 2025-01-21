@@ -2,6 +2,7 @@
 title: Wiring
 description: Wiring output-shift-registers
 weight: 10
+math: true
 prev: /devices/output-shift-register
 ---
 
@@ -33,7 +34,7 @@ Pay close attention to the orientation of the LEDs: the anode (long leg) should 
 
 {{< schematic image="74hc595.svg" title="Schematic for wiring a single 74HC595 chip." >}}
 
-The value of R<sub>ext</sub> determines the amount of current for the LEDs.
+The value of $R_{\text{ext}}$ determines the amount of current for the LEDs. A 5kΩ resistor results in 12mA per LED, a good brightness level for most situations.
 {{< /tab >}}
 
 {{< /tabs>}}

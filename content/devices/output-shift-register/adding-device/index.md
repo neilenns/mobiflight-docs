@@ -26,21 +26,21 @@ Use the **Latch**, **Clock**, and **Data** dropdowns to specify the board pins u
 
 {{< tab >}}
 
-| MobiFlight setting | 74HC595 output | 74HC595 pin |
-| ------------------ | -------------- | ----------- |
-| Latch              | SRCLK          | 11          |
-| Clock              | RCLK           | 12          |
-| Data               | SER            | 14          |
+| MobiFlight setting | Pin name | Pin number |
+| ------------------ | -------- | ---------- |
+| Latch              | SRCLK    | 11         |
+| Clock              | RCLK     | 12         |
+| Data               | SER      | 14         |
 
 {{< /tab >}}
 
 {{< tab >}}
 
-| MobiFlight setting | DM13A output | DM13A pin |
-| ------------------ | ------------ | --------- |
-| Latch              | LAT          | 4         |
-| Clock              | DCK          | 3         |
-| Data               | DAI          | 2         |
+| MobiFlight setting | Pin name | Pin number |
+| ------------------ | -------- | ---------- |
+| Latch              | LAT      | 4          |
+| Clock              | DCK      | 3          |
+| Data               | DAI      | 2          |
 
 {{< /tab >}}
 
