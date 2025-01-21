@@ -25,7 +25,7 @@ but in a smaller package. If you need many IO pins, this is the recommended boar
 {{< pinout >}}
 
 > [!NOTE]
-> Pins D0 and D1 are not available for use.
+> Pins D0 and D1 are not available for use as they are reserved for USB serial communication.
 
 ## Additional resources
 
