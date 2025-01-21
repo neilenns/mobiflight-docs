@@ -19,3 +19,35 @@
   text-align: center;
   margin-top: 10px;
 }
+
+.mf-themed-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
+  width: fit-content;
+}
+
+.mf-themed-container img {
+  grid-area: 1 / 1;
+  transition: opacity 0.3s ease;
+  position: relative;
+  z-index: 1;
+}
+
+/* Light mode image */
+.mf-light-only {
+  opacity: 1;
+}
+
+.dark .mf-light-only {
+  opacity: 0;
+}
+
+/* Dark mode image */
+.mf-dark-only {
+  opacity: 0;
+}
+
+.dark .mf-dark-only {
+  opacity: 1;
+}
