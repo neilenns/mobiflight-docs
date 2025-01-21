@@ -15,8 +15,8 @@ like MobiFlight.
 
 {{< cards >}}
 
-{{< card title="Arduino Uno R4 Minima" subtitle="Renesas RA4M1 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-uno-r4-minima.png" method="Resize" options="600x q80 webp" >}}
-{{< card title="Arduino Uno R4 Wi-Fi" subtitle="Renesas RA4M1 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-uno-r4-wifi.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Arduino Uno R4 Minima" subtitle="Renesas RA4M1 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-uno-r4-minima.png" >}}
+{{< card title="Arduino Uno R4 Wi-Fi" subtitle="Renesas RA4M1 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-uno-r4-wifi.png" >}}
 
 {{</ cards >}}
 

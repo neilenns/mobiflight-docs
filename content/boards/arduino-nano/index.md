@@ -10,7 +10,7 @@ The Arduino Nano is a compact board that trades a smaller size for fewer IO pins
 
 {{< cards >}}
 
-{{< card title="Arduino Nano" subtitle="ATmega328P microcontroller" image="card-images/boards/nano.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Arduino Nano" subtitle="ATmega328P microcontroller" image="card-images/boards/nano.png" >}}
 
 {{</ cards >}}
 

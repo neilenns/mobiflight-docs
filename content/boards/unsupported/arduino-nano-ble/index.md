@@ -13,6 +13,6 @@ MobiFlight firmware.
 
 {{< cards >}}
 
-{{< card title="Arduino Nano 33 BLE" subtitle="nRF52840 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-nano-ble.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Arduino Nano 33 BLE" subtitle="nRF52840 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-nano-ble.png" >}}
 
 {{</ cards >}}

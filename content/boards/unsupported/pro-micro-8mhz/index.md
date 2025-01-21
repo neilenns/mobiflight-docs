@@ -14,7 +14,7 @@ are always the 16 MHz version.
 
 {{< cards >}}
 
-{{< card title="Pro Micro (8 MHz)" subtitle="ATmega32U4 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/pro-micro-8.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Pro Micro (8 MHz)" subtitle="ATmega32U4 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/pro-micro-8.png" >}}
 
 {{</ cards >}}
 

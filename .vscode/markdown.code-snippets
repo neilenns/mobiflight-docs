@@ -23,7 +23,7 @@
 	"Board snippet": {
 		"prefix": "board",
 		"body": [
-			"{{< card link=\"$1\" title=\"$2\" subtitle=\"$3\" image=\"card-images/boards/$4\" method=\"Resize\" options=\"600x q80 webp\" >}}"
+			"{{< card link=\"$1\" title=\"$2\" subtitle=\"$3\" image=\"card-images/boards/$4\" >}}"
 		],
 		"description": "Snippet for inserting a board card."
 	},

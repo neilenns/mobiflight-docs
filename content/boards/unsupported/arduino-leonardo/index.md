@@ -12,7 +12,7 @@ another unsupported board.
 
 {{< cards >}}
 
-{{< card title="Arduino Leonardo" subtitle="ATmega32U4 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-leonardo.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Arduino Leonardo" subtitle="ATmega32U4 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/arduino-leonardo.png" >}}
 
 {{</ cards >}}
 

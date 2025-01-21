@@ -15,6 +15,6 @@ Firmware for the Raspberry Pi Pico 1 is incompatible because of the difference i
 
 {{< cards >}}
 
-{{< card title="Raspberry Pi Pico 2" subtitle="RP2350 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/raspberry-pi-pico2.png" method="Resize" options="600x q80 webp" >}}
+{{< card title="Raspberry Pi Pico 2" subtitle="RP2350 microcontroller" tag="Unsupported" tagType="error" image="card-images/boards/raspberry-pi-pico2.png" >}}
 
 {{</ cards >}}
