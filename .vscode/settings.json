@@ -3,12 +3,13 @@
     ".hugo_build.lock": true,
     "public/": true,
     "resources/": true,
-    "design-files": false
+    "design-files": true,
+    "package*.json": true
   },
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.patterns": {
     ".gitignore": ".gitattributes",
-    "hugo.yaml": ".markdownlint.json, go.mod, go.sum, .coderabbit.yml",
+    "hugo.yaml": ".markdownlint.json, go.mod, go.sum, .coderabbit.yml, .prettierrc.json, package.json",
     "eslint.config.js": ".markdownlint.jsonc",
     "README.md": "DEVELOPMENT.md"
   },
