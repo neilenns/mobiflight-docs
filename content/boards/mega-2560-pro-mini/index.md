@@ -2,6 +2,8 @@
 title: Mega 2560 Pro Mini
 description: Details on MobiFlight support for the Mega 2560 Pro Mini
 weight: 100
+date: 2025-01-22T12:28:30.287Z
+preview: /android-chrome-512x512.png
 ---
 
 {{< buy-in-shop url="https://shop.mobiflight.com/product/arduino-mega-2560-pro-mini-usb-c" >}}
