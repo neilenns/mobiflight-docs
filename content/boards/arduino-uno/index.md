@@ -24,6 +24,9 @@ Unless you already own one, we recommend purchasing a different board, either th
 
 {{< pinout >}}
 
+> [!NOTE]
+> Pins D0 and D1 are not available for use, as they are reserved for USB serial communication.
+
 ## Additional resources
 
 - [Official technical documentation](https://docs.arduino.cc/hardware/uno-rev3/)

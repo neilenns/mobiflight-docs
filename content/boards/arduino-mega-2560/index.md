@@ -41,6 +41,9 @@ While it has historically been a popular board for MobiFlight projects, the newe
 
 {{< pinout >}}
 
+> [!NOTE]
+> Pins D0 and D1 are not available for use, as they are reserved for USB serial communication.
+
 ## Additional resources
 
 - [Official technical documentation](https://docs.arduino.cc/hardware/mega-2560/)

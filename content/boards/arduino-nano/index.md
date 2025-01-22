@@ -30,6 +30,9 @@ The Arduino Nano is a compact board that trades a smaller size for fewer IO pins
 
 {{< pinout >}}
 
+> [!NOTE]
+> Pins D0 and D1 are not available for use, as they are reserved for USB serial communication.
+
 ## Additional resources
 
 - [Buy from the MobiFlight shop and help support the project](https://shop.mobiflight.com/product/arduino-nano-usb-c)
