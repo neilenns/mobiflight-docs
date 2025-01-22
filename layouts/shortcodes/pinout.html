@@ -1,10 +1,15 @@
 {{ with $.Page.Resources.Get "pinout.svg" }}
 <div class="pinout-container">
-  <a href="{{ .RelPermalink }}" data-lightbox="{{ $.Page.Title }}" data-title="{{ $.Page.Title }} pinout diagram">
+  <a
+    href="{{ .RelPermalink }}"
+    data-lightbox="{{ $.Page.Title }}"
+    data-title="{{ $.Page.Title }} pinout diagram"
+  >
     <img
       src="{{ .RelPermalink }}"
       alt="{{ $.Page.Title }} pinout diagram"
       title="{{ $.Page.Title }} pinout diagram"
     />
+  </a>
 </div>
 {{ end }}
