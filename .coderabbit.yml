@@ -36,6 +36,8 @@ reviews:
           - Ohms should use the Ω symbol.
           - Page descriptions are in sentence case and must end in a period.
           - Page titles are in sentence case and do not end in a period.
+          - uF should use the µ symbol (µF).
+          - All files under the boards and devices folders should have an ogimage specified in the front matter.
     - path: "**/*.png"
       instructions: |
         Review all PNGs that are screenshots and ensure that:

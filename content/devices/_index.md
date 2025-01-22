@@ -1,6 +1,7 @@
 ---
 title: Devices
-description: Details on supported devices and how to connect to MobiFlight
+description: Details on supported devices and how to use them with MobiFlight.
+ogimage: card-images/devices/buttons-switches.png
 toc: false
 weight: 30
 cascade:
@@ -26,7 +27,7 @@ MobiFlight supports a wide range of different hardware components when connected
 {{< buy-in-shop url="https://shop.mobiflight.com/category/output-devices" >}}
 
 {{< cards >}}
-{{< card link="lcd-display" title="LCD displays" image="card-images/devices/lcd-display.png" >}}
+{{< card link="lcd" title="LCDs" image="card-images/devices/lcd.png" >}}
 {{< card link="led" title="LEDs" image="card-images/devices/led.png" >}}
 {{< card link="servo" title="Servos" image="card-images/devices/servo.png" >}}
 {{< card link="seven-segment-tm1637" title="7-segment displays" subtitle="Using the TM1637 driver" image="card-images/devices/seven-segment-tm1637.png" >}}

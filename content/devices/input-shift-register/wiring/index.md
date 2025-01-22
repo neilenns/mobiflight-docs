@@ -1,6 +1,7 @@
 ---
 title: Wiring
-description: Wiring 74HC165 input shift registers.
+description: Step-by-step guide for wiring buttons and switches to input shift registers.
+ogimage: card-images/devices/input-shift-register.png
 weight: 10
 prev: /devices/input-shift-register
 ---
@@ -10,7 +11,7 @@ The following components are required to wire an LED:
 - A 74HC165 chip.
 - Buttons or switches.
 - 10kΩ resistors.
-- 0.1uF capacitors.
+- 0.1µF capacitors.
 
 {{< tabs items="Single 74HC165 DIP-16,Four 74HC165 DIP-16 in series">}}
 

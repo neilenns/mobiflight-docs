@@ -1,13 +1,14 @@
 ---
 title: LEDs
-description: LEDs for MobiFlight output
+description: How to use LEDs with MobiFlight.
+ogimage: card-images/devices/led.png
 next: devices/led/wiring/
 ---
 
 LEDs are the most common output device used with MobiFlight. They are used as indicators and backlighting, and are a core component of every build.
 
 {{< cards >}}
-{{< card link="led" title="LEDs" image="card-images/devices/led.png" >}}
+{{< card title="LEDs" image="card-images/devices/led.png" >}}
 {{</ cards >}}
 
 ## Popular options

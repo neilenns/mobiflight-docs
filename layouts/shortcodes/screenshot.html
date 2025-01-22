@@ -1,15 +1,14 @@
 {{- $title := .Get "title" -}}
 {{- $image := .Get "image" -}}
-
 <div class="screenshot-container">
-{{- if hasPrefix $image "/" -}}
-  {{- $image := printf "/screenshots/%s" $image -}}
-  <img class="screenshot" src="{{ $image }}" alt="{{ $title }}" />
-{{ else }}
-  {{- $image := printf "screenshots/%s" $image -}}
-  {{- with .Page.Resources.Get $image -}}
-    {{- $image := .RelPermalink }}
+  {{- if hasPrefix $image "/" -}}
+    {{- $image := printf "/screenshots/%s" $image -}}
     <img class="screenshot" src="{{ $image }}" alt="{{ $title }}" />
+  {{ else }}
+    {{- $image := printf "screenshots/%s" $image -}}
+    {{- with .Page.Resources.Get $image -}}
+      {{- $image := .RelPermalink }}
+      <img class="screenshot" src="{{ $image }}" alt="{{ $title }}" />
+    {{ end }}
   {{ end }}
-{{ end }}
-</div>  
+</div>
