@@ -14,6 +14,14 @@ The Pro Micro (16MHz) is a compact board that trades a smaller size for fewer IO
 
 {{</ cards >}}
 
+> [!WARNING]
+> Some lower-cost Pro Micro clones, particularly those purchased from AliExpress, are
+> [8MHz variants](/boards/unsupported/pro-micro-8mhz) which are not supported by MobiFlight.
+> Always check the product listing carefully to ensure
+> you are ordering the 16MHz version. Purchasing a Pro Micro
+> [from the MobiFlight Shop](https://shop.mobiflight.com/product/arduino-pro-micro-usb-c) ensures
+> you will get a board running at 16Mhz.
+
 ## Specifications
 
 - 12 digital IO pins, 5 with PWM support.
@@ -32,14 +40,6 @@ The Pro Micro (16MHz) is a compact board that trades a smaller size for fewer IO
 | [Output shift register](/devices/output-shift-register/) |   6   | Six _chains_ of shift registers, 32 bits each (2x16 or 4x8 bit shift registers).                                                         |
 | [Servo](/devices/servo/)                                 |  8   |                                                                                                                                           |
 | [Stepper](/devices/stepper-motor)                        |  4   |                                                                                                                                           |
-
-> [!WARNING]
-> Some lower-cost Pro Micro clones, particularly those purchased from AliExpress, are
-> [8MHz variants](/boards/unsupported/pro-micro-8mhz) which are not supported by MobiFlight.
-> Always check the product listing carefully to ensure
-> you are ordering the 16MHz version. Purchasing a Pro Micro
-> [from the MobiFlight Shop](https://shop.mobiflight.com/product/arduino-pro-micro-usb-c) ensures
-> you will get a board running at 16Mhz.
 
 ## Pinout
 
