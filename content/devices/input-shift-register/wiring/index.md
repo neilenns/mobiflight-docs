@@ -11,7 +11,7 @@ The following components are required to wire an LED:
 - A 74HC165 chip.
 - Buttons or switches.
 - 10kΩ resistors.
-- 0.1uF capacitors.
+- 0.1µF capacitors.
 
 {{< tabs items="Single 74HC165 DIP-16,Four 74HC165 DIP-16 in series">}}
 
