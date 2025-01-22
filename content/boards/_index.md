@@ -30,7 +30,7 @@ These boards are all widely available, inexpensive, and are popular with MobiFli
 
 ## Other supported boards
 
-These boards are supported but are older designs. If you already own one they work fine. If you are
+These boards are supported but are older designs. If you already own one, they work fine. If you are
 purchasing a new board buy a [recommended board](/boards/recommended) instead.
 
 {{< cards >}}
