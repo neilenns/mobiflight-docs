@@ -1,6 +1,6 @@
 ---
-title: LCD displays
-description: How to use LCD displays with MobiFlight.
+title: LCDs
+description: How to use LCDs with MobiFlight.
 ogimage: card-images/devices/lcd-display.png
 ---
 
