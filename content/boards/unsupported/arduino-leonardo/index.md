@@ -1,6 +1,7 @@
 ---
 title: Arduino Leonardo
-description: Details on MobiFlight incompatibility with the Arduino Leonardo
+description: Details on MobiFlight incompatibility with the Arduino Leonardo.
+og_image: card-images/boards/arduino-leonardo.png
 ---
 
 > [!IMPORTANT]

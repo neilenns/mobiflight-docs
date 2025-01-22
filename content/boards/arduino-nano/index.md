@@ -1,6 +1,7 @@
 ---
 title: Arduino Nano
-description: Details on MobiFlight support for the Arduino Nano
+description: Details on MobiFlight support for the Arduino Nano.
+og_image: card-images/boards/nano.png
 weight: 100
 ---
 
