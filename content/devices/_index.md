@@ -14,7 +14,7 @@ MobiFlight supports a wide range of different hardware components when connected
 {{< buy-in-shop url="https://shop.mobiflight.com/category/input-devices" >}}
 
 {{< cards >}}
-{{< card link="button-switch" title="Buttons and switches" image="card-images/devices/buttons-switches.png" >}}
+{{< card link="button-switch" title="Buttons and switches" image="card-images/devices/switch.png" >}}
 {{< card link="encoder" title="Encoders" image="card-images/devices/encoder.png" >}}
 {{< card link="input-shift-register" title="Input shift registers" subtitle="74HC165 and similar ICs" image="card-images/devices/input-shift-register.png" >}}
 {{< card link="multiplexer" title="Multiplexers" image="card-images/devices/multiplexer.png" >}}

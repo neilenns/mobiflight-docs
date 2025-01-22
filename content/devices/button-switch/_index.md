@@ -5,13 +5,13 @@ description: Buttons and switches for MobiFlight input
 
 {{< buy-in-shop url="https://shop.mobiflight.com/product/switch-12mm-panel-mount" >}}
 
-Buttons and switches are the most common hardware used with MobiFlight, and come in many forms:
+Buttons and switches are the most common input hardware used with MobiFlight.
 
-- Push buttons
-- Tactile switches
-- Micro switches
-- Toggle switches
-- Kill switches
+{{< cards >}}
+
+{{< card title="Tactile buttons" image="card-images/devices/tactile-buttons.png" >}}
+{{< card title="ON-ON switch" image="card-images/devices/switch.png" >}}
+{{< /cards >}}
 
 ## Popular options
 
