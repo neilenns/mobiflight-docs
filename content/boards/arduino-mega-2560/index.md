@@ -48,3 +48,4 @@ While it has historically been a popular board for MobiFlight projects, the newe
 ## Additional resources
 
 - [Official technical documentation](https://docs.arduino.cc/hardware/mega-2560/)
+- [Pinout diagram (PDF)](pinout.pdf)
