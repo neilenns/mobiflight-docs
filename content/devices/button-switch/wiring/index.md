@@ -1,6 +1,9 @@
 ---
 title: Wiring
-description: Wiring buttons and switches
+description: Step-by-step guide to wiring buttons and switches.
+ogimage: card-images/devices/switch.png
+weight: 10
+prev: /devices/button-switch
 ---
 
 ## Two position switches
