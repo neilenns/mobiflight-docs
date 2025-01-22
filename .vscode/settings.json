@@ -9,7 +9,7 @@
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.patterns": {
     ".gitignore": ".gitattributes",
-    "hugo.yaml": ".markdownlint.json, go.mod, go.sum, .coderabbit.yml, .prettierrc.json, package.json",
+    "hugo.yaml": ".markdownlint.json, go.mod, go.sum, .coderabbit.yml",
     "eslint.config.js": ".markdownlint.jsonc",
     "README.md": "DEVELOPMENT.md"
   },
