@@ -1,18 +1,16 @@
 ---
-title: Mega 2560 Pro Mini
-description: Details on MobiFlight support for the Mega 2560 Pro Mini.
-ogimage: card-images/boards/mega-2560-pro-mini.png
-weight: 100
+title: Arduino Mega 2560 Rev3
+description: Details on MobiFlight support for the Arduino Mega 2560 Rev3.
+ogimage: card-images/boards/mega-2560-rev3.png
+weight: 10
 ---
 
-{{< buy-in-shop url="https://shop.mobiflight.com/product/arduino-mega-2560-pro-mini-usb-c" >}}
-
-The Mega 2560 Pro Mini offers the same 70 IO pins as the [Arduino Mega 2560 Rev3](/boards/arduino-mega-2560),
-but in a smaller package. If you need many IO pins, this is the recommended board to use.
+The Arduino Mega 2560 Rev3 is a classic Arduino board with 70 IO pins and a relatively low cost.
+While it has historically been a popular board for MobiFlight projects, the newer [Mega 2560 Pro Mini](/boards/mega-2560-pro-mini) is a better option for new projects.
 
 {{< cards >}}
 
-{{< card title="Mega 2560 Pro Mini" subtitle="ATmega2560 microcontroller" image="card-images/boards/mega-2560-pro-mini.png" >}}
+{{< card title="Arduino Mega 2560 Rev3" subtitle="ATmega2560 microcontroller" image="card-images/boards/mega-2560-rev3.png" >}}
 
 {{</ cards >}}
 
@@ -35,6 +33,11 @@ but in a smaller package. If you need many IO pins, this is the recommended boar
 | [Servo](/devices/servo/)                                 |  12   |                                                                                                                                                                                                               |
 | [Stepper](/devices/stepper-motor)                        |  10   |                                                                                                                                                                                                               |
 
+> [!WARNING]
+> Many lower-cost Mega 2560 Rev3 boards, particularly when purchased from AliExpress, use the CH340G chip
+> for serial communication to the PC. These chips are frequently counterfeit and require
+> [additional steps to make the boards work with MobiFlight](https://www.badcasserole.com/arduino-nano-with-ch340-chips-connection-issues/).
+
 ## Pinout
 
 {{< pinout >}}
@@ -44,7 +47,5 @@ but in a smaller package. If you need many IO pins, this is the recommended boar
 
 ## Additional resources
 
-- [Buy from the MobiFlight shop and help support the project](https://shop.mobiflight.com/product/arduino-mega-2560-pro-mini-usb-c)
-- [3D model](https://grabcad.com/library/arduino-mega-2560-pro-3)
-- [Datasheet](https://www.enmindustry.de/WebRoot/Store31/Shops/88169453/5FFE/0DC7/1617/A559/78B1/0A0C/6D12/6D9F/Mega2650PRO-Datasheet.pdf)
+- [Official technical documentation](https://docs.arduino.cc/hardware/mega-2560/)
 - [Pinout diagram (PDF)](pinout.pdf)

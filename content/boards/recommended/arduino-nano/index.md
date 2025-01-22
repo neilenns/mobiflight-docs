@@ -2,7 +2,7 @@
 title: Arduino Nano
 description: Details on MobiFlight support for the Arduino Nano.
 ogimage: card-images/boards/nano.png
-weight: 100
+weight: 20
 ---
 
 {{< buy-in-shop url="https://shop.mobiflight.com/product/arduino-nano-usb-c" >}}
