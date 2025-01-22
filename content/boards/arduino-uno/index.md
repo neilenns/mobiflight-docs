@@ -31,3 +31,4 @@ Unless you already own one, we recommend purchasing a different board, either th
 ## Additional resources
 
 - [Official technical documentation](https://docs.arduino.cc/hardware/uno-rev3/)
+- [Pinout diagram (PDF)](pinout.pdf)
