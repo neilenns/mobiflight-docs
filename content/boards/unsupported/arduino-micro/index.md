@@ -1,7 +1,7 @@
 ---
 title: Arduino Micro
 description: Details on MobiFlight incompatibility with the Arduino Micro.
-og-image: card-images/boards/arduino-micro.png
+ogimage: card-images/boards/arduino-micro.png
 ---
 
 > [!IMPORTANT]

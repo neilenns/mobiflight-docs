@@ -1,7 +1,7 @@
 ---
 title: Pro Micro
 description: Details on MobiFlight support for the Pro Micro.
-og-image: card-images/boards/pro-micro.png
+ogimage: card-images/boards/pro-micro.png
 weight: 100
 ---
 

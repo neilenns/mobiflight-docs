@@ -1,7 +1,7 @@
 ---
 title: Wiring
 description: Step-by-step guide to wiring LEDs.
-og-image: card-images/devices/led.png
+ogimage: card-images/devices/led.png
 weight: 10
 prev: /devices/led
 ---

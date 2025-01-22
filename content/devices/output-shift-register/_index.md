@@ -1,7 +1,7 @@
 ---
 title: Output shift registers
 description: How to use output shift registers with MobiFlight.
-og-image: card-images/devices/output-shift-register.png
+ogimage: card-images/devices/output-shift-register.png
 next: devices/output-shift-register/wiring
 ---
 
