@@ -12,7 +12,7 @@ MobiFlight supports a wide range of different boards as the foundation for conne
 
 > [!WARNING]
 > Many boards have similar sounding names. Only the ones listed below are supported. See the
-> [unsupported boards](#unsupported-boards) section for a list of boards that are often purchased by accident
+> [unsupported boards](/boards/unsupported) section for a list of boards that are often purchased by accident
 > that will **not** work with MobiFlight.
 
 ## Recommended boards
@@ -22,25 +22,27 @@ MobiFlight supports a wide range of different boards as the foundation for conne
 These boards are all widely available, inexpensive, and are popular with MobiFlight users.
 
 {{< cards >}}
-{{< card link="mega-2560-pro-mini" title="Mega 2560 Pro Mini" subtitle="ATmega2560 microcontroller" image="card-images/boards/mega-2560-pro-mini.png" >}}
-{{< card link="arduino-nano" title="Arduino Nano" subtitle="ATmega328P microcontroller" image="card-images/boards/nano.png" >}}
-{{< card link="pro-micro" title="Pro Micro (16MHz)" subtitle="ATmega32U4 microcontroller" image="card-images/boards/pro-micro.png" >}}
-{{< card link="raspberry-pi-pico" title="Raspberry Pi Pico 1" subtitle="RP2040 microcontroller" image="card-images/boards/raspberry-pi-pico.png" >}}
+{{< card link="recommended/mega-2560-pro-mini" title="Mega 2560 Pro Mini" subtitle="ATmega2560 microcontroller" image="card-images/boards/mega-2560-pro-mini.png" >}}
+{{< card link="recommended/arduino-nano" title="Arduino Nano" subtitle="ATmega328P microcontroller" image="card-images/boards/nano.png" >}}
+{{< card link="recommended/pro-micro" title="Pro Micro (16MHz)" subtitle="ATmega32U4 microcontroller" image="card-images/boards/pro-micro.png" >}}
+{{< card link="recommended/raspberry-pi-pico" title="Raspberry Pi Pico 1" subtitle="RP2040 microcontroller" image="card-images/boards/raspberry-pi-pico.png" >}}
 {{< /cards >}}
 
 ## Other supported boards
 
 These boards are supported but are older designs. If you already own one they work fine. If you are
-purchasing a new board for your project we suggest getting a [recommended board](#recommended-boards) instead.
+purchasing a new board buy a [recommended board](/boards/recommended) instead.
 
 {{< cards >}}
-{{< card link="arduino-mega-2560" title="Arduino Mega 2560 Rev3" subtitle="ATmega2560 microcontroller" image="card-images/boards/mega-2560-rev3.png" >}}
-{{< card link="arduino-uno" title="Arduino Uno R3" subtitle="ATmega328P microcontroller" image="card-images/boards/arduino-uno.png" >}}
+{{< card link="supported/arduino-mega-2560" title="Arduino Mega 2560 Rev3" subtitle="ATmega2560 microcontroller" image="card-images/boards/mega-2560-rev3.png" >}}
+{{< card link="supported/arduino-uno" title="Arduino Uno R3" subtitle="ATmega328P microcontroller" image="card-images/boards/arduino-uno.png" >}}
 {{< /cards >}}
 
 ## Unsupported boards
 
-The following boards are not supported by MobiFlight despite having names similar to the above supported boards:
+Many boards have similar names to MobiFlight supported boards, but differ enough to not be supported
+by MobiFlight firmware. These boards may have various compatibility issues and should not be used
+in MobiFlight setups. Use a [recommended board](/boards/recommended) instead.
 
 {{< cards >}}
 
