@@ -1,7 +1,7 @@
-{{- if .Params.og_image }}
-  {{ $img := resources.Get .Params.og_image }}
+{{- if .Params.og-image }}
+  {{ $img := resources.Get .Params.og-image }}
   {{ if $img }}
-    {{ $img := resources.Copy (path.Join $.Page.RelPermalink .Params.og_image) $img }}
+    {{ $img := resources.Copy (path.Join $.Page.RelPermalink .Params.og-image) $img }}
     {{ if $img.Width }}
       <meta property="og:image:width" content="{{ $img.Width }}" />
     {{ end }}

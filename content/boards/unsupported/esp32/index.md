@@ -1,7 +1,7 @@
 ---
 title: ESP32 Boards
 description: Details on MobiFlight incompatibility with ESP32 boards.
-og_image: card-images/boards/arduino-nano-esp32.png
+og-image: card-images/boards/arduino-nano-esp32.png
 ---
 
 > [!IMPORTANT]

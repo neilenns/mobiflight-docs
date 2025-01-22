@@ -1,7 +1,7 @@
 ---
 title: Configuring the output
 description: Step-by-step guide for configuring an output to use an LED in MobiFlight.
-og_image: card-images/devices/led.png
+og-image: card-images/devices/led.png
 weight: 30
 ---
 

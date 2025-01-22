@@ -1,7 +1,7 @@
 ---
 title: LEDs
 description: How to use LCD displays with MobiFlight.
-og_image: card-images/devices/led.png
+og-image: card-images/devices/led.png
 next: devices/led/wiring/
 ---
 

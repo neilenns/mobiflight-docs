@@ -1,7 +1,7 @@
 ---
 title: Wiring
 description: Step-by-step guide for wiring buttons and switches to input shift registers.
-og_image: card-images/devices/input-shift-register.png
+og-image: card-images/devices/input-shift-register.png
 weight: 10
 prev: /devices/input-shift-register
 ---

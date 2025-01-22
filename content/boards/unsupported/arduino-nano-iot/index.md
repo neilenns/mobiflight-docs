@@ -1,7 +1,7 @@
 ---
 title: Arduino Nano 33 IoT
 description: Details on MobiFlight incompatibility with the Arduino Nano 33 IoT.
-og_image: card-images/boards/arduino-nano-iot.png
+og-image: card-images/boards/arduino-nano-iot.png
 ---
 
 > [!IMPORTANT]
