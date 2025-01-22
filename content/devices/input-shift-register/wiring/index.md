@@ -1,6 +1,7 @@
 ---
 title: Wiring
-description: Wiring 74HC165 input shift registers.
+description: Step-by-step guide for wiring buttons and switches to input shift registers.
+og_image: card-images/devices/input-shift-register.png
 weight: 10
 prev: /devices/input-shift-register
 ---

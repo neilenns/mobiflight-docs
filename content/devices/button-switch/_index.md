@@ -1,6 +1,7 @@
 ---
 title: Buttons and switches
-description: Buttons and switches for MobiFlight input
+description: How to use buttons and switches with MobiFlight.
+og_image: card-images/devices/buttons-switches.png
 ---
 
 {{< buy-in-shop url="https://shop.mobiflight.com/product/switch-12mm-panel-mount" >}}

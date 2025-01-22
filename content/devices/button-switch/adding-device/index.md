@@ -1,6 +1,7 @@
 ---
 title: Adding the device
 description: Step-by-step guide for configuring a board with a button in MobiFlight.
+og_image: card-images/devices/buttons-switches.png
 weight: 20
 ---
 
