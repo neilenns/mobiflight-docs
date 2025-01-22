@@ -1,13 +1,14 @@
 ---
 title: Boards
 description: Details on supported boards and how to connect to MobiFlight
+ogimage: card-images/boards/mega-2560-pro-mini.png
 toc: false
 weight: 30
 cascade:
   type: docs
 ---
 
-MobiFlight supports a wide range of different boards as the foundation for connecting [devices](../devices/).
+MobiFlight supports a wide range of different boards as the foundation for connecting [devices](/devices/).
 
 > [!WARNING]
 > Many boards have similar sounding names. Only the ones listed below are supported. See the

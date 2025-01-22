@@ -1,4 +1,5 @@
 ---
 title: Potentiometers
-description: Potentiometers for MobiFlight input
+description: How to use potentiometers with MobiFlight.
+ogimage: card-images/devices/potentiometer.png
 ---

@@ -1,6 +1,7 @@
 ---
 title: LEDs
-description: LEDs for MobiFlight output
+description: How to use LEDs with MobiFlight.
+ogimage: card-images/devices/led.png
 next: devices/led/wiring/
 ---
 

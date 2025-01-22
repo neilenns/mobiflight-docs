@@ -1,6 +1,7 @@
 ---
 title: Pro Micro (8 MHz)
-description: Details on MobiFlight incompatibility with the Pro Micro clocked at 8 Mhz
+description: Details on MobiFlight incompatibility with the Pro Micro clocked at 8 Mhz.
+ogimage: card-images/boards/pro-micro-8.png
 ---
 
 > [!IMPORTANT]
