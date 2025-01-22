@@ -2,7 +2,7 @@
 title: Arduino Mega 2560 Rev3
 description: Details on MobiFlight support for the Arduino Mega 2560 Rev3.
 ogimage: card-images/boards/mega-2560-rev3.png
-weight: 100
+weight: 10
 ---
 
 The Arduino Mega 2560 Rev3 is a classic Arduino board with 70 IO pins and a relatively low cost.
