@@ -1,6 +1,9 @@
-{{- $title := .Get "title" -}} {{- $image := .Get "image" -}} {{ with
-$.Page.Resources.Get $image }}
-<div class="schematic-container">
-  <img src="{{ .RelPermalink }}" alt="{{ $title }} " title="{{ $title }}" />
-</div>
+{{- $title := .Get "title" -}}
+{{- $image := .Get "image" -}}
+{{ with
+  $.Page.Resources.Get $image
+}}
+  <div class="schematic-container">
+    <img src="{{ .RelPermalink }}" alt="{{ $title }} " title="{{ $title }}" />
+  </div>
 {{ end }}

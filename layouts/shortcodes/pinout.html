@@ -1,9 +1,9 @@
 {{ with $.Page.Resources.Get "pinout.svg" }}
-<div class="pinout-container">
-  <img
-    src="{{ .RelPermalink }}"
-    alt="{{ $.Page.Title }} pinout diagram"
-    title="{{ $.Page.Title }} pinout diagram"
-  />
-</div>
+  <div class="pinout-container">
+    <img
+      src="{{ .RelPermalink }}"
+      alt="{{ $.Page.Title }} pinout diagram"
+      title="{{ $.Page.Title }} pinout diagram"
+    />
+  </div>
 {{ end }}

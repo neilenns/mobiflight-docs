@@ -3,7 +3,8 @@
     ".hugo_build.lock": true,
     "public/": true,
     "resources/": true,
-    "design-files": false
+    "design-files": true,
+    "package*.json": true
   },
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.patterns": {

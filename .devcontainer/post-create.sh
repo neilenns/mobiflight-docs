@@ -10,3 +10,6 @@ fi
 if ! grep -q "^DEFAULT_USER=vscode" ~/.zshrc; then
     echo "DEFAULT_USER=vscode" >> ~/.zshrc
 fi
+
+# Install prettier and prettier plugins
+npm install
