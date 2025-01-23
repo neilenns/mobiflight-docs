@@ -21,13 +21,13 @@ Click **OK** in the warning dialog to close it. The **MobiFlight Modules** dialo
 
 ### Install the firmware that matches the device
 
-Right click on the compatible module and open the **Update Firmware** menu. Select the the board that matches your device.
+Right-click on the compatible module and open the **Update Firmware** menu. Select the board that matches your device.
 
 {{< screenshot image="update-firmware-menu.png" title="Screenshot of the MobiFlight Modules dialog with the Update Firmware menu open." >}}
 
 ### Wait for the firmware upload to complete
 
-MobiFlight will display a progress dialog during the flashing process. After it completes the MobiFlight Modules dialog will
+MobiFlight will display a progress dialog during the flashing process. After it completes, the MobiFlight Modules dialog will
 show the board as recognized and ready for devices.
 
 {{< screenshot image="flash-complete.png" title="Screenshot of the MobiFlight Modules dialog with a MobiFlight Mega showing in the board list." >}}
