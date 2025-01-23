@@ -5,19 +5,12 @@ ogimage: card-images/devices/switch.png
 weight: 30
 ---
 
-Switches and buttons are typically mapped to simulator variables that expect either `0` (for off) or `1` (for on). The following walkthroughs demonstrate how to configure a two position or three position switch with Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
+Switches and buttons are typically mapped to simulator variables that expect either `0` (for off) or `1` (for on). The following steps demonstrate how to configure a two position switch to control the parking brake in Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
 
 > [!TIP]
 > The steps for using a switch or button with X-Plane are similar. Use the **X-Plane DataRef** type when configuring the **Sim Variable** tab.
 
-{{< tabs items="Two position switch,Three position switch" >}}
-
-<!-- Two position switch -->
-
-{{< tab >}}
 {{% steps %}}
-
-These steps demonstrate how to control the parking brake in a Cessna 172 using a two position switch.
 
 ### Create a new row in the inputs tab of the main window
 
@@ -61,19 +54,16 @@ Click the **OK** button to close the dialog, then spawn an airplane in Microsoft
 
 Make sure the MobiFlight **Run** button is clicked in the toolbar, then try toggling the parking brake with the switch. The parking brake in the simulator should toggle.
 
+{{% /steps %}}
+
+<!-- markdownlint-disable MD028 -->
+<!-- markdownlint doesn't understand that these are two separate TIP blocks -->
+
+> [!TIP]
+> Three position switches are configured as two separate input rows in MobiFlight. Follow the guide for the two position switch,
+> repeating the steps for the second switch and selecting the appropriate on press and on release events.
+
 > [!TIP]
 > Even though these steps are for a Cessna 172, the same parking brake input events should work for most planes in Microsoft Flight Simulator.
 
-{{% /steps %}}
-
-{{< /tab >}}
-
-<!-- Three position switch -->
-
-{{< tab >}}
-
-Three position switches are configured as two separate input rows in MobiFlight. Follow the guide for the two position switch, repeating
-the steps for the second switch and selecting the appropriate on press and on release events.
-
-{{< /tab >}}
-{{< /tabs >}}
+<!-- markdownlint-enable MD028 -->
