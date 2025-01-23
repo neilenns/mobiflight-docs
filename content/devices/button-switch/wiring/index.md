@@ -17,6 +17,8 @@ Tactile buttons have one upper leg connected to a board pin and one lower leg co
 {{< tab >}}
 Two position switches have one outer leg connected to a board pin and the middle leg connected to GND. The second outer leg is left unconnected. No resistors are required.
 
+If the switch has six pins instead of three (a DPDT switch), wire using one column of three pins and leave the other column disconnected.
+
 ![Wiring diagram showing a two position switch connected to a board.](two-position-switch.svg)
 {{< /tab >}}
 

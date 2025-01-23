@@ -42,6 +42,7 @@ Three position switches are typically used in jet aircraft to control power, avi
 - **ON-OFF-ON**: The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side.
 - **(ON)-OFF-ON**: The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side. One of the **ON** positions is momentary and must be held in position.
 - **(ON)-OFF-(ON)**: The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side. Both of the **ON** positions are momentary must be held in position.
+- **ON-ON-ON**: The handle can be set to three different positions, all of which are **ON**. This style of switch is often used for electric guitars and is not recommended for cockpit builds. It requires different wiring methods and configuration in MobiFlight than the other three position switches.
   {{< /tab >}}
 
 {{< /tabs >}}
