@@ -12,6 +12,8 @@ Switches and buttons are typically mapped to simulator variables that expect eit
 
 {{< tabs items="Two position switch,Three position switch" >}}
 
+<!-- Two position switch -->
+
 {{< tab >}}
 {{% steps %}}
 
@@ -63,6 +65,15 @@ Make sure the MobiFlight **Run** button is clicked in the toolbar, then try togg
 > Even though these steps are for a Cessna 172, the same parking brake input events should work for most planes in Microsoft Flight Simulator.
 
 {{% /steps %}}
+
 {{< /tab >}}
 
+<!-- Three position switch -->
+
+{{< tab >}}
+
+Three position switches are configured as two separate input rows in MobiFlight. Follow the guide for the two position switch, repeating
+the steps for the second switch and selecting the appropriate on press and on release events.
+
+{{< /tab >}}
 {{< /tabs >}}
