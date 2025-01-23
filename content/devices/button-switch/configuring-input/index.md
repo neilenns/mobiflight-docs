@@ -1,7 +1,7 @@
 ---
-title: Configuring the output
-description: Step-by-step guide for configuring an output to use an LED in MobiFlight.
-ogimage: card-images/devices/led.png
+title: Configuring the input
+description: Step-by-step guide for configuring a switch as an input in MobiFlight.
+ogimage: card-images/devices/switch.png
 weight: 30
 ---
 
