@@ -54,4 +54,7 @@ Click the **OK** button to close the dialog, then spawn an airplane in Microsoft
 
 Make sure the MobiFlight **Run** button is clicked in the toolbar, then try toggling the parking brake in the simulator. The attached LED should light up when the parking brake is applied.
 
+> [!TIP]
+> Even though these steps are for a Cessna 172, the same parking brake indicator preset should work for most planes in Microsoft Flight Simulator.
+
 {{% /steps %}}
