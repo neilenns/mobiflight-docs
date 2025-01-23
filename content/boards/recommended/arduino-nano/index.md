@@ -33,6 +33,8 @@ The Arduino Nano is a compact board that trades a smaller size for fewer IO pins
 
 > [!NOTE]
 > Pins D0 and D1 are not available for use, as they are reserved for USB serial communication.
+>
+> Pins A6 and A7 are only available for analog input, they cannot be used as digital inputs.
 
 ## Additional resources
 
