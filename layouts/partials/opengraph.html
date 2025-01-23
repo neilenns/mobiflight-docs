@@ -4,7 +4,7 @@
 
 {{- if $image -}}
   {{- with or (.Page.Resources.Get $image) (resources.Get $image) -}}
-    {{- $processed := .Process "Resize 800x webp q80" -}}
+    {{- $processed := .Process "Resize 800x png" -}}
     {{- $width = $processed.Width -}}
     {{- $height = $processed.Height -}}
     {{- $image = $processed.RelPermalink -}}

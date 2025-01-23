@@ -9,7 +9,7 @@ MobiFlight cannot determine the board type automatically, resulting in the follo
 
 {{< screenshot image="ambiguous-board-warning.png" title="Screenshot of the ambiguous board warning." >}}
 
-To flash the board do the following steps.
+This is most common when using Arduino clones that have a CH340G chip for serial communication. To flash the board do the following steps.
 
 {{% steps %}}
 
