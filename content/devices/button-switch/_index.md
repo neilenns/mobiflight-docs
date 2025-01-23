@@ -1,7 +1,7 @@
 ---
 title: Buttons and switches
 description: How to use buttons and switches with MobiFlight.
-ogimage: card-images/devices/buttons-switches.png
+ogimage: card-images/devices/switch.png
 next: devices/button-switch/wiring
 ---
 
