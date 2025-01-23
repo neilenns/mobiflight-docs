@@ -17,50 +17,31 @@ Buttons and switches are the most common input hardware used with MobiFlight.
 
 ## Popular options
 
-### Toggle switches
-
-Toggle switches come in many varieties, all of which are useful for cockpit building. Choices include:
-
-{{< tabs items="ON-ON,(ON)-OFF,ON-OFF-ON,(ON)-OFF-ON,(ON)-OFF-(ON)" >}}
-
-<!-- ON-ON -->
-
-{{< tab >}}
-The handle can be moved to either of two **ON** positions. They are often used for parking brake, light, and power switches. These switches use one input pin on a board, even though they have three pins on the switch.
-{{< /tab >}}
-
-<!-- (ON)-OFF -->
-
-{{< tab >}}
-The handle only stays in the **ON** position momentarily, as long as the switch is physically held in that position. When released, the switch goes back to the **OFF** position. These switches use one input pin on a board, even though they have three pins on the switch.
-{{< /tab >}}
-
-<!-- ON-OFF-ON -->
-
-{{< tab >}}
-The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side. They are often used for main battery and avionics power switches. These switches use two input pins on a board.
-{{< /tab >}}
-
-<!-- (ON)-OFF-ON -->
-
-{{< tab >}}
-The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side. One of the **ON** positions is momentary and only stays on while it is held in position. They are often used as the APU switch in a Boeing 737. These switches use two input pins on a board.
-{{< /tab >}}
-
-<!-- (ON)-OFF-(ON) -->
-
-{{< tab >}}
-The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side. Both of the **ON** positions are momentary and only stay on while it is held in position. They are often used as trim or flap switches. These switches use two input pins on a board.
-{{< /tab >}}
-
-{{< /tabs >}}
-
 ### Tactile buttons
 
-Say something about tactile buttons here, specifically the little black ones and the illuminated ones we all use for our custom PCBs.
+Tactile buttons are used for cockpit controls that are pressed rather than toggled. They are widely used for autopilot, G1000, PFD and MFD panels, and flight management computers.
 
-## Other options
+The most common version is a [6x6mm tactile mini push button](https://www.aliexpress.us/item/3256802301084670.html). Custom-designed PCBs often use [tactile buttons with an integrated LED for backlighting](https://www.aliexpress.us/item/3256802787412892.html).
 
-There are a near endless variety of buttons and switches available and all will work with MobiFlight. Choices include:
+### Toggle switches
 
-- ON-OFF toggle switches: These provide the same interaction as ON-ON switches but are less common.
+Toggle switches come in many varieties, all of which are useful for cockpit building.
+
+{{< tabs items="Two position switches,Three position switches" >}}
+
+{{< tab >}}
+Two position switches are typically used to control parking brakes, lights, main battery, and avionics power. These switches connect to one pin on a board. Variations include:
+
+- **ON-ON** and **ON-OFF**: The handle is in either of two positions. This is the most common two position switch.
+- **(ON)-ON** and **(ON)-OFF**: The handle is in either of two positions, but must be held in the **ON** position. Releasing the switch returns it to the other position.
+  {{< /tab >}}
+
+{{< tab >}}
+Three position switches are typically used in jet aircraft to control power, avionics, emergency lights, and APU switches. These switches connect to two pins on a board. Variations include:
+
+- **ON-OFF-ON**: The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side.
+- **(ON)-OFF-ON**: The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side. One of the **ON** positions is momentary and must be held in position.
+- **(ON)-OFF-(ON)**: The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side. Both of the **ON** positions are momentary must be held in position.
+  {{< /tab >}}
+
+{{< /tabs >}}
