@@ -13,6 +13,9 @@ The following components are required to wire an LED:
 - 10kΩ resistors.
 - 0.1µF capacitors.
 
+> [!IMPORTANT]
+> MobiFlight only supports connecting buttons to input shift registers. Encoders must be connected directly to a board.
+
 {{< tabs items="Single 74HC165 DIP-16,Four 74HC165 DIP-16 in series">}}
 
 {{< tab >}}
