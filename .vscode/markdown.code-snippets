@@ -33,5 +33,12 @@
 			"{{< card link=\"$1\" title=\"$2\" subtitle=\"$3\" image=\"card-images/devices/$4\" >}}"
 		],
 		"description": "Snippet for inserting a device card."
+	},
+	"Overline snippet": {
+		"prefix": "overline",
+		"body": [
+			"{{% overline %}}$1{{% /overline %}}"
+		],
+		"description": "Snippet for inserting overline shortcode."
 	}
 }
