@@ -31,9 +31,8 @@ Connect a [supported board](/boards/) to your PC and when prompted by MobiFlight
 firmware.
 
 > [!TIP]
-> Some boards cannot have their type automatically determined by MobiFlight. If that happens, a dialog
-> will warn you that the board type couldn't be identified, and you will need to manually install the firmware
-> from the [MobiFlight Modules dialog](/features/modules/).
+> Some boards cannot have their type automatically determined by MobiFlight. If that happens, see the
+> [flashing ambiguous boards](/guides/flashing-ambiguous-boards/) guide.
 
 ### Add an LED device and output configuration for the parking brake indicator
 
