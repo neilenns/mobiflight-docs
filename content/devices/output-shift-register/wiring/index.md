@@ -12,7 +12,7 @@ The following components are required for an output shift register or LED driver
 - The output shift register or LED driver chip.
 - LEDs.
 - Assorted resistors.
-- 0.1uF capacitors.
+- 0.1µF capacitors.
 
 {{< tabs items="74HC595 DIP-16,DM13A DIP-24,TLC5917 DIP-16">}}
 
