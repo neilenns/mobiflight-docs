@@ -26,7 +26,9 @@ Click the button with three dots in the **Edit** column for the row created in t
 
 ### Select the board and device for the input
 
-On the **Input** tab, use the **Module** and **Device** dropdowns to select your connected board and switch.Alternatively, press the **Scan for input** button and toggle the connected switch to automatically detect and select the correct switch.
+On the **Input** tab, use the **Module** and **Device** dropdowns to select your connected board and switch.
+
+Alternatively, press the **Scan for input** button and toggle the connected switch to automatically detect and select the correct switch.
 
 {{< screenshot image="input-selected.png" title="Screenshot of the input configuration dialog with a board and switch selected." >}}
 
