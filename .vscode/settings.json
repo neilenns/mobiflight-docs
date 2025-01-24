@@ -4,7 +4,8 @@
     "public/": true,
     "resources/": true,
     "design-files": false,
-    "package*.json": true
+    "package*.json": true,
+    "**/*-backups": true
   },
   "explorer.fileNesting.enabled": true,
   "explorer.fileNesting.patterns": {
