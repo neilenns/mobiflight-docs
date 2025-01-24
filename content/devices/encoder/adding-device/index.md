@@ -10,7 +10,8 @@ weight: 20
 > to add the button after following this guide to add the encoder.
 >
 > If the encoder is a dual encoder, follow this guide twice: once for the inner
-> encoder and a second time for the outer encoder.
+> encoder and a second time for the outer encoder. Pins `A` and `B` are used when adding the first encoder,
+> and pins `A'` and `B'` are used when adding the second encoder.
 
 {{% steps %}}
 

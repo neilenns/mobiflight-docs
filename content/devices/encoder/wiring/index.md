@@ -14,17 +14,19 @@ A single encoder with an integrated button has three legs on one side that conne
 
 One leg on the button side is connected to a digital input on the board. The other leg is connected to ground. It doesn't matter which button leg goes to ground and which goes to the board.
 
-{{< schematic image="encoder-single.svg" title="Wiring diagram showing a single encoder with button connected to a board." >}}
+{{< schematic image="encoder-single.svg" title="Schematic for wiring a single encoder with an integrated button." >}}
 
 {{< /tab >}}
 
 {{< tab >}}
 
-A dual encoder with an integrated button is similar to a single encoder, however there are two rows of three legs on the encoder side.
+A dual encoder with an integrated button is similar to a single encoder, however there are two rows of three legs on the encoder side. One row controls the outer encoder, the other row controls the inner encoder.
 
-One row controls the outer encoder, the other row controls the inner encoder. Each row is wired in the same fashion as a single encoder, with the outer legs going to digital input pins on the board and the middle pin connecting to ground.
+Each row is wired in the same fashion as a single encoder, with the outer legs going to digital input pins on the board and the middle pin connecting to ground. In a schematic the row of pins for one of the encoders is referred to as `A`, `B`, and `C`. The row of pins for the second encoder is referred to as `A'`, `B'` and `C'`.
 
 The button side of the dual encoder connects to the board the same way as a single encoder button.
+
+{{< schematic image="encoder-dual.svg" title="Schematic for wiring a dual encoder with an integrated button." >}}
 
 {{< /tab >}}
 
