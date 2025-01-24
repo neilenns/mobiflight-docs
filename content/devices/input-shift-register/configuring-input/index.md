@@ -1,11 +1,11 @@
 ---
 title: Configuring the input
-description: Step-by-step guide for configuring a switch as an input in MobiFlight.
+description: Step-by-step guide for configuring switches connected to an input shift register as an input in MobiFlight.
 ogimage: card-images/devices/switch.png
 weight: 30
 ---
 
-Switches and buttons are typically mapped to simulator variables that expect either `0` (for off) or `1` (for on). The following steps demonstrate how to configure a two-position switch to control the parking brake in Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
+Switches and buttons connected to input shift registers are typically mapped to simulator variables that expect either `0` (for off) or `1` (for on). The following steps demonstrate how to configure a two-position switch connected to an input shift register to control the parking brake in Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
 
 > [!TIP]
 > The steps for using a switch or button with X-Plane are similar. Use the **X-Plane DataRef** type when configuring the **Sim Variable** tab.
@@ -26,7 +26,7 @@ Click the button with three dots in the **Edit** column for the row created in t
 
 ### Select the board and device for the input
 
-On the **Input** tab, use the **Module** and **Device** dropdowns to select your connected board and switch.
+On the **Input** tab, use the **Module** and **Device** dropdowns to select your connected board and input shift register. Use the dropdown next to the **Device** dropdown to select the pin on the input shifter the switch is connected to.
 
 Alternatively, press the **Scan for input** button and toggle the connected switch to automatically detect and select the correct switch.
 

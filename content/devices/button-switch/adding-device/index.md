@@ -39,6 +39,6 @@ Click the **OK** button to close the MobiFlight modules dialog and return to the
 
 > [!TIP]
 > Three-position switches are added to MobiFlight as two separate button devices. Repeat the above steps to add a second device
-> that is mapped to the second pin used by the Three-position switch.
+> that is mapped to the second pin used by the three-position switch.
 
 {{%/ steps %}}

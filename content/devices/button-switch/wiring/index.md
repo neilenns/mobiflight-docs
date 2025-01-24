@@ -19,13 +19,13 @@ Two-position switches have one outer leg connected to a board pin and the middle
 
 If the switch has six pins instead of three (a DPDT switch), wire using one column of three pins and leave the other column disconnected.
 
-{{< schematic image="two-position-switch.svg" title="Wiring diagram showing a Two-position switch connected to a board." >}}
+{{< schematic image="two-position-switch.svg" title="Wiring diagram showing a two-position switch connected to a board." >}}
 {{< /tab >}}
 
 {{< tab >}}
 Three-position switches have both outer legs connected to separate board pins and the middle leg connected to GND. No resistors are required.
 
-{{< schematic image="three-position-switch.svg" title="Wiring diagram showing a Three-position switch connected to a board." >}}
+{{< schematic image="three-position-switch.svg" title="Wiring diagram showing a three-position switch connected to a board." >}}
 
 {{< /tab >}}
 
