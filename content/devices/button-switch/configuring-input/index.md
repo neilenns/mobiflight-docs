@@ -5,7 +5,7 @@ ogimage: card-images/devices/switch.png
 weight: 30
 ---
 
-Switches and buttons are typically mapped to simulator variables that expect either `0` (for off) or `1` (for on). The following steps demonstrate how to configure a two position switch to control the parking brake in Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
+Switches and buttons are typically mapped to simulator variables that expect either `0` (for off) or `1` (for on). The following steps demonstrate how to configure a Two-position switch to control the parking brake in Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
 
 > [!TIP]
 > The steps for using a switch or button with X-Plane are similar. Use the **X-Plane DataRef** type when configuring the **Sim Variable** tab.
@@ -44,7 +44,7 @@ Use the **Select Preset** dropdown to select the **PARKING_BRAKES_ON** preset.
 
 ### Configure the On Release action
 
-Repeat the steps 4 and 5 for the **On Release** tab, selecting **PARKING_BRAKES_OFF** for the preset.
+Repeat steps 4 and 5 for the **On Release** tab, selecting **PARKING_BRAKES_OFF** for the preset.
 
 {{< screenshot image="input-event-parking-brakes-off.png" title="Screenshot of the input tab on release event with the PARKING_BRAKES_OFF preset selected." >}}
 
@@ -60,7 +60,7 @@ Make sure the MobiFlight **Run** button is clicked in the toolbar, then try togg
 <!-- markdownlint doesn't understand that these are two separate TIP blocks -->
 
 > [!TIP]
-> Three position switches are configured as two separate input rows in MobiFlight. Follow the guide for the two position switch,
+> Three-position switches are configured as two separate input rows in MobiFlight. Follow the guide for the Two-position switch,
 > repeating the steps for the second switch and selecting the appropriate on press and on release events.
 
 > [!TIP]

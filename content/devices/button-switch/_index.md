@@ -27,22 +27,22 @@ The most common version is a [6x6mm tactile mini push button](https://www.aliexp
 
 Toggle switches come in many varieties, all of which are useful for cockpit building.
 
-{{< tabs items="Two position switches,Three position switches" >}}
+{{< tabs items="Two-position switches,Three-position switches" >}}
 
 {{< tab >}}
-Two position switches are typically used to control parking brakes, lights, main battery, and avionics power. These switches connect to one pin on a board. Variations include:
+Two-position switches are typically used to control parking brakes, lights, main battery, and avionics power. These switches connect to one pin on a board. Variations include:
 
-- **ON-ON** and **ON-OFF**: The handle is in either of two positions. This is the most common two position switch.
-- **(ON)-ON** and **(ON)-OFF**: The handle is in either of two positions, but must be held in the **ON** position. Releasing the switch returns it to the other position.
+- **ON-ON** and **ON-OFF**: The handle is in either of Two-positions. This is the most common Two-position switch.
+- **(ON)-ON** and **(ON)-OFF**: The handle is in either of Two-positions, but must be held in the **ON** position. Releasing the switch returns it to the other position.
   {{< /tab >}}
 
 {{< tab >}}
-Three position switches are typically used in jet aircraft to control power, avionics, emergency lights, and APU switches. These switches connect to two pins on a board. Variations include:
+Three-position switches are typically used in jet aircraft to control power, avionics, emergency lights, and APU switches. These switches connect to two pins on a board. Variations include:
 
 - **ON-OFF-ON**: The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side.
 - **(ON)-OFF-ON**: The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side. One of the **ON** positions is momentary and must be held in position.
-- **(ON)-OFF-(ON)**: The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side. Both of the **ON** positions are momentary must be held in position.
-- **ON-ON-ON**: The handle can be set to three different positions, all of which are **ON**. This style of switch is often used for electric guitars and is not recommended for cockpit builds. It requires different wiring methods and configuration in MobiFlight than the other three position switches.
+- **(ON)-OFF-(ON)**: The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side. Both of the **ON** positions are momentary and must be held in position.
+- **ON-ON-ON**: The handle can be set to three different positions, all of which are **ON**. This style of switch is often used for electric guitars and is not recommended for cockpit builds. It requires different wiring methods and configuration in MobiFlight than the other Three-position switches.
   {{< /tab >}}
 
 {{< /tabs >}}
