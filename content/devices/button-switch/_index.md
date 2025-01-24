@@ -1,33 +1,48 @@
 ---
 title: Buttons and switches
 description: How to use buttons and switches with MobiFlight.
-ogimage: card-images/devices/buttons-switches.png
+ogimage: card-images/devices/switch.png
+next: devices/button-switch/wiring
 ---
 
 {{< buy-in-shop url="https://shop.mobiflight.com/product/switch-12mm-panel-mount" >}}
 
-Buttons and switches are the most common hardware used with MobiFlight, and come in many forms:
+Buttons and switches are the most common input hardware used with MobiFlight.
 
-- Push buttons
-- Tactile switches
-- Micro switches
-- Toggle switches
-- Kill switches
+{{< cards >}}
+
+{{< card title="Tactile buttons" image="card-images/devices/tactile-buttons.png" >}}
+{{< card title="Toggle switches" image="card-images/devices/switch.png" >}}
+{{< /cards >}}
 
 ## Popular options
 
-This section should list links to common options
+### Tactile buttons
 
-## Other variations
+Tactile buttons are used for cockpit controls that are pressed rather than toggled. They are widely used for autopilot, G1000, PFD and MFD panels, and flight management computers.
 
-- ON-OFF - These switches require one input pin. The handle can be moved in ON position or in OFF position providing a low or high signal to the MobiFlight Board.
+The most common version is a [6x6mm tactile mini push button](https://www.aliexpress.us/item/3256802301084670.html). Custom-designed PCBs often use [tactile buttons with an integrated LED for backlighting](https://www.aliexpress.us/item/3256802787412892.html).
 
-- ON-ON - These switches require two input pins. The handle can be set to two different positions (on and off) but both have their own high signal.
+### Toggle switches
 
-- (ON)-OFF - Switch requires one input pin. On position is only momentarily as long as user holds the switch in the ON-position. On releasing the handle, the switch will go back to the OFF position.
+Toggle switches come in many varieties, all of which are useful for cockpit building.
 
-- ON-OFF-ON - These switches require two input pins. The handle can be set to three different positions ("on" on one side, off in the middle, "on" to other side).
+{{< tabs items="Two-position switches,Three-position switches" >}}
 
-- (ON)-OFF-ON -These switches require two input pins. One On position is momentarily only as long as the user holds the switch. On release the switch snaps back to the OFF (middle) position. The opposite ON-position is a permanent position. This switch is used, e.g. for APU switch in the B737.
+{{< tab >}}
+Two-position switches are typically used to control parking brakes, lights, main battery, and avionics power. These switches connect to one pin on a board. Variations include:
 
-- (ON)-OFF-(ON) -These switches require two input pins. Both "On" positions are momentarily only as long as the user holds the switch. On release the switch snaps back to the OFF (middle) position. This switch can be used as trim switch or flaps switch.
+- **ON-ON** and **ON-OFF**: The handle is in either of Two-positions. This is the most common Two-position switch.
+- **(ON)-ON** and **(ON)-OFF**: The handle is in either of Two-positions, but must be held in the **ON** position. Releasing the switch returns it to the other position.
+  {{< /tab >}}
+
+{{< tab >}}
+Three-position switches are typically used in jet aircraft to control power, avionics, emergency lights, and APU switches. These switches connect to two pins on a board. Variations include:
+
+- **ON-OFF-ON**: The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side.
+- **(ON)-OFF-ON**: The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side. One of the **ON** positions is momentary and must be held in position.
+- **(ON)-OFF-(ON)**: The handle can be set to three different positions, **ON** at one side, **OFF** in the middle, and **ON** at the other side. Both of the **ON** positions are momentary and must be held in position.
+- **ON-ON-ON**: The handle can be set to three different positions, all of which are **ON**. This style of switch is often used for electric guitars and is not recommended for cockpit builds. It requires different wiring methods and configuration in MobiFlight than the other Three-position switches.
+  {{< /tab >}}
+
+{{< /tabs >}}

@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Switch" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 247.1 222.7">
+  <!-- Generator: Adobe Illustrator 29.2.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 116)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #e6e6e5;
+      }
+
+      .st2 {
+        fill: #010101;
+      }
+
+      .st3, .st4, .st5 {
+        fill: #fff;
+      }
+
+      .st3, .st6 {
+        opacity: .9;
+      }
+
+      .st3, .st6, .st5, .st7, .st1 {
+        isolation: isolate;
+      }
+
+      .st8 {
+        stroke: #af2c91;
+      }
+
+      .st8, .st9 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .st10 {
+        fill: #fbb064;
+      }
+
+      .st11 {
+        fill: #4e4e4e;
+      }
+
+      .st6 {
+        fill: #a91e22;
+      }
+
+      .st9 {
+        stroke: #3953a4;
+      }
+
+      .st5 {
+        font-family: SegoeUI, 'Segoe UI';
+        font-size: 7.2px;
+      }
+
+      .st12 {
+        fill: #fee087;
+      }
+
+      .st13 {
+        fill: #1a1a1a;
+        stroke: #010101;
+        stroke-width: .5px;
+      }
+
+      .st13, .st14, .st1, .st15, .st16 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st14 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st14, .st1, .st15, .st16 {
+        stroke: #676767;
+      }
+
+      .st1 {
+        opacity: .5;
+      }
+
+      .st17 {
+        fill: #58b147;
+      }
+
+      .st18, .st15 {
+        fill: #ccc;
+      }
+
+      .st19 {
+        fill: #384649;
+      }
+
+      .st15 {
+        stroke-width: .7px;
+      }
+
+      .st20 {
+        fill: #676767;
+      }
+
+      .st21 {
+        fill: #9e926a;
+      }
+
+      .st16 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="22.3" y1="-355.5" x2="54.7" y2="-362.4" gradientTransform="translate(-444.4 134.6) rotate(90) scale(1.8 1.6)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e6e6e5"/>
+      <stop offset="1" stop-color="#494949"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="-5.4" y1="-383.8" x2="27" y2="-390.6" gradientTransform="translate(-403.8 88.5) rotate(90) scale(1.8 1.6)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e6e6e5"/>
+      <stop offset="1" stop-color="#494949"/>
+    </linearGradient>
+  </defs>
+  <g id="g679">
+    <rect id="rect679" class="st2" x="33.8" y="15.3" width="36.7" height="8.9"/>
+    <g id="text679" class="st7">
+      <g class="st7">
+        <g class="st7">
+          <g class="st7">
+            <g class="st7">
+              <text class="st5" transform="translate(44.4 22.2)"><tspan x="0" y="0">GND</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="g534">
+    <g id="g528">
+      <path id="path38184" class="st13" d="M246.8,4v218.5H90.4V4h156.4Z"/>
+      <circle id="circle35158-6" class="st3" cx="183.4" cy="212.6" r="6.8"/>
+      <g id="g2-3">
+        <rect id="rect38244" class="st0" x="125.3" y="14.2" width="15.6" height="15.9"/>
+        <rect id="rect38246" class="st0" x="130.9" y="23.3" width="4.5" height="19.5"/>
+        <rect id="rect38248" class="st0" x="120.8" y="23.3" width="4.5" height="19.5"/>
+        <rect id="rect528" class="st0" x="140.3" y="23.3" width="4.5" height="19.5"/>
+        <rect id="rect38250" class="st19" x="117.6" y="19.7" width="31.1" height="17.6"/>
+      </g>
+      <g id="g38262">
+        <rect id="rect38258" class="st10" x="154.2" y="35.5" width="9.2" height="18.1"/>
+        <rect id="rect38260" class="st12" x="154.2" y="38.7" width="9.2" height="11.8"/>
+      </g>
+      <g id="g444-0">
+        <rect id="rect40417-7" class="st0" x="215.3" y="187.6" width="4.4" height="8.8"/>
+        <rect id="rect40429-0" class="st20" x="215.3" y="189.5" width="4.4" height="5"/>
+      </g>
+      <g id="g445">
+        <rect id="rect444" class="st0" x="208.1" y="187.6" width="4.4" height="8.8"/>
+        <rect id="rect445" class="st20" x="208.1" y="189.5" width="4.4" height="5"/>
+      </g>
+      <g id="g447">
+        <rect id="rect446" class="st0" x="200.8" y="187.6" width="4.4" height="8.8"/>
+        <rect id="rect447" class="st20" x="200.8" y="189.5" width="4.4" height="5"/>
+      </g>
+      <g id="g449">
+        <rect id="rect448" class="st0" x="193.6" y="187.6" width="4.4" height="8.8"/>
+        <rect id="rect449" class="st20" x="193.6" y="189.5" width="4.4" height="5"/>
+      </g>
+      <g id="g451">
+        <rect id="rect450" class="st0" x="186.4" y="187.6" width="4.4" height="8.8"/>
+        <rect id="rect451" class="st20" x="186.4" y="189.5" width="4.4" height="5"/>
+      </g>
+      <path id="rect33796-1" class="st16" d="M136,178.2v31.3c0,4.4-3.6,8-8,8h0c-4.4,0-8-3.6-8-8v-31.3c0-4.4,3.6-8,8-8h0c4.4,0,8,3.6,8,8Z"/>
+      <g id="g12248">
+        <g id="g12315">
+          <g id="g12280">
+            <path id="rect12250" class="st18" d="M214,154.3h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2h0Z"/>
+            <path id="rect12252" class="st18" d="M200.9,167.4h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2h0Z"/>
+            <path id="rect12254" class="st18" d="M203.6,164.8h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2h0Z"/>
+            <path id="rect12256" class="st18" d="M206.2,162.2h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2h0Z"/>
+            <path id="rect12258" class="st18" d="M208.8,159.5h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2h0Z"/>
+            <path id="rect12260" class="st18" d="M211.4,156.9h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2h0Z"/>
+            <path id="rect12262" class="st18" d="M195.7,172.6h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2Z"/>
+            <path id="rect12264" class="st18" d="M198.3,170h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2h0Z"/>
+            <path id="rect12266" class="st18" d="M193.1,175.2h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2Z"/>
+            <path id="rect12268" class="st18" d="M180.1,188.3h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2Z"/>
+            <path id="rect12270" class="st18" d="M182.7,185.7h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2Z"/>
+            <path id="rect12272" class="st18" d="M185.3,183.1h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2Z"/>
+            <path id="rect12274" class="st18" d="M187.9,180.4h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2Z"/>
+            <path id="rect12276" class="st18" d="M190.5,177.8h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2Z"/>
+            <path id="rect12278" class="st18" d="M177.4,190.9h0c-.5.5-1.5.3-2.2-.4l-42.2-42.2c-.7-.7-.9-1.7-.4-2.2h0c.5-.5,1.5-.3,2.2.4l42.2,42.2c.7.7.9,1.7.4,2.2Z"/>
+          </g>
+          <g id="g12213">
+            <path id="rect11035-1" class="st18" d="M177.4,109.5h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+            <path id="rect11037-2" class="st18" d="M190.5,122.6h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+            <path id="rect11039-9" class="st18" d="M187.9,119.9h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+            <path id="rect11041-0" class="st18" d="M185.3,117.3h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+            <path id="rect11043-0" class="st18" d="M182.7,114.7h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+            <path id="rect11045-4" class="st18" d="M180.1,112.1h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+            <path id="rect11047-5" class="st18" d="M195.7,127.8h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+            <path id="rect11049-5" class="st18" d="M193.1,125.2h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+            <path id="rect12084" class="st18" d="M198.3,130.4h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+            <path id="rect12087" class="st18" d="M211.4,143.4h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+            <path id="rect12089" class="st18" d="M208.8,140.8h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+            <path id="rect12091" class="st18" d="M206.2,138.2h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+            <path id="rect12093" class="st18" d="M203.6,135.6h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+            <path id="rect12095" class="st18" d="M200.9,133h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+            <path id="rect12099" class="st18" d="M214,146.1h0c.5.5.3,1.5-.4,2.2l-42.2,42.2c-.7.7-1.7.9-2.2.4h0c-.5-.5-.3-1.5.4-2.2l42.2-42.2c.7-.7,1.7-.9,2.2-.4Z"/>
+          </g>
+          <rect id="rect11857" class="st19" x="145.1" y="122" width="56.3" height="56.3" transform="translate(-55.4 166.5) rotate(-45)"/>
+        </g>
+      </g>
+      <rect id="rect18-1" class="st18" x="184.6" y="5" width="2.9" height="25.9" rx=".2" ry=".2"/>
+      <rect id="rect19-1" class="st18" x="188.8" y="5" width="2.9" height="25.9" rx=".2" ry=".2"/>
+      <rect id="rect15-9" class="st18" x="197.1" y="12.9" width="2.9" height="18" rx=".2" ry=".2"/>
+      <rect id="rect17-4" class="st18" x="180.5" y="12.9" width="2.9" height="18" rx=".2" ry=".2"/>
+      <rect id="rect20-6" class="st18" x="192.9" y="12.9" width="2.9" height="18" rx=".2" ry=".2"/>
+      <rect id="rect38186" class="st15" x="172.8" y=".3" width="34.8" height="27.3"/>
+      <rect id="rect38276" class="st11" x="197.2" y="4.2" width="6.6" height="10.5"/>
+      <rect id="rect38278" class="st11" x="176.6" y="4.2" width="6.6" height="10.5"/>
+      <g id="g74">
+        <g id="g52">
+          <g id="g39">
+            <circle id="circle38" class="st21" cx="241.7" cy="82.3" r="4"/>
+            <circle id="circle39" class="st4" cx="241.7" cy="82.3" r="2.5"/>
+          </g>
+          <g id="g41">
+            <circle id="circle40" class="st21" cx="241.7" cy="92.8" r="4"/>
+            <circle id="circle41" class="st4" cx="241.7" cy="92.8" r="2.5"/>
+          </g>
+          <g id="g43">
+            <circle id="circle42" class="st21" cx="241.7" cy="71.9" r="4"/>
+            <circle id="circle43" class="st4" cx="241.7" cy="71.9" r="2.5"/>
+          </g>
+          <g id="g45">
+            <circle id="circle44" class="st21" cx="241.7" cy="61.4" r="4"/>
+            <circle id="circle45" class="st4" cx="241.7" cy="61.4" r="2.5"/>
+          </g>
+          <g id="g47">
+            <circle id="circle46" class="st21" cx="241.7" cy="124.1" r="4"/>
+            <circle id="circle47" class="st4" cx="241.7" cy="124.1" r="2.5"/>
+          </g>
+          <g id="g49">
+            <circle id="circle48" class="st21" cx="241.7" cy="113.7" r="4"/>
+            <circle id="circle49" class="st4" cx="241.7" cy="113.7" r="2.5"/>
+          </g>
+          <g id="g51">
+            <circle id="circle50" class="st21" cx="241.7" cy="103.2" r="4"/>
+            <circle id="circle51" class="st4" cx="241.7" cy="103.2" r="2.5"/>
+          </g>
+        </g>
+        <g id="g68">
+          <g id="g55">
+            <circle id="circle54" class="st21" cx="241.6" cy="145" r="4"/>
+            <circle id="circle55" class="st4" cx="241.6" cy="145" r="2.5"/>
+          </g>
+          <g id="g58">
+            <circle id="circle56" class="st21" cx="241.6" cy="155.5" r="4"/>
+            <circle id="circle57" class="st4" cx="241.6" cy="155.5" r="2.5"/>
+          </g>
+          <g id="g60">
+            <circle id="circle58" class="st21" cx="241.6" cy="134.6" r="4"/>
+            <circle id="circle59" class="st4" cx="241.6" cy="134.6" r="2.5"/>
+          </g>
+          <g id="g63">
+            <circle id="circle62" class="st21" cx="241.6" cy="186.8" r="4"/>
+            <circle id="circle63" class="st4" cx="241.6" cy="186.8" r="2.5"/>
+          </g>
+          <g id="g65">
+            <circle id="circle64" class="st21" cx="241.6" cy="176.4" r="4"/>
+            <circle id="circle65" class="st4" cx="241.6" cy="176.4" r="2.5"/>
+          </g>
+          <g id="g67">
+            <circle id="circle66" class="st21" cx="241.6" cy="165.9" r="4"/>
+            <circle id="circle67" class="st4" cx="241.6" cy="165.9" r="2.5"/>
+          </g>
+          <g id="g69">
+            <circle id="circle68" class="st21" cx="241.6" cy="218.2" r="4"/>
+            <circle id="circle69" class="st4" cx="241.6" cy="218.2" r="2.5"/>
+          </g>
+          <g id="g71">
+            <circle id="circle70" class="st21" cx="241.6" cy="207.7" r="4"/>
+            <circle id="circle71" class="st4" cx="241.6" cy="207.7" r="2.5"/>
+          </g>
+          <g id="g73">
+            <circle id="circle72" class="st21" cx="241.6" cy="197.3" r="4"/>
+            <circle id="circle73" class="st4" cx="241.6" cy="197.3" r="2.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="g114">
+        <g id="g94">
+          <g id="g75">
+            <circle id="circle74" class="st21" cx="229.6" cy="82.3" r="4"/>
+            <circle id="circle75" class="st4" cx="229.6" cy="82.3" r="2.5"/>
+          </g>
+          <g id="g77">
+            <circle id="circle76" class="st21" cx="229.6" cy="92.8" r="4"/>
+            <circle id="circle77" class="st4" cx="229.6" cy="92.8" r="2.5"/>
+          </g>
+          <g id="g85">
+            <circle id="circle78" class="st21" cx="229.6" cy="71.9" r="4"/>
+            <circle id="circle79" class="st4" cx="229.6" cy="71.9" r="2.5"/>
+          </g>
+          <g id="g87">
+            <circle id="circle85" class="st21" cx="229.6" cy="61.4" r="4"/>
+            <circle id="circle86" class="st4" cx="229.6" cy="61.4" r="2.5"/>
+          </g>
+          <g id="g90">
+            <circle id="circle87" class="st21" cx="229.6" cy="124.1" r="4"/>
+            <circle id="circle88" class="st4" cx="229.6" cy="124.1" r="2.5"/>
+          </g>
+          <g id="g91">
+            <circle id="circle90" class="st21" cx="229.6" cy="113.7" r="4"/>
+            <circle id="circle91" class="st4" cx="229.6" cy="113.7" r="2.5"/>
+          </g>
+          <g id="g93">
+            <circle id="circle92" class="st21" cx="229.6" cy="103.2" r="4"/>
+            <circle id="circle93" class="st4" cx="229.6" cy="103.2" r="2.5"/>
+          </g>
+        </g>
+        <g id="g113">
+          <g id="g95">
+            <circle id="circle94" class="st21" cx="229.5" cy="145" r="4"/>
+            <circle id="circle95" class="st4" cx="229.5" cy="145" r="2.5"/>
+          </g>
+          <g id="g97">
+            <circle id="circle96" class="st21" cx="229.5" cy="155.5" r="4"/>
+            <circle id="circle97" class="st4" cx="229.5" cy="155.5" r="2.5"/>
+          </g>
+          <g id="g100">
+            <circle id="circle98" class="st21" cx="229.5" cy="134.6" r="4"/>
+            <circle id="circle99" class="st4" cx="229.5" cy="134.6" r="2.5"/>
+          </g>
+          <g id="g102">
+            <circle id="circle101" class="st21" cx="229.5" cy="186.8" r="4"/>
+            <circle id="circle102" class="st4" cx="229.5" cy="186.8" r="2.5"/>
+          </g>
+          <g id="g104">
+            <circle id="circle103" class="st21" cx="229.5" cy="176.4" r="4"/>
+            <circle id="circle104" class="st4" cx="229.5" cy="176.4" r="2.5"/>
+          </g>
+          <g id="g106">
+            <circle id="circle105" class="st21" cx="229.5" cy="165.9" r="4"/>
+            <circle id="circle106" class="st4" cx="229.5" cy="165.9" r="2.5"/>
+          </g>
+          <g id="g108">
+            <circle id="circle107" class="st21" cx="229.5" cy="218.2" r="4"/>
+            <circle id="circle108" class="st4" cx="229.5" cy="218.2" r="2.5"/>
+          </g>
+          <g id="g110">
+            <circle id="circle109" class="st21" cx="229.5" cy="207.7" r="4"/>
+            <circle id="circle110" class="st4" cx="229.5" cy="207.7" r="2.5"/>
+          </g>
+          <g id="g112">
+            <circle id="circle111" class="st21" cx="229.5" cy="197.3" r="4"/>
+            <circle id="circle112" class="st4" cx="229.5" cy="197.3" r="2.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="g147">
+        <g id="g128">
+          <g id="g115">
+            <circle id="circle114" class="st21" cx="107.9" cy="82.3" r="4"/>
+            <circle id="circle115" class="st4" cx="107.9" cy="82.3" r="2.5"/>
+          </g>
+          <g id="g117">
+            <circle id="circle116" class="st21" cx="107.9" cy="92.8" r="4"/>
+            <circle id="circle117" class="st4" cx="107.9" cy="92.8" r="2.5"/>
+          </g>
+          <g id="g119">
+            <circle id="circle118" class="st21" cx="107.9" cy="71.9" r="4"/>
+            <circle id="circle119" class="st4" cx="107.9" cy="71.9" r="2.5"/>
+          </g>
+          <g id="g121">
+            <circle id="circle120" class="st21" cx="107.9" cy="61.4" r="4"/>
+            <circle id="circle121" class="st4" cx="107.9" cy="61.4" r="2.5"/>
+          </g>
+          <g id="g123">
+            <circle id="circle122" class="st21" cx="107.9" cy="124.1" r="4"/>
+            <circle id="circle123" class="st4" cx="107.9" cy="124.1" r="2.5"/>
+          </g>
+          <g id="g125">
+            <circle id="circle124" class="st21" cx="107.9" cy="113.7" r="4"/>
+            <circle id="circle125" class="st4" cx="107.9" cy="113.7" r="2.5"/>
+          </g>
+          <g id="g127">
+            <circle id="circle126" class="st21" cx="107.9" cy="103.2" r="4"/>
+            <circle id="circle127" class="st4" cx="107.9" cy="103.2" r="2.5"/>
+          </g>
+        </g>
+        <g id="g146">
+          <g id="g129">
+            <circle id="circle128" class="st21" cx="107.8" cy="145" r="4"/>
+            <circle id="circle129" class="st4" cx="107.8" cy="145" r="2.5"/>
+          </g>
+          <g id="g131">
+            <circle id="circle130" class="st21" cx="107.8" cy="155.5" r="4"/>
+            <circle id="circle131" class="st4" cx="107.8" cy="155.5" r="2.5"/>
+          </g>
+          <g id="g133">
+            <circle id="circle132" class="st21" cx="107.8" cy="134.6" r="4"/>
+            <circle id="circle133" class="st4" cx="107.8" cy="134.6" r="2.5"/>
+          </g>
+          <g id="g135">
+            <circle id="circle134" class="st21" cx="107.8" cy="186.8" r="4"/>
+            <circle id="circle135" class="st4" cx="107.8" cy="186.8" r="2.5"/>
+          </g>
+          <g id="g137">
+            <circle id="circle136" class="st21" cx="107.8" cy="176.4" r="4"/>
+            <circle id="circle137" class="st4" cx="107.8" cy="176.4" r="2.5"/>
+          </g>
+          <g id="g139">
+            <circle id="circle138" class="st21" cx="107.8" cy="165.9" r="4"/>
+            <circle id="circle139" class="st4" cx="107.8" cy="165.9" r="2.5"/>
+          </g>
+          <g id="g141">
+            <circle id="circle140" class="st21" cx="107.8" cy="218.2" r="4"/>
+            <circle id="circle141" class="st4" cx="107.8" cy="218.2" r="2.5"/>
+          </g>
+          <g id="g143">
+            <circle id="circle142" class="st21" cx="107.8" cy="207.7" r="4"/>
+            <circle id="circle143" class="st4" cx="107.8" cy="207.7" r="2.5"/>
+          </g>
+          <g id="g145">
+            <circle id="circle144" class="st21" cx="107.8" cy="197.3" r="4"/>
+            <circle id="circle145" class="st4" cx="107.8" cy="197.3" r="2.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="g180">
+        <g id="g161">
+          <g id="g148">
+            <circle id="circle147" class="st21" cx="95.9" cy="82.3" r="4"/>
+            <circle id="circle148" class="st4" cx="95.9" cy="82.3" r="2.5"/>
+          </g>
+          <g id="g150">
+            <circle id="circle149" class="st21" cx="95.9" cy="92.8" r="4"/>
+            <circle id="circle150" class="st4" cx="95.9" cy="92.8" r="2.5"/>
+          </g>
+          <g id="g152">
+            <circle id="circle151" class="st21" cx="95.9" cy="71.9" r="4"/>
+            <circle id="circle152" class="st4" cx="95.9" cy="71.9" r="2.5"/>
+          </g>
+          <g id="g154">
+            <circle id="circle153" class="st21" cx="95.9" cy="61.4" r="4"/>
+            <circle id="circle154" class="st4" cx="95.9" cy="61.4" r="2.5"/>
+          </g>
+          <g id="g156">
+            <circle id="circle155" class="st21" cx="95.9" cy="124.1" r="4"/>
+            <circle id="circle156" class="st4" cx="95.9" cy="124.1" r="2.5"/>
+          </g>
+          <g id="g158">
+            <circle id="circle157" class="st21" cx="95.9" cy="113.7" r="4"/>
+            <circle id="circle158" class="st4" cx="95.9" cy="113.7" r="2.5"/>
+          </g>
+          <g id="g160">
+            <circle id="circle159" class="st21" cx="95.9" cy="103.2" r="4"/>
+            <circle id="circle160" class="st4" cx="95.9" cy="103.2" r="2.5"/>
+          </g>
+        </g>
+        <g id="g179">
+          <g id="g162">
+            <circle id="circle161" class="st21" cx="95.8" cy="145" r="4"/>
+            <circle id="circle162" class="st4" cx="95.8" cy="145" r="2.5"/>
+          </g>
+          <g id="g164">
+            <circle id="circle163" class="st21" cx="95.8" cy="155.5" r="4"/>
+            <circle id="circle164" class="st4" cx="95.8" cy="155.5" r="2.5"/>
+          </g>
+          <g id="g166">
+            <circle id="circle165" class="st21" cx="95.8" cy="134.6" r="4"/>
+            <circle id="circle166" class="st4" cx="95.8" cy="134.6" r="2.5"/>
+          </g>
+          <g id="g168">
+            <circle id="circle167" class="st21" cx="95.8" cy="186.8" r="4"/>
+            <circle id="circle168" class="st4" cx="95.8" cy="186.8" r="2.5"/>
+          </g>
+          <g id="g170">
+            <circle id="circle169" class="st21" cx="95.8" cy="176.4" r="4"/>
+            <circle id="circle170" class="st4" cx="95.8" cy="176.4" r="2.5"/>
+          </g>
+          <g id="g172">
+            <circle id="circle171" class="st21" cx="95.8" cy="165.9" r="4"/>
+            <circle id="circle172" class="st4" cx="95.8" cy="165.9" r="2.5"/>
+          </g>
+          <g id="g174">
+            <circle id="circle173" class="st21" cx="95.8" cy="218.2" r="4"/>
+            <circle id="circle174" class="st4" cx="95.8" cy="218.2" r="2.5"/>
+          </g>
+          <g id="g176">
+            <circle id="circle175" class="st21" cx="95.8" cy="207.7" r="4"/>
+            <circle id="circle176" class="st4" cx="95.8" cy="207.7" r="2.5"/>
+          </g>
+          <g id="g178">
+            <circle id="circle177" class="st21" cx="95.8" cy="197.3" r="4"/>
+            <circle id="circle178" class="st4" cx="95.8" cy="197.3" r="2.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="g213">
+        <g id="g212">
+          <g id="g201">
+            <circle id="circle200" class="st21" cx="107.8" cy="30.1" r="4"/>
+            <circle id="circle201" class="st4" cx="107.8" cy="30.1" r="2.5"/>
+          </g>
+          <g id="g203">
+            <circle id="circle202" class="st21" cx="107.8" cy="19.6" r="4"/>
+            <circle id="circle203" class="st4" cx="107.8" cy="19.6" r="2.5"/>
+          </g>
+          <g id="g205">
+            <circle id="circle204" class="st21" cx="107.8" cy="9.2" r="4"/>
+            <circle id="circle205" class="st4" cx="107.8" cy="9.2" r="2.5"/>
+          </g>
+          <g id="g209">
+            <circle id="circle208" class="st21" cx="107.8" cy="51" r="4"/>
+            <circle id="circle209" class="st4" cx="107.8" cy="51" r="2.5"/>
+          </g>
+          <g id="g211">
+            <circle id="circle210" class="st21" cx="107.8" cy="40.5" r="4"/>
+            <circle id="circle211" class="st4" cx="107.8" cy="40.5" r="2.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="g246">
+        <g id="g245">
+          <g id="g234">
+            <circle id="circle233" class="st21" cx="95.8" cy="30.1" r="4"/>
+            <circle id="circle234" class="st4" cx="95.8" cy="30.1" r="2.5"/>
+          </g>
+          <g id="g236">
+            <circle id="circle235" class="st21" cx="95.8" cy="19.6" r="4"/>
+            <circle id="circle236" class="st4" cx="95.8" cy="19.6" r="2.5"/>
+          </g>
+          <g id="g238">
+            <circle id="circle237" class="st21" cx="95.8" cy="9.2" r="4"/>
+            <circle id="circle238" class="st4" cx="95.8" cy="9.2" r="2.5"/>
+          </g>
+          <g id="g242">
+            <circle id="circle241" class="st21" cx="95.8" cy="51" r="4"/>
+            <circle id="circle242" class="st4" cx="95.8" cy="51" r="2.5"/>
+          </g>
+          <g id="g244">
+            <circle id="circle243" class="st21" cx="95.8" cy="40.5" r="4"/>
+            <circle id="circle244" class="st4" cx="95.8" cy="40.5" r="2.5"/>
+          </g>
+        </g>
+      </g>
+      <g id="g431">
+        <g id="g394">
+          <circle id="circle393" class="st21" cx="207.8" cy="218.2" r="4"/>
+          <circle id="circle394" class="st4" cx="207.8" cy="218.2" r="2.5"/>
+        </g>
+        <g id="g396">
+          <circle id="circle395" class="st21" cx="197.4" cy="218.2" r="4"/>
+          <circle id="circle396" class="st4" cx="197.4" cy="218.2" r="2.5"/>
+        </g>
+        <g id="g398">
+          <circle id="circle397" class="st21" cx="218.3" cy="218.2" r="4"/>
+          <circle id="circle398" class="st4" cx="218.3" cy="218.2" r="2.5"/>
+        </g>
+        <g id="g413">
+          <circle id="circle412" class="st21" cx="207.8" cy="207.7" r="4"/>
+          <circle id="circle413" class="st4" cx="207.8" cy="207.7" r="2.5"/>
+        </g>
+        <g id="g415">
+          <circle id="circle414" class="st21" cx="197.4" cy="207.7" r="4"/>
+          <circle id="circle415" class="st4" cx="197.4" cy="207.7" r="2.5"/>
+        </g>
+        <g id="g417">
+          <circle id="circle416" class="st21" cx="218.3" cy="207.7" r="4"/>
+          <circle id="circle417" class="st4" cx="218.3" cy="207.7" r="2.5"/>
+        </g>
+      </g>
+      <g id="g443">
+        <g id="g432">
+          <circle id="circle431" class="st21" cx="159.7" cy="218.2" r="4"/>
+          <circle id="circle432" class="st4" cx="159.7" cy="218.2" r="2.5"/>
+        </g>
+        <g id="g434">
+          <circle id="circle433" class="st21" cx="149.3" cy="218.2" r="4"/>
+          <circle id="circle434" class="st4" cx="149.3" cy="218.2" r="2.5"/>
+        </g>
+        <g id="g436">
+          <circle id="circle435" class="st21" cx="170.2" cy="218.2" r="4"/>
+          <circle id="circle436" class="st4" cx="170.2" cy="218.2" r="2.5"/>
+        </g>
+        <g id="g438">
+          <circle id="circle437" class="st21" cx="159.7" cy="207.7" r="4"/>
+          <circle id="circle438" class="st4" cx="159.7" cy="207.7" r="2.5"/>
+        </g>
+        <g id="g440">
+          <circle id="circle439" class="st21" cx="149.3" cy="207.7" r="4"/>
+          <circle id="circle440" class="st4" cx="149.3" cy="207.7" r="2.5"/>
+        </g>
+        <g id="g442">
+          <circle id="circle441" class="st21" cx="170.2" cy="207.7" r="4"/>
+          <circle id="circle442" class="st4" cx="170.2" cy="207.7" r="2.5"/>
+        </g>
+      </g>
+      <g id="g453">
+        <rect id="rect452" class="st0" x="140.2" y="189.3" width="8.8" height="4.4"/>
+        <rect id="rect453" class="st20" x="142.1" y="189.3" width="5" height="4.4"/>
+      </g>
+      <g id="g455">
+        <rect id="rect454" class="st0" x="140.2" y="182.1" width="8.8" height="4.4"/>
+        <rect id="rect455" class="st20" x="142.1" y="182.1" width="5" height="4.4"/>
+      </g>
+      <g id="g457">
+        <rect id="rect456" class="st0" x="140.2" y="174.9" width="8.8" height="4.4"/>
+        <rect id="rect457" class="st20" x="142.1" y="174.9" width="5" height="4.4"/>
+      </g>
+      <g id="g459">
+        <rect id="rect458" class="st0" x="148.5" y="98.3" width="4.4" height="8.8"/>
+        <rect id="rect459" class="st20" x="148.5" y="100.3" width="4.4" height="5"/>
+      </g>
+      <g id="g461">
+        <rect id="rect460" class="st0" x="141.3" y="98.3" width="4.4" height="8.8"/>
+        <rect id="rect461" class="st20" x="141.3" y="100.3" width="4.4" height="5"/>
+      </g>
+      <g id="g463">
+        <rect id="rect462" class="st0" x="134" y="98.3" width="4.4" height="8.8"/>
+        <rect id="rect463" class="st20" x="134" y="100.3" width="4.4" height="5"/>
+      </g>
+      <g id="g465">
+        <rect id="rect464" class="st0" x="126.8" y="98.3" width="4.4" height="8.8"/>
+        <rect id="rect465" class="st20" x="126.8" y="100.3" width="4.4" height="5"/>
+      </g>
+      <g id="g467">
+        <rect id="rect466" class="st0" x="119.6" y="98.3" width="4.4" height="8.8"/>
+        <rect id="rect467" class="st20" x="119.6" y="100.3" width="4.4" height="5"/>
+      </g>
+      <g id="g471">
+        <rect id="rect470" class="st0" x="141.3" y="110.9" width="4.4" height="8.8"/>
+        <rect id="rect471" class="st20" x="141.3" y="112.8" width="4.4" height="5"/>
+      </g>
+      <g id="g473">
+        <rect id="rect472" class="st0" x="134" y="110.9" width="4.4" height="8.8"/>
+        <rect id="rect473" class="st20" x="134" y="112.8" width="4.4" height="5"/>
+      </g>
+      <g id="g475">
+        <rect id="rect474" class="st0" x="126.8" y="110.9" width="4.4" height="8.8"/>
+        <rect id="rect475" class="st20" x="126.8" y="112.8" width="4.4" height="5"/>
+      </g>
+      <g id="g477">
+        <rect id="rect476" class="st0" x="119.6" y="110.9" width="4.4" height="8.8"/>
+        <rect id="rect477" class="st20" x="119.6" y="112.8" width="4.4" height="5"/>
+      </g>
+      <g id="g485">
+        <rect id="rect484" class="st0" x="126.8" y="124.4" width="4.4" height="8.8"/>
+        <rect id="rect485" class="st20" x="126.8" y="126.4" width="4.4" height="5"/>
+      </g>
+      <g id="g487">
+        <rect id="rect486" class="st0" x="119.6" y="124.4" width="4.4" height="8.8"/>
+        <rect id="rect487" class="st20" x="119.6" y="126.4" width="4.4" height="5"/>
+      </g>
+      <g id="g491">
+        <rect id="rect490" class="st0" x="152.3" y="61.8" width="2.9" height="28.7"/>
+        <rect id="rect492" class="st0" x="157.2" y="61.8" width="2.9" height="28.7"/>
+        <rect id="rect493" class="st0" x="162.2" y="61.8" width="2.9" height="28.7"/>
+        <rect id="rect494" class="st0" x="167.1" y="61.8" width="2.9" height="28.7"/>
+        <rect id="rect495" class="st0" x="172.1" y="61.8" width="2.9" height="28.7"/>
+        <rect id="rect496" class="st0" x="177" y="61.8" width="2.9" height="28.7"/>
+        <rect id="rect497" class="st0" x="182" y="61.8" width="2.9" height="28.7"/>
+        <rect id="rect498" class="st0" x="186.9" y="61.8" width="2.9" height="28.7"/>
+        <rect id="rect491" class="st19" x="151.1" y="66.5" width="39.6" height="19.3"/>
+      </g>
+      <g id="g500">
+        <rect id="rect499" class="st0" x="197.2" y="98.3" width="4.4" height="8.8"/>
+        <rect id="rect500" class="st20" x="197.2" y="100.3" width="4.4" height="5"/>
+      </g>
+      <g id="g502">
+        <rect id="rect501" class="st0" x="190" y="98.3" width="4.4" height="8.8"/>
+        <rect id="rect502" class="st20" x="190" y="100.3" width="4.4" height="5"/>
+      </g>
+      <g id="g504">
+        <rect id="rect503" class="st0" x="182.7" y="98.3" width="4.4" height="8.8"/>
+        <rect id="rect504" class="st20" x="182.7" y="100.3" width="4.4" height="5"/>
+      </g>
+      <g id="g506">
+        <rect id="rect505" class="st0" x="197.2" y="72.2" width="4.4" height="8.8"/>
+        <rect id="rect506" class="st20" x="197.2" y="74.1" width="4.4" height="5"/>
+      </g>
+      <g id="g508">
+        <rect id="rect507" class="st0" x="197.2" y="84.8" width="4.4" height="8.8"/>
+        <rect id="rect508" class="st20" x="197.2" y="86.7" width="4.4" height="5"/>
+      </g>
+      <g id="g511">
+        <rect id="rect510" class="st0" x="197.2" y="47" width="4.4" height="8.8"/>
+        <rect id="rect511" class="st20" x="197.2" y="48.9" width="4.4" height="5"/>
+      </g>
+      <g id="g513">
+        <rect id="rect512" class="st0" x="197.2" y="59.6" width="4.4" height="8.8"/>
+        <rect id="rect513" class="st20" x="197.2" y="61.5" width="4.4" height="5"/>
+      </g>
+      <circle id="circle513" class="st3" cx="213.1" cy="58.6" r="6.8"/>
+      <g id="g515">
+        <rect id="rect514" class="st0" x="166.2" y="35.5" width="9.2" height="18.1"/>
+        <rect id="rect515" class="st20" x="166.2" y="38.7" width="9.2" height="11.8"/>
+      </g>
+      <g id="g517">
+        <rect id="rect516" class="st0" x="178.2" y="35.5" width="9.2" height="18.1"/>
+        <rect id="rect517" class="st20" x="178.2" y="38.7" width="9.2" height="11.8"/>
+      </g>
+      <g id="g519">
+        <rect id="rect518" class="st0" x="215.6" y="34.4" width="4.4" height="8.8"/>
+        <rect id="rect519" class="st20" x="215.6" y="36.4" width="4.4" height="5"/>
+      </g>
+      <g id="g521">
+        <rect id="rect520" class="st0" x="208.4" y="34.4" width="4.4" height="8.8"/>
+        <rect id="rect521" class="st20" x="208.4" y="36.4" width="4.4" height="5"/>
+      </g>
+      <g id="g523">
+        <rect id="rect522" class="st0" x="197.2" y="34.4" width="4.4" height="8.8"/>
+        <rect id="rect523" class="st20" x="197.2" y="36.4" width="4.4" height="5"/>
+      </g>
+      <g id="g525">
+        <rect id="rect524" class="st0" x="190" y="34.4" width="4.4" height="8.8"/>
+        <rect id="rect525" class="st20" x="190" y="36.4" width="4.4" height="5"/>
+      </g>
+      <rect id="rect526" class="st1" x="224.4" y="10.8" width="19.8" height="22.3" rx=".2" ry=".2"/>
+      <circle id="circle526" class="st6" cx="234.3" cy="21.9" r="4.9"/>
+      <path id="rect527" class="st14" d="M221.7,81.2v31.3c0,4.4-3.6,8-8,8h0c-4.4,0-8-3.6-8-8v-31.3c0-4.4,3.6-8,8-8h0c4.4,0,8,3.6,8,8Z"/>
+      <g id="g533">
+        <rect id="rect529" class="st0" x="125.3" y="57.7" width="15.6" height="15.9"/>
+        <rect id="rect530" class="st0" x="130.9" y="66.9" width="4.5" height="19.5"/>
+        <rect id="rect531" class="st0" x="120.8" y="66.9" width="4.5" height="19.5"/>
+        <rect id="rect532" class="st0" x="140.3" y="66.9" width="4.5" height="19.5"/>
+        <rect id="rect533" class="st19" x="117.6" y="63.3" width="31.1" height="17.6"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect id="rect578" class="st17" x="33.6" y="67.9" width="36.7" height="8.9"/>
+    <g id="text578" class="st7">
+      <g class="st7">
+        <g class="st7">
+          <g class="st7">
+            <g class="st7">
+              <text class="st5" transform="translate(48.8 74.9)"><tspan x="0" y="0">3</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="g3557">
+    <rect id="rect3553" class="st20" x="175.5" y="133.9" width="6.1" height="15.3" rx=".5" ry=".5" transform="translate(-47.8 167.7) rotate(-45)"/>
+    <rect id="rect3554" class="st20" x="173.6" y="138" width="4.4" height="22.6" rx=".5" ry=".5" transform="translate(-54.1 168) rotate(-45)"/>
+    <rect id="rect3555" class="st20" x="164.2" y="144.6" width="4.4" height="9" rx=".5" ry=".5" transform="translate(-56.7 161.3) rotate(-45)"/>
+    <rect id="rect3556" class="st20" x="161.9" y="148.2" width="4.4" height="14.6" rx=".5" ry=".5" transform="translate(-61.9 161.6) rotate(-45)"/>
+    <rect id="rect3557" class="st20" x="169.8" y="161.2" width="4.4" height="4.4" rx=".5" ry=".5" transform="translate(-65.2 169.5) rotate(-45)"/>
+  </g>
+  <polyline class="st8" points="65.8 45.3 80.5 45.3 80.5 19.7 95.8 19.7"/>
+  <polyline class="st9" points="65.8 55.2 80.8 55.2 80.8 72.2 95.9 72.2"/>
+  <g>
+    <g>
+      <rect class="st21" x="57.5" y="54" width="8.4" height="2.7"/>
+      <rect class="st21" x="57.5" y="44.2" width="8.4" height="2.7"/>
+    </g>
+    <g>
+      <rect class="st20" x="37.7" y="40.5" width="20" height="20"/>
+      <circle class="st13" cx="47.7" cy="50.5" r="5.6"/>
+    </g>
+    <g>
+      <rect class="st21" x="29.3" y="54" width="8.4" height="2.7"/>
+      <rect class="st21" x="29.3" y="44.2" width="8.4" height="2.7"/>
+    </g>
+  </g>
+</svg>
