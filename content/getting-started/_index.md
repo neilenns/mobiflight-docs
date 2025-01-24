@@ -31,17 +31,16 @@ Connect a [supported board](/boards/) to your PC and when prompted by MobiFlight
 firmware.
 
 > [!TIP]
-> Some boards cannot have their type automatically determined by MobiFlight. If that happens, a dialog
-> will warn you that the board type couldn't be identified, and you will need to manually install the firmware
-> from the [MobiFlight Modules dialog](/features/modules/).
+> Some boards cannot have their type automatically determined by MobiFlight. If that happens, see the
+> [flashing ambiguous boards](/guides/flashing-ambiguous-boards/) guide.
 
 ### Add an LED device and output configuration for the parking brake indicator
 
-See the [LED tutorial](/devices/led) for complete steps on how to wire the LED and create the output configuration.
+See the [LED tutorial](/devices/led/) for complete steps on how to wire the LED and create the output configuration.
 
 ### Add a switch and create an input configuration for the parking brake
 
-See the switch tutorial for complete steps on how to wire the switch and create the input configuration.
+See the [buttons and switches tutorial](/devices/button-switch/) for complete steps on how to wire the switch and create the input configuration.
 
 ### Start the sim and try it out
 
