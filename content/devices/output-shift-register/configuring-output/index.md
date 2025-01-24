@@ -1,14 +1,14 @@
 ---
 title: Configuring the output
-description: Step-by-step guide for configuring an output to use an LED in MobiFlight.
-ogimage: card-images/devices/led.png
+description: Step-by-step guide for configuring an output to use an LED attached to an output shift register or LED driver in MobiFlight.
+ogimage: card-images/devices/output-shift-register-dm13a.png
 weight: 30
 ---
 
-LEDs are typically mapped to simulator variables that output either `0` (for off) or `1` (for on). The following steps demonstrate how to use an LED to show the current state of an aircraft's parking brake in Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
+Devices connected to output shift registers are typically mapped to simulator variables that output either `0` (for off) or `1` (for on). The following steps demonstrate how to use an LED attached to an output shift register to show the current state of an aircraft's parking brake in Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
 
 > [!TIP]
-> The steps for using an LED with X-Plane are similar. Use the **X-Plane DataRef** type when configuring the **Sim Variable** tab.
+> The steps for using an output shift register with X-Plane are similar. Use the **X-Plane DataRef** type when configuring the **Sim Variable** tab.
 
 {{% steps %}}
 
@@ -38,15 +38,15 @@ Use the **Select Preset** dropdown to select the **PARKING BRAKE INDICATOR** pre
 
 ### Select the board and device type for the output
 
-On the **Display** tab, use the **Module** and **Use type of** dropdowns to select your connected board and the **LED / Output** device type.
+On the **Display** tab, use the **Module** and **Use type of** dropdowns to select your connected board and the **ShiftRegister** device type.
 
-{{< screenshot image="display-tab-output-selected.png" title="Screenshot of the display tab in the output dialog with a board and LED / Output type selected." >}}
+{{< screenshot image="display-tab-output-selected.png" title="Screenshot of the display tab in the output dialog with a board and ShiftRegister type selected." >}}
 
 ### Select the LED to use for display
 
-Use the **Select Pins** dropdown to select the [LED device](/devices/led/adding-device) that should display the output value.
+Use the **Shift Register** dropdown to select the [output shift register](/devices/output-shift-register/adding-device) that should display the output value. Use the **Select Pins** dropdown to select the pin on the output shift register the LED is connected to.
 
-{{< screenshot image="display-tab-select-pins.png" title="Screenshot of the display tab in the output dialog with an LED output selected in the select pins dropdown." >}}
+{{< screenshot image="display-tab-select-pins.png" title="Screenshot of the display tab in the output dialog with an output shift register selected in the Shift Register dropdown and Output 0 selected in the Select Pins dropdown." >}}
 
 ### Close the dialog and try it out
 
