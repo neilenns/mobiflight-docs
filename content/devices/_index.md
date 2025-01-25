@@ -30,8 +30,7 @@ MobiFlight supports a wide range of different hardware components when connected
 {{< card link="lcd" title="LCDs" image="card-images/devices/lcd.png" >}}
 {{< card link="led" title="LEDs" image="card-images/devices/led.png" >}}
 {{< card link="servo" title="Servos" image="card-images/devices/servo.png" >}}
-{{< card link="seven-segment-tm1637" title="7-segment displays" subtitle="Using the TM1637 driver" image="card-images/devices/seven-segment-tm1637.png" >}}
-{{< card link="seven-segment-max7219" title="7-segment displays" subtitle="Using the MAX7219 driver" image="card-images/devices/seven-segment-max7219.png" >}}
+{{< card link="seven-segment-display" title="7-segment display modules" subtitle="Using the MAX7219 or TM1637 driver" image="card-images/devices/seven-segment-max7219.png" >}}
 {{< card link="stepper-motor" title="Stepper motors" image="card-images/devices/stepper-motor.png" >}}
 {{< card link="output-shift-register" title="Output shift registers" subtitle="74HC595 and LED drivers" image="card-images/devices/output-shift-register-74hc595.png" >}}
 {{< /cards >}}
