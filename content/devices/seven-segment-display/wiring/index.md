@@ -10,14 +10,14 @@ prev: /devices/seven-segment-display/
 
 {{< tab >}}
 
+The **DIN**, **CS**, and **CLK** pins can be connected to any digital or analog input pin on the board.
+
+{{< schematic image="max7219.svg" title="Schematic for wiring up to eight MAX7219 display modules in series." >}}
+
 > [!WARNING]
 > MAX7219 modules are sensitive to poor electrical connections and low voltage.
 >
 > Always use high quality cables and an external +5V power source when connecting these modules to a board. When chaining multiple MAX7219 modules do not daisy chain the +5V power.
-
-The **DIN**, **CS**, and **CLK** pins can be connected to any digital or analog input pin on the board.
-
-{{< schematic image="max7219.svg" title="Schematic for wiring up to eight MAX7219 display modules in series." >}}
 
 {{< /tab >}}
 

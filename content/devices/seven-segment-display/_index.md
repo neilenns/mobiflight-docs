@@ -9,9 +9,6 @@ next: /devices/seven-segment-display/wiring/
 
 Modules using the MAX7219 driver chip are the most popular. MobiFlight also supports displays using the TM1637 driver.
 
-> [!WARNING]
-> Some boards use the 74HC595 chip as the driver, particularly when ordered from AliExpress. These boards are not supported by MobiFlight. Pay close attention when ordering and only purchase boards that use the MAX7219 or TM1637 chip.
-
 {{< cards >}}
 
 {{< card link="/devices/seven-segment-tm1637-four-digits.png" title="4-digit module" subtitle="Using the TM1637 driver" image="card-images/devices/seven-segment-tm1637-four-digits.png" >}}
@@ -21,3 +18,6 @@ Modules using the MAX7219 driver chip are the most popular. MobiFlight also supp
 {{< card link="/devices/seven-segment-max7219" title="8-digit module" subtitle="Using the MAX7219 driver" image="card-images/devices/seven-segment-max7219.png" >}}
 
 {{< /cards >}}
+
+> [!WARNING]
+> Some boards use the 74HC595 chip as the driver, particularly when ordered from AliExpress. These boards are not supported by MobiFlight. Pay close attention when ordering and only purchase boards that use the MAX7219 or TM1637 chip.
