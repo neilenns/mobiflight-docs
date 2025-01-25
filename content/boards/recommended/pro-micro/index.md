@@ -49,5 +49,6 @@ The Pro Micro (16MHz) is a compact board that trades a smaller size for fewer IO
 ## Additional resources
 
 - [Buy from the MobiFlight shop and help support the project](https://shop.mobiflight.com/product/arduino-pro-micro-usb-c)
+- [How to Revive a "Bricked" Pro Micro](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/all#ts-revive)
 - [Official technical documentation](https://www.sparkfun.com/pro-micro-5v-16mhz.html#documentation)
 - [Pinout diagram (PDF)](pinout.pdf)
