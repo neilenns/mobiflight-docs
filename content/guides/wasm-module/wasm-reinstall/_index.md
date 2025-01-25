@@ -4,8 +4,6 @@ description: How to reinstall the WASM module with MobiFlight.
 weight: 20
 ---
 
-In most cases this problem can be resolved by reinstalling the module.
-
 {{% steps %}}
 
 ### Close Microsoft Flight Simulator
@@ -27,7 +25,7 @@ A dialog will show after the installation completes indicating a successful inst
 
 ## Verify the installation
 
-Launch Microsoft Flight Simulator and MobiFlight. Once flight simulator loads to the main screen, MobiFlight will update to show the active simulator connection in the status bar.
+Launch Microsoft Flight Simulator and MobiFlight. Once the flight simulator loads to the main screen, MobiFlight will update to show the active simulator connection in the status bar.
 
 {{< screenshot image="wasm-ok.png" title="Screenshot of the main MobiFlight window with the sim status menu open and a green checkmark next to WASM Module (MSFS)." >}}
 
