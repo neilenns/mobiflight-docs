@@ -27,8 +27,8 @@ It is very easy, particularly on boards with double rows of pins, to connect the
 
 ## Try only one module at a time
 
-daisy-chained MAX7219 introduce additional failure points to the setup. If some boards in the chain are working correctly, and others aren't, try simplifying by only connecting a single module. If that works, add additional modules one at a time, taking care to provide a dedicated +5V power input wire and high-quality connections for each additional module.
+Daisy-chained MAX7219 introduce additional failure points to the setup. If some boards in the chain are working correctly, and others aren't, try simplifying by only connecting a single module. If that works, add additional modules one at a time, taking care to provide a dedicated +5V power input wire and high-quality connections for each additional module.
 
 ## Verify the display modules are good
 
-Cheap MAX7219 modules are common, and it is not unusual for the boards themselves to be bad. Try swapping the display module for another one to see if it resolves the problem. In some cases modules may work when they receive an input directly from a board, but will fail to pass data signals properly on the output side to daisy-chained boards.
+Cheap MAX7219 modules are common, and it is not unusual for the boards themselves to be bad. Try swapping the display module for another one to see if it resolves the problem. In some cases, modules may work when they receive an input directly from a board, but will fail to pass data signals properly on the output side to daisy-chained boards.
