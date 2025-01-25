@@ -44,5 +44,6 @@ Unless you already own one, we recommend purchasing a different board, either th
 
 ## Additional resources
 
+- [3D model](https://grabcad.com/library/arduino-uno-r3-ch340-1)
 - [Official technical documentation](https://docs.arduino.cc/hardware/uno-rev3/)
 - [Pinout diagram (PDF)](pinout.pdf)
