@@ -22,7 +22,7 @@ Double-click on the bottom row where the description says **Double-click row to 
 
 Click the button with three dots in the **Edit** column for the row created in the previous step.
 
-{{< screenshot image="input-config-parking-brake-highlight-edit.png" title="Screenshot of the input tab in the main window with the edit button highlighted in red." >}}
+{{< screenshot image="input-config-highlight-edit.png" title="Screenshot of the input tab in the main window with the edit button highlighted in red." >}}
 
 ### Select the board and device for the input
 
