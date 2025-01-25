@@ -17,7 +17,7 @@ The **DIN**, **CS**, and **CLK** pins can be connected to any digital or analog 
 > [!WARNING]
 > MAX7219 modules are sensitive to poor electrical connections and low voltage.
 >
-> Always use high quality cables and an external +5V power source when connecting these modules to a board. When chaining multiple MAX7219 modules do not daisy chain the +5V power.
+> Always use high-quality cables and an external +5V power source when connecting these modules to a board. When chaining multiple MAX7219 modules do not daisy-chain the +5V power.
 
 {{< /tab >}}
 

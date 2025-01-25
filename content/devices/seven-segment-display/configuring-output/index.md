@@ -67,7 +67,7 @@ Use the **use display** checkboxes to specify the six digits to use for the freq
 
 Click the **OK** button to close the dialog, then spawn an airplane in Microsoft Flight Simulator.
 
-Make sure the MobiFlight **Run** button is clicked in the toolbar, then try toggling the parking brake in the simulator. The attached LED should light up when the parking brake is applied.
+Make sure the MobiFlight **Run** button is clicked in the toolbar, then verify the display shows the COM1 active frequency.
 
 {{% /steps %}}
 
