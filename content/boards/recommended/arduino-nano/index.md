@@ -39,5 +39,6 @@ The Arduino Nano is a compact board that trades a smaller size for fewer IO pins
 ## Additional resources
 
 - [Buy from the MobiFlight shop and help support the project](https://shop.mobiflight.com/product/arduino-nano-usb-c)
+- [3D model](https://grabcad.com/library/arduino-nano-ch430g-1)
 - [Official technical documentation](https://docs.arduino.cc/hardware/nano/)
 - [Pinout diagram (PDF)](pinout.pdf)

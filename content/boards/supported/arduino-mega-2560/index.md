@@ -47,5 +47,6 @@ While it has historically been a popular board for MobiFlight projects, the newe
 
 ## Additional resources
 
+- [3D model](https://grabcad.com/library/arduino-mega-2560--1)
 - [Official technical documentation](https://docs.arduino.cc/hardware/mega-2560/)
 - [Pinout diagram (PDF)](pinout.pdf)
