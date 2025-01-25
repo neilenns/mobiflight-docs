@@ -70,3 +70,6 @@ Click the **OK** button to close the dialog, then spawn an airplane in Microsoft
 Make sure the MobiFlight **Run** button is clicked in the toolbar, then try toggling the parking brake in the simulator. The attached LED should light up when the parking brake is applied.
 
 {{% /steps %}}
+
+> [!TIP]
+> TM1637 display modules are configured the same way but have fewer digit and decimal pins to select from in the **Display** tab.
