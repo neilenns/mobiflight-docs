@@ -11,7 +11,15 @@ description: Step-by-step guides to accomplish specific tasks with MobiFlight.
 
 {{< /cards >}}
 
-## Troubleshooting and support
+## Troubleshooting devices
+
+{{< cards >}}
+
+{{< card link="/devices/seven-segment-display/troubleshooting/" title="7-segment displays" icon="information" >}}
+
+{{< /cards >}}
+
+## Troubleshooting MobiFlight
 
 {{< cards >}}
 
