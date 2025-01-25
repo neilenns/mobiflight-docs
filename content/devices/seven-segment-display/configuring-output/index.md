@@ -16,7 +16,7 @@ weight: 30
 
 Double-click on the bottom row where the description says **Double-click row to add new config...** and enter a description for the output. For example, enter **COM1 active frequency** for a display module that will show the current COM1 active frequency.
 
-{{< screenshot image="output-config-highlight-new-com1.png" title="Screenshot of the output tab in the main window with the bottom row highlighted in red." >}}
+{{< screenshot image="output-config-highlight-new.png" title="Screenshot of the output tab in the main window with the bottom row highlighted in red." >}}
 
 ### Open the output configuration dialog
 
@@ -34,7 +34,7 @@ On the **Sim Variable** tab, use the **Filter Preset List** dropdowns to filter 
 
 Use the **Select Preset** dropdown to select the **COM ACTIVE FREQUENCY:index** preset.
 
-{{< screenshot image="sim-variable-brake-parking-indicator.png" title="Screenshot of the sim variable tab in the output dialog with the COM ACTIVE FREQUENCY:index preset selected." >}}
+{{< screenshot image="sim-variable-com-active-frequency.png" title="Screenshot of the sim variable tab in the output dialog with the COM ACTIVE FREQUENCY:index preset selected." >}}
 
 ### Set the radio index
 
