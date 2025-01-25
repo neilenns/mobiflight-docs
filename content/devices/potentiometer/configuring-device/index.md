@@ -34,21 +34,24 @@ Alternatively, press the **Scan for input** button and turn the potentiometer to
 
 ### Set the On Change action type and filter the presets list
 
-On the **Input** tab, select the **On Change** input setting tab. Use the **Action Type** dropdown to select **Microsoft Flight Simulator**. Then use the **Filter Preset List** dropdowns to filter by **Microsoft**, **Generic**, and **Controls**.
+On the **Input** tab, select the **On Change** input setting tab. Use the **Action Type** dropdown to select **Microsoft Flight Simulator**. Then use the **Filter Preset List** dropdowns to filter by **Microsoft**, **Generic**, and **Engines**.
 
-{{< screenshot image="sim-events-filtered-list.png" title="Screenshot of the on press filter preset list filtered by Microsoft / Generic / Controls." >}}
+{{< screenshot image="sim-events-filtered-list.png" title="Screenshot of the on press filter preset list filtered by Microsoft / Generic / Engines." >}}
 
 ### Select the throttle preset
 
-Use the **Select Preset** dropdown to select the **PARKING_BRAKES_ON** preset.
+Use the **Select Preset** dropdown to select the **THROTTLE1_SET** preset.
 
-{{< screenshot image="input-event-throttle.png" title="Screenshot of the input tab on press event with the THROTTLE preset selected." >}}
+{{< screenshot image="input-event-throttle.png" title="Screenshot of the input tab on press event with the THROTTLE1_SET preset selected." >}}
+
+> [!TIP]
+> The default **THROTTLE1_SET** preset is designed for a potentiometer with a range of 0 to 1023 and a throttle with a range of 0 to 16383. If the potentiometer or aircraft require a different range use the [HubHop potentiometer tool](https://hubhop.mobiflight.com/tools/) to generate the correct custom input event. The `@` symbol in the event is the placeholder that gets filled with the current potentiometer value.
 
 ### Close the dialog and try it out
 
 Click the **OK** button to close the dialog, then spawn an airplane in Microsoft Flight Simulator.
 
-Make sure the MobiFlight **Run** button is clicked in the toolbar, then try toggling the parking brake with the switch. The parking brake in the simulator should toggle.
+Make sure the MobiFlight **Run** button is clicked in the toolbar, then try adjusting the throttle by turning the potentiometer. The throttle in the simulator should move.
 
 {{% /steps %}}
 
