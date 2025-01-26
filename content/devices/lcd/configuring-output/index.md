@@ -44,24 +44,21 @@ Since aircraft have more than one radio, MobiFlight will show a dialog to specif
 
 ### Select the board and device type for the output
 
-On the **Display** tab, use the **Module** and **Use type of** dropdowns to select your connected board and the **Display Module** device type.
+On the **Display** tab, use the **Module** and **Use type of** dropdowns to select your connected board and the **LcdDisplay** device type.
 
-{{< screenshot image="display-tab-output-selected.png" title="Screenshot of the display tab in the output dialog with a board and Display Module type selected." >}}
+{{< screenshot image="display-tab-output-selected.png" title="Screenshot of the display tab in the output dialog with a board and LcdDisplay type selected." >}}
 
 ### Select the module to use for display
 
 Use the **Name / Number** dropdown to select the [module](/devices/seven-segment-display/adding-device) that should display the output value. If more than one module is connected in series, use the number dropdown to specify which module in series will display the value.
 
-{{< screenshot image="display-tab-select-name-number.png" title="Screenshot of the display tab in the output dialog with LedModule and 1 selected in the Name / Number dropdowns." >}}
+{{< screenshot image="display-tab-device-selected.png" title="Screenshot of the display tab in the output dialog with LcdDisplay selected in the Display dropdown." >}}
 
-### Specify the digits and decimal point for display
+### Format the display output
 
-Use the **use display** checkboxes to specify the six digits to use for the frequency display. Use the **set decimal point** checkbox to specify where the decimal point should display.
+Replace the **Text** section sample text with `$$$.$$$` to indicate six digits should be displayed with a decimal after the third digit.
 
-{{< screenshot image="display-tab-use-display-checkboxes.png" title="Screenshot of the display tab in the output dialog with use display boxes one through six checked and set decimal point three checked." >}}
-
-> [!TIP]
-> Leave the number of digits dropdown set to **8** even though only six digits are used to display the frequency. This dropdown is only changed in advanced display configurations.
+{{< screenshot image="display-tab-formatted-output.png" title="Screenshot of the display tab in the output dialog with the Text field filled $$$.$$$." >}}
 
 ### Close the dialog and try it out
 
@@ -70,6 +67,3 @@ Click the **OK** button to close the dialog, then spawn an airplane in Microsoft
 Make sure the MobiFlight **Run** button is clicked in the toolbar, then verify the display shows the COM1 active frequency.
 
 {{% /steps %}}
-
-> [!TIP]
-> TM1637 display modules are configured the same way but have fewer digit and decimal pins to select from in the **Display** tab.
