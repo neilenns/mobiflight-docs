@@ -32,3 +32,14 @@ Daisy-chained MAX7219 introduce additional failure points to the setup. If some 
 ## Verify the display modules are good
 
 Cheap MAX7219 modules are common, and it is not unusual for the boards themselves to be bad. Try swapping the display module for another one to see if it resolves the problem. In some cases, modules may work when they receive an input directly from a board, but will fail to pass data signals properly on the output side to daisy-chained boards.
+
+## Add a decoupling capacitor
+
+The MAX7219 chip benefits from a 10µF electrolytic decoupling capacitor, however the most common modules do not include the capacitor. The module does have through holes for the capacitor, so soldering one in can help smooth out interference from poor wiring or nearby analog devices.
+
+> [!WARNING]
+> Electrolytic capacitors are polarized. Make sure to solder the positive side to the positive hole and the negative side to the negative hole.
+>
+> In the photo below negative is on the left and positive is on the right. When in doubt, use a multimeter to confirm the orientation.
+
+{{< screenshot image="capacitor-holes.png" title="Magnified photo of a MAX7219 display module with two open holes for a capacitor next to the CS and CLK pins." >}}

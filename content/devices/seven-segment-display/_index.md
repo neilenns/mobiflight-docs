@@ -11,11 +11,11 @@ Modules using the MAX7219 driver chip are the most popular. MobiFlight also supp
 
 {{< cards >}}
 
-{{< card link="/devices/seven-segment-tm1637-four-digits.png" title="4-digit module" subtitle="Using the TM1637 driver" image="card-images/devices/seven-segment-tm1637-four-digits.png" >}}
+{{< card title="4-digit module" subtitle="Using the TM1637 driver" image="card-images/devices/seven-segment-tm1637-four-digits.png" >}}
 
-{{< card link="/devices/seven-segment-tm1637-six-digits.png" title="6-digit module" subtitle="Using the TM1637 driver" image="card-images/devices/seven-segment-tm1637-six-digits.png" >}}
+{{< card title="6-digit module" subtitle="Using the TM1637 driver" image="card-images/devices/seven-segment-tm1637-six-digits.png" >}}
 
-{{< card link="/devices/seven-segment-max7219" title="8-digit module" subtitle="Using the MAX7219 driver" image="card-images/devices/seven-segment-max7219.png" >}}
+{{< card title="8-digit module" subtitle="Using the MAX7219 driver" image="card-images/devices/seven-segment-max7219.png" >}}
 
 {{< /cards >}}
 
