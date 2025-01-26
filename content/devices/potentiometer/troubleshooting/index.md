@@ -9,7 +9,7 @@ Potentiometers are generally reliable components, but slight variations between 
 
 ## Verify the potentiometer range
 
-While most 10kΩ linear potentiometers have a range of 0-1023, some may have a slightly different range. To verify the range of your potentiometer, [connect it to your board](/devices/potentiometer/wiring/), then take these steps.
+While most 10kΩ linear potentiometers have a range of 0--1023, some may have a slightly different range. To verify the range of your potentiometer, [connect it to your board](/devices/potentiometer/wiring/), then take these steps.
 
 {{% steps %}}
 
@@ -36,7 +36,7 @@ In the example below, the lowest value produced by the potentiometer is 13. The 
 
 ## Adjust the event range
 
-If the range of your potentiometer is different from the standard 0-1023, use the [HubHop potentiometer tool](https://hubhop.mobiflight.com/tools/) to generate the correct custom input event.
+If the range of your potentiometer is different from the standard 0--1023, use the [HubHop potentiometer tool](https://hubhop.mobiflight.com/tools/) to generate the correct custom input event.
 
 {{% steps %}}
 
