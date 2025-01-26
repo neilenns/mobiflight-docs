@@ -23,7 +23,7 @@ Dupont wires, while popular, are frequently poor quality and do not provide the 
 
 ## Verify the pin assignments
 
-It is very easy, particularly on boards with double rows of pins, to connect the display module wires to different pins than expected on the board. Pay close attention to the pins used on the board, then confirm in the [**MobiFlight Modules** dialog](/devices/seven-segment-display/adding-device/) that the pin assignments are correct.
+Boards with double rows of pins commonly lead to incorrect wire connections. Pay close attention to the pins used on the board, then confirm in the [**MobiFlight Modules** dialog](/devices/seven-segment-display/adding-device/) that the pin assignments are correct.
 
 ## Try only one module at a time
 
