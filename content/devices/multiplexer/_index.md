@@ -7,7 +7,7 @@ next: /devices/multiplexer/wiring/
 
 {{< buy-in-shop url="https://shop.mobiflight.com/product/multiplexer" >}}
 
-When building panels, you may encounter situations where you have more buttons for input than available pins on your board. Multiplexers like the [74HC4051](https://www.ti.com/product/CD74HC4051) (8-bit) and [74HC4067](https://www.ti.com/product/CD74HC4067) (16-bit) allow you to read input from 16 buttons while only using five pins on the board.
+When building panels, you may encounter situations where you have more buttons for input than available pins on your board. Multiplexers like the [74HC4051](https://www.ti.com/product/CD74HC4051) (8-bit) and [74HC4067](https://www.ti.com/product/CD74HC4067) (16-bit) allow you to read input from 16 buttons while only using five pins on the board. Additional multiplexers connected to the same board only require one additional pin.
 
 {{< cards >}}
 
