@@ -1,9 +1,9 @@
 ---
 title: Wiring
 description: Step-by-step guide for wiring buttons and switches to multiplexers.
-ogimage: card-images/devices/input-shift-register.png
+ogimage: card-images/devices/multiplexer.png
 weight: 10
-prev: /devices/input-shift-register
+prev: /devices/multiplexer
 ---
 
 The following components are required to wire a 74HC4067 breakout board:
