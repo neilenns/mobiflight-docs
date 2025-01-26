@@ -1,53 +1,59 @@
 ---
-title: Advanced LCD configuration
+title: Advanced configuration
 description: Step-by-step guide for displaying multiple values on an LCD in MobiFlight.
 ogimage: card-images/devices/lcd-20x4.png
 weight: 40
 ---
 
+LCDs are a convenient way to display multiple numeric values on one output device. The following steps demonstrate how to use a display to show multiple radio values from Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
+
+> [!NOTE]
+> This guide assumes prior knowledge of creating output configurations. To learn how to create a basic radio output configuration see the [7-segment display output configuration guide](/devices/seven-segment-display/configuring-output/).
+
 {{% steps %}}
 
-### Create a new row in the outputs tab of the main window
+### Add output configurations for each value
 
-Double-click on the bottom row where the description says **Double-click row to add new config...** and enter a description for the output. For example, enter **COM1 active frequency** for a display module that will show the current COM1 active frequency.
+Use the output tab to create one output configuration for each value to display on the LCD. For example, create rows for the COM1 and COM2 active and standby frequencies.
 
-{{< screenshot image="output-config-highlight-new.png" title="Screenshot of the output tab in the main window with the bottom row highlighted in red." >}}
+Each output should have the **Sim Variable** tab configured for the desired value. The **Display** tab should be left blank.
 
-### Open the output configuration dialog
+{{< screenshot image="output-config-four-radios.png" title="Screenshot of the output tab in the main window four output configurations defined for COM1 and COM2 active and standby frequencies." >}}
 
-Click the button with three dots in the **Edit** column for the row created in the previous step.
+### Create an LCD output configuration
+
+Add an output configuration for the LCD with a description of the output, for example **Radio value display**. Click the button with three dots in the **Edit** column for the row to edit the configuration.
 
 {{< screenshot image="output-config-highlight-edit.png" title="Screenshot of the output tab in the main window with the edit button highlighted in red." >}}
 
-### Filter the output presets
+### Add config references to an LCD output configuration
 
-On the **Sim Variable** tab, use the **Filter Preset List** dropdowns to filter by **Microsoft**, **Generic**, and **Radio**.
+Add a new output configuration for the LCD, but do not select a variable on the **Sim Variable** tab. Instead, click the **Add Reference** button on the **Modify** tab.
 
-{{< screenshot image="sim-variable-filtered-list.png" title="Screenshot of the sim variable tab in the output dialog filtered by Microsoft / Generic / Radio." >}}
+A new reference to an existing output configuration will be added. If the selected reference is not one of the radio values configured in the previous step use the dropdown to select the correct output.
 
-### Select the COM 1 active frequency preset
+{{< screenshot image="lcd-four-output-configs.png" title="Screenshot of the output tab in the main window four output configurations defined for COM1 and COM2 active and standby frequencies." >}}
 
-Use the **Select Preset** dropdown to select the **COM ACTIVE FREQUENCY:index** preset.
+### Add the remaining references
 
-{{< screenshot image="sim-variable-com-active-frequency.png" title="Screenshot of the sim variable tab in the output dialog with the COM ACTIVE FREQUENCY:index preset selected." >}}
+Repeat the previous step three more times to add config references to the remaining three radio values.
 
-### Set the radio index
-
-Since aircraft have more than one radio, MobiFlight will show a dialog to specify the COM radio value to display. Use the dialog to specify index **1**.
-
-{{< screenshot image="sim-variable-set-index.png" title="Screenshot of the Select Index dialog with an index of 1 set." >}}
+> [!TIP]
+> Write down the characters associated with each config reference for use in later steps.
 
 ### Select the board and device type for the output
 
-On the **Display** tab, use the **Module** and **Use type of** dropdowns to select your connected board and the **Display Module** device type.
+On the **Display** tab, use the **Module** and **Use type of** dropdowns to select your connected board and the **LcdDisplay** device type.
 
-{{< screenshot image="display-tab-output-selected.png" title="Screenshot of the display tab in the output dialog with a board and Display Module type selected." >}}
+{{< screenshot image="display-tab-output-selected.png" title="Screenshot of the display tab in the output dialog with a board and LcdDisplay type selected." >}}
 
-### Select the module to use for display
+### Select the device
 
-Use the **Name / Number** dropdown to select the [module](/devices/seven-segment-display/adding-device) that should display the output value. If more than one module is connected in series, use the number dropdown to specify which module in series will display the value.
+Use the **Display** dropdown to select the specific display to use.
 
 {{< screenshot image="display-tab-select-name-number.png" title="Screenshot of the display tab in the output dialog with LedModule and 1 selected in the Name / Number dropdowns." >}}
+
+### Format the
 
 ### Specify the digits and decimal point for display
 
