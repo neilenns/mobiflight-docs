@@ -21,4 +21,4 @@ The +5V power can come directly from the connected board. The 10kΩ resistor bet
 When using the chip directly without a breakout board, ensure the {{% overline %}}EN{{% /overline %}} pin is connected to GND through a 10kΩ resistor.
 
 > [!TIP]
-> When connecting additional multiplexer to the same board, they can share the **S0--S3** pins. Each multiplexer must use a dedicated **Data** pin.
+> When connecting additional multiplexers to the same board, they can share the **S0--S3** pins. Each multiplexer must use a dedicated **Data** pin.
