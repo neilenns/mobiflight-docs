@@ -2,6 +2,7 @@
 title: Rotary encoders
 description: How to use rotary encoders with MobiFlight.
 ogimage: card-images/devices/encoder-both.png
+next: /devices/encoder/wiring/
 ---
 
 {{< buy-in-shop url="https://shop.mobiflight.com/category/input-devices" >}}
