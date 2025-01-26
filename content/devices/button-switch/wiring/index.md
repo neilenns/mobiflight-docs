@@ -3,7 +3,7 @@ title: Wiring
 description: Step-by-step guide to wiring buttons and switches.
 ogimage: card-images/devices/switch.png
 weight: 10
-prev: /devices/button-switch
+prev: /devices/button-switch/
 ---
 
 {{< tabs items="Tactile button,Two-position switch,Three-position switch" >}}

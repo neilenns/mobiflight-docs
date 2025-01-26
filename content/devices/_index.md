@@ -27,7 +27,7 @@ MobiFlight supports a wide range of different hardware components when connected
 {{< buy-in-shop url="https://shop.mobiflight.com/category/output-devices" >}}
 
 {{< cards >}}
-{{< card link="lcd" title="LCDs" image="card-images/devices/lcd.png" >}}
+{{< card link="lcd" title="LCDs" image="card-images/devices/lcd-20x4.png" >}}
 {{< card link="led" title="LEDs" image="card-images/devices/led.png" >}}
 {{< card link="servo" title="Servos" image="card-images/devices/servo.png" >}}
 {{< card link="seven-segment-display" title="7-segment display modules" subtitle="Using the MAX7219 or TM1637 driver" image="card-images/devices/seven-segment-all-three.png" >}}

@@ -3,7 +3,7 @@ title: Wiring
 description: Step-by-step guide to wiring LEDs.
 ogimage: card-images/devices/led.png
 weight: 10
-prev: /devices/led
+prev: /devices/led/
 ---
 
 The following components are required to wire an LED:
