@@ -17,6 +17,8 @@ description: Step-by-step guides to accomplish specific tasks with MobiFlight.
 
 {{< card link="/devices/seven-segment-display/troubleshooting/" title="7-segment displays" icon="information" >}}
 
+{{< card link="/devices/potentiometer/troubleshooting/" title="Potentiometers" icon="information" >}}
+
 {{< /cards >}}
 
 ## Troubleshooting MobiFlight
