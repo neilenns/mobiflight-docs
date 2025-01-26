@@ -2,7 +2,7 @@
 title: Output shift registers
 description: How to use output shift registers with MobiFlight.
 ogimage: card-images/devices/output-shift-register-dm13a.png
-next: devices/output-shift-register/wiring
+next: /devices/output-shift-register/wiring
 ---
 
 LEDs are the most common output device when building panels, and it is often the case where the number of LEDs exceed the number of output pins or current available on a board. Output shift registers, in particular LED driver chips, solve this issue. They provide individual control of many LEDs using only three pins on a board. The brightness of all connected LEDs can be controlled by using a fourth board pin.

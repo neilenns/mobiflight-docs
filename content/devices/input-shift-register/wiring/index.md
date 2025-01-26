@@ -6,7 +6,7 @@ weight: 10
 prev: /devices/input-shift-register
 ---
 
-The following components are required to wire an LED:
+The following components are required to wire buttons to an input shift register:
 
 - A 74HC165 chip.
 - Buttons or switches.
@@ -27,7 +27,7 @@ The 10kΩ resistors are required on every input pin, even if you aren't attachin
 {{< tab >}}
 MobiFlight supports up to four 74HC165 chips connected in series. When wiring the chips it is important to wire them with the right most chip in the series one connected to the board's data input line. The clock and latch pins are shared across all chips.
 
-{{< schematic image="multiple-chips.svg" title="Schematic for wiring four  74HC165 chips in series." >}}
+{{< schematic image="multiple-chips.svg" title="Schematic for wiring four 74HC165 chips in series." >}}
 
 (Buttons and pull-up resistors omitted for clarity)
 {{< /tab >}}
