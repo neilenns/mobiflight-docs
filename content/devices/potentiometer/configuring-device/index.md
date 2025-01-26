@@ -45,7 +45,11 @@ Use the **Select Preset** dropdown to select the **THROTTLE1_SET** preset.
 {{< screenshot image="input-event-throttle.png" title="Screenshot of the input tab on press event with the THROTTLE1_SET preset selected." >}}
 
 > [!TIP]
-> The default **THROTTLE1_SET** preset is designed for a potentiometer with a range of 0 to 1023 and a throttle with a range of 0 to 16383. Many potentiometers provide a slightly different range. Follow the [troubleshooting guide](/devices/potentiometer/troubleshooting/) to obtain the specific range for your potentiometer. If the simulator event expects a different range use the [HubHop potentiometer tool](https://hubhop.mobiflight.com/tools/) to generate the correct custom input event. The `@` symbol in the event is the placeholder that gets filled with the current potentiometer value.
+> The `@` symbol in the event is the placeholder that gets filled with the current potentiometer value.
+>
+> The default **THROTTLE1_SET** preset is designed for a potentiometer with a range of 0 to 1023 and a throttle with a range of 0 to 16383. Many potentiometers provide a slightly different range. Follow the [troubleshooting guide](/devices/potentiometer/troubleshooting/) to obtain the specific range for your potentiometer.
+>
+> If the simulator event expects a different range use the [HubHop potentiometer tool](https://hubhop.mobiflight.com/tools/) to generate the correct custom input event.
 
 ### Close the dialog and try it out
 
