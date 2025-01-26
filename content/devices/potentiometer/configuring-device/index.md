@@ -5,7 +5,7 @@ ogimage: card-images/devices/potentiometer.png
 weight: 30
 ---
 
-Potentiometers are typically to simulator variables that expect a range of values. The following steps demonstrate how to configure a potentiometer to control the throttle in Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
+Potentiometers are typically connected to simulator variables that expect a range of values. The following steps demonstrate how to configure a potentiometer to control the throttle in a Cessna 172 in Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
 
 > [!TIP]
 > The steps for using a potentiometer with X-Plane are similar. Use the **X-Plane DataRef** type when configuring the **Sim Variable** tab.
@@ -45,7 +45,7 @@ Use the **Select Preset** dropdown to select the **THROTTLE1_SET** preset.
 {{< screenshot image="input-event-throttle.png" title="Screenshot of the input tab on press event with the THROTTLE1_SET preset selected." >}}
 
 > [!TIP]
-> The default **THROTTLE1_SET** preset is designed for a potentiometer with a range of 0 to 1023 and a throttle with a range of 0 to 16383. If the potentiometer or aircraft require a different range use the [HubHop potentiometer tool](https://hubhop.mobiflight.com/tools/) to generate the correct custom input event. The `@` symbol in the event is the placeholder that gets filled with the current potentiometer value.
+> The default **THROTTLE1_SET** preset is designed for a potentiometer with a range of 0 to 1023 and a throttle with a range of 0 to 16383. If the potentiometer or aircraft require a different range, use the [HubHop potentiometer tool](https://hubhop.mobiflight.com/tools/) to generate the correct custom input event. The `@` symbol in the event is the placeholder that gets filled with the current potentiometer value.
 
 ### Close the dialog and try it out
 
@@ -56,4 +56,4 @@ Make sure the MobiFlight **Run** button is clicked in the toolbar, then try adju
 {{% /steps %}}
 
 > [!TIP]
-> Even though these steps are for a Cessna 172, the same parking brake input events should work for most planes in Microsoft Flight Simulator.
+> Even though these steps are for a Cessna 172, the same throttle event should work for most single-engine planes in Microsoft Flight Simulator.

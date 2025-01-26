@@ -44,7 +44,7 @@ If the range of your potentiometer is different from the standard 0-1023, use th
 
 Set the **Device output range** preset to **Arduino** and enter the minimum and maximum values from the log. Set the **MSFS2020 event input range** to the desired input.
 
-{{< screenshot image="hubhop-generated-code.png" title="Screenshot of the HubHop potentiometer tool with the values set for 23 to 1023 potentiometer and a throttle input." >}}
+{{< screenshot image="hubhop-generated-code.png" title="Screenshot of the HubHop potentiometer tool with the values set for a 23 to 1023 potentiometer and a throttle input." >}}
 
 ### Use the event code
 
@@ -52,7 +52,7 @@ The generated event code will be shown in the **Generated RPN code** box.
 
 {{< screenshot image="hubhop-generated-code.png" title="Screenshot of the HubHop potentiometer tool with the generated RPN code highlighted." >}}
 
-Copy and paste the code in as a the preset code when **Show Preset Code** is checked in the [input configuration dialog](/devices/potentiometer/configuring-device/).
+Copy and paste the code as the preset code when **Show Preset Code** is checked in the [input configuration dialog](/devices/potentiometer/configuring-device/).
 
 {{< screenshot image="custom-preset-code.png" title="Screenshot of the input configuration dialog with the Show Preset Code checkbox checked and the custom event code inserted." >}}
 
