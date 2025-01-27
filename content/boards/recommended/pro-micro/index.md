@@ -16,12 +16,9 @@ The Pro Micro (16MHz) is a compact board that trades a smaller size for fewer IO
 {{</ cards >}}
 
 > [!WARNING]
-> Some lower-cost Pro Micro clones, particularly those purchased from AliExpress, are
-> [8MHz 3.3V variants](/boards/unsupported/pro-micro-8mhz) which are not supported by MobiFlight.
-> Always check the product listing carefully to ensure
-> you are ordering the 16MHz version. Purchasing a Pro Micro
-> [from the MobiFlight Shop](https://shop.mobiflight.com/product/arduino-pro-micro-usb-c) ensures
-> you will get a board running at 16Mhz.
+> Some lower-cost Pro Micro clones, particularly those purchased from AliExpress, are [8MHz 3.3V variants](/boards/unsupported/pro-micro-8mhz) which are not supported by MobiFlight. Always check the product listing carefully to ensure you are ordering the 16MHz version.
+>
+> Purchasing a Pro Micro [from the MobiFlight Shop](https://shop.mobiflight.com/product/arduino-pro-micro-usb-c) ensures you will get a board running at 16Mhz.
 
 ## Specifications
 

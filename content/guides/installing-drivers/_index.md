@@ -25,7 +25,7 @@ If the chip is genuine, Windows will automatically detect the board as a USB ser
 
 Counterfeit CH340G chips are common on low-cost, generic, Nano and Mega boards purchased from Amazon and AliExpress. These chips are easily identified by the lack of `CH340G` text on the top, and while they are detected by Windows, will fail to flash with MobiFlight.
 
-To resolve the problem install drivers using the [SimHub FakeCH340DriverFixer tool](https://github.com/SHWotever/FakeCH340DriverFixer).
+To resolve the problem, install drivers using the [SimHub FakeCH340DriverFixer tool](https://github.com/SHWotever/FakeCH340DriverFixer).
 
 ## Genuine FTDI
 

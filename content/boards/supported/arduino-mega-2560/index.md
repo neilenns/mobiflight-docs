@@ -8,13 +8,16 @@ weight: 10
 The Arduino Mega 2560 Rev3 is a classic Arduino board with 70 IO pins and a relatively low cost.
 While it has historically been a popular board for MobiFlight projects, the newer [Mega 2560 Pro Mini](/boards/mega-2560-pro-mini) is a better option for new projects.
 
-Some generic Mega 2560 boards, particularly low-cost ones from AliExpress, may require [additional drivers](/guides/installing-drivers/) to work with MobiFlight.
-
 {{< cards >}}
 
 {{< card title="Arduino Mega 2560 Rev3" subtitle="ATmega2560 microcontroller" image="card-images/boards/mega-2560-rev3.png" >}}
 
 {{</ cards >}}
+
+> [!WARNING]
+> Many lower-cost Mega 2560 Rev3 boards, particularly those purchased from AliExpress, use the CH340G chip
+> for serial communication to the PC. These chips are frequently counterfeit and require
+> [additional driver installation](/guides/installing-drivers/).
 
 ## Specifications
 
@@ -34,11 +37,6 @@ Some generic Mega 2560 boards, particularly low-cost ones from AliExpress, may r
 | [Output shift register](/devices/output-shift-register/) |   6   | Six _chains_ of shift registers, 32 bits each (2x16 or 4x8 bit shift registers).                                                                                                                              |
 | [Servo](/devices/servo/)                                 |  12   |                                                                                                                                                                                                               |
 | [Stepper](/devices/stepper-motor)                        |  10   |                                                                                                                                                                                                               |
-
-> [!WARNING]
-> Many lower-cost Mega 2560 Rev3 boards, particularly when purchased from AliExpress, use the CH340G chip
-> for serial communication to the PC. These chips are frequently counterfeit and require
-> [additional steps to make the boards work with MobiFlight](https://www.badcasserole.com/arduino-nano-with-ch340-chips-connection-issues/).
 
 ## Pinout
 
