@@ -60,4 +60,4 @@ Make sure the MobiFlight **Run** button is clicked in the toolbar, move the flap
 {{% /steps %}}
 
 > [!TIP]
-> Even though these steps are for a Cessna 172, the same parking brake input events should work for most planes in Microsoft Flight Simulator.
+> Even though these steps are for a Cessna 172, the same flap position configuration should work for most planes in Microsoft Flight Simulator.
