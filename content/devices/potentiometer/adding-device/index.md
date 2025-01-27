@@ -15,7 +15,7 @@ Click on the **MobiFlight Modules** button in the main window toolbar.
 
 ### Add the potentiometer
 
-Click on the board the device is connected, to then select **Analog Input** from the **Add device** menu.
+Click on the board the device is connected, then select **Analog Input** from the **Add device** menu.
 
 {{< screenshot image="add-device-menu.png" title="Screenshot of the menu open with the Analog Input item highlighted." >}}
 
