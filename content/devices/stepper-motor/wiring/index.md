@@ -6,10 +6,10 @@ weight: 10
 prev: /devices/stepper-motor/
 ---
 
-{{< tabs items="ULN2003 driver,TB6600 driver">}}
+{{< tabs items="28BYJ-48 with ULN2003 driver,Nema 17 with TB6600 driver">}}
 
 {{< tab >}}
-The [ULN2003 driver](https://www.amazon.com/s?k=uln2003) is the most common driver for small stepper motors, and they are often sold together.
+The **IN1**, **IN2**, **IN3** and **IN4** pins can be connected to any digital or analog input pin on the board.
 
 {{< schematic image="uln2003.svg" title="Schematic for wiring a ULN2003 driver." >}}
 
@@ -17,7 +17,7 @@ The [ULN2003 driver](https://www.amazon.com/s?k=uln2003) is the most common driv
 
 {{< tab >}}
 
-The [TB6600 driver](https://www.amazon.com/s?k=tb6600) is a common option for driving larger [Nema 17 stepper motors](https://www.amazon.com/s?k=nema+17+stepper+motor), like those found in 3D printers and small CNC machines.
+The **PUL- (PUL)** and **DIR- (DIR)** pins can be connected to any digital or analog input pin on the board.
 
 {{< schematic image="tb6600.svg" title="Schematic for wiring a TB6600 driver." >}}
 

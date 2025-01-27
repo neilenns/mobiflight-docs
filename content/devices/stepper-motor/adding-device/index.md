@@ -39,7 +39,7 @@ Provide a meaningful name for the stepper in the **Name** field. This name is sh
 
 In the **Additional settings** section select the **Generic - EasyDriver** preset.
 
-Set the **Pin 1** and **Pin 2** dropdowns to the board pins connected to the **PUL-** and **DIR-** pins on the driver board.
+Set **Pin 1** to the board pin connected to the **PUL-** pin on the driver board. Set **Pin 2** to the board pin connected to the **DIR-** pin on the driver board.
 
 Provide a meaningful name for the stepper in the **Name** field. This name is shown in the output configuration screens when assigning the stepper to a flight simulator output.
 
