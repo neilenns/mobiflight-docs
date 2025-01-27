@@ -7,6 +7,8 @@ description: Step-by-step guides to accomplish specific tasks with MobiFlight.
 
 {{< cards >}}
 
+{{< card link="/guides/installing-drivers/" title="Installing board drivers" icon="download" >}}
+
 {{< card link="/guides/flashing-ambiguous-boards/" title="Flashing ambiguous boards" icon="cpu-chip" >}}
 
 {{< /cards >}}

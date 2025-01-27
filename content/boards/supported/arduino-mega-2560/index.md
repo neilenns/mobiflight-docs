@@ -8,6 +8,8 @@ weight: 10
 The Arduino Mega 2560 Rev3 is a classic Arduino board with 70 IO pins and a relatively low cost.
 While it has historically been a popular board for MobiFlight projects, the newer [Mega 2560 Pro Mini](/boards/mega-2560-pro-mini) is a better option for new projects.
 
+Some generic Mega 2560 boards, particularly low-cost ones from AliExpress, may require [additional drivers](/guides/installing-drivers/) to work with MobiFlight.
+
 {{< cards >}}
 
 {{< card title="Arduino Mega 2560 Rev3" subtitle="ATmega2560 microcontroller" image="card-images/boards/mega-2560-rev3.png" >}}

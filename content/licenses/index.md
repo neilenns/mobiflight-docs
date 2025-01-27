@@ -9,6 +9,7 @@ toc: false
 {{< cards >}}
 {{< card link="https://store.arduino.cc/products/arduino-leonardo-with-headers" title="Arduino Leonardo" subtitle="arduino.cc CC BY-SA 4.0" image="card-images/boards/arduino-leonardo.png" >}}
 {{< card link="https://store.arduino.cc/products/arduino-micro" title="Arduino Micro" subtitle="arduino.cc CC BY-SA 4.0" image="card-images/boards/arduino-micro.png" >}}
+{{< card link="https://store.arduino.cc/products/arduino-nano" title="Arduino Nano" subtitle="arduino.cc CC BY-SA 4.0" image="card-images/boards/arduino-nano.png" >}}
 {{< card link="https://store.arduino.cc/products/arduino-nano-33-ble" title="Arduino Nano 33 BLE" subtitle="arduino.cc CC BY-SA 4.0" image="card-images/boards/arduino-nano-ble.png" >}}
 {{< card link="https://store.arduino.cc/products/arduino-nano-33-iot" title="Arduino Nano 33 IoT" subtitle="arduino.cc CC BY-SA 4.0" image="card-images/boards/arduino-nano-iot.png" >}}
 {{< card link="https://store.arduino.cc/products/nano-esp32" title="Arduino Nano ESP32" subtitle="arduino.cc CC BY-SA 4.0" image="card-images/boards/arduino-nano-esp32.png" >}}

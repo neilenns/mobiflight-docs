@@ -9,6 +9,8 @@ weight: 20
 
 The Arduino Nano is a compact board that trades a smaller size for fewer IO pins than the Arduino Mega boards. It is a great choice when space is at a premium.
 
+Some generic Nano boards, particularly low-cost ones from AliExpress, may require [additional drivers](/guides/installing-drivers/) to work with MobiFlight.
+
 {{< cards >}}
 
 {{< card title="Arduino Nano" subtitle="ATmega328P microcontroller" image="card-images/boards/nano.png" >}}

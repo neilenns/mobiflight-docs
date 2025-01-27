@@ -10,6 +10,8 @@ weight: 10
 The Mega 2560 Pro Mini offers the same 70 IO pins as the [Arduino Mega 2560 Rev3](/boards/arduino-mega-2560),
 but in a smaller package. If you need many IO pins, this is the recommended board to use.
 
+Some Mega 2560 Pro Mini boards, particularly low-cost ones from AliExpress, may require [additional drivers](/guides/installing-drivers/) to work with MobiFlight.
+
 {{< cards >}}
 
 {{< card title="Mega 2560 Pro Mini" subtitle="ATmega2560 microcontroller" image="card-images/boards/mega-2560-pro-mini.png" >}}
