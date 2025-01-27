@@ -5,7 +5,7 @@ ogimage: card-images/devices/servo.png
 weight: 30
 ---
 
-Servos are typically mapped to simulator variables that output numerical values, and require positive integer inputs. Most simulator variables will require scaling to work properly with servos.
+Servos are typically mapped to simulator variables that output numerical values, and require positive integer inputs between 0 and 255. Most simulator variables will require scaling to work properly with these servo input ranges.
 
 The following steps demonstrate how to use a servo and MobiFlight value modifiers to display the flap position in a Cessna 172 in Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
 
@@ -72,7 +72,7 @@ Use the **Servo** dropdown to select the [servo](/devices/servo/adding-device/) 
 {{< screenshot image="display-tab-servo-settings.png" title="Screenshot of the display tab in the output dialog with the min value set to 0 and the max value set to 255." >}}
 
 > [!TIP]
-> To reduce the range the servo moves adjust the **Max. rotation** value.
+> To reduce the range the servo moves, adjust the **Max. rotation** value.
 
 ### Close the dialog and try it out
 
