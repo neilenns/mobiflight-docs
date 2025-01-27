@@ -8,6 +8,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      extras:
+        superscript:
+          enable: true
 
   # enable hextra syntax highlight
   highlight:
