@@ -17,7 +17,7 @@ The **IN1**, **IN2**, **IN3** and **IN4** pins can be connected to any digital o
 
 {{< tab >}}
 
-The **PUL- (PUL)** and **DIR- (DIR)** pins can be connected to any digital or analog input pin on the board.
+The **PUL- (PUL)** and **DIR- (DIR)** pins can be connected to any digital or analog input pin on the board. Connecting **ENA-(EN)** is optional and only required when the stepper should be enabled by a specific simulator output (for example auto-throttle or auto-pilot engaged).
 
 {{< schematic image="tb6600.svg" title="Schematic for wiring a TB6600 driver." >}}
 
