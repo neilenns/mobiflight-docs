@@ -8,7 +8,7 @@ cascade:
   type: docs
 ---
 
-MobiFlight supports a wide range of different hardware components when connected to [supported hardware](../hardware).
+MobiFlight supports a wide range of different hardware components when connected to [supported boards](/boards/).
 
 ## Input devices
 
