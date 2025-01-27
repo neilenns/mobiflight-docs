@@ -30,7 +30,7 @@ Provide a meaningful name for the multiplexer in the **Name** field. This name i
 {{< screenshot image="device-configuration.png" title="Screenshot of the settings for a 74HC4067 multiplexer, with pin 2, 3, 4, and 5 selected, data pin 12, 16-bit multiplexer, and Multiplexer as the name." >}}
 
 > [!TIP]
-> When connecting additional multiplexer to the same board, they can share the **S0--S3** pins. Each multiplexer must use a dedicated **Data** pin.
+> When connecting additional multiplexers to the same board, they can share the **S0--S3** pins. Each multiplexer must use a dedicated **Data** pin.
 
 ### Upload the changes to the board
 
