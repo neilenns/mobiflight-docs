@@ -1,7 +1,7 @@
 ---
 title: Configuring the output
 description: Step-by-step guide for configuring an output to a servo in MobiFlight.
-ogimage: card-images/devices/seven-segment-all-three.png
+ogimage: card-images/devices/servo.png
 weight: 30
 ---
 
