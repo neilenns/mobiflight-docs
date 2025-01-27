@@ -13,7 +13,7 @@ Click on the **MobiFlight Modules** button in the main window toolbar.
 
 {{< screenshot image="/main-window-toolbar-modules.png" title="Screenshot of the MobiFlight Modules button in the main window toolbar." >}}
 
-### Add the input shift register
+### Add the display
 
 Click on the board the device is connected to, then select **LCD Display** from the **Add device** menu.
 
