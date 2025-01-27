@@ -40,7 +40,14 @@ To view the documentation press `F5` and it will automatically build and open in
 - Reference using the `{{< screenshot >}}` shortcode.
 - The shortcode must have a title specified, and the title must end in a period.
 - Take screenshots using the [Windows Snipping Tool](https://support.microsoft.com/en-us/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b) in `Window` mode, not `Freeform` mode.
-- Clean up the rounded corners so a transparent background shows.
+- Take all screenshots against a white background.
+- Highlight rectangles should be use a 6px red stroke and should be applied after screenshots are resized to 800px wide.
+- When taking screenshots of the main window:
+  - Resize the window width so the right edge is next to the Exit button.
+  - Resize the window height so it is shorter. There's no specific size requirement, but make it look nice :)
+  - Ensure the .mcc file is called `Cessna 172 G1000 (MSFS2024)` for consistency with other screenshots unless the tutorial is for a specific other aircraft.
+  - Only show input and output configs that are directly relevant to the tutorial.
+- When taking screenshots of a dialog, stretch the main MobiFlight window vertically to provide a clean white background behind the dialog.
 
 ### Board and device images
 
