@@ -3,11 +3,13 @@ title: Guides
 description: Step-by-step guides to accomplish specific tasks with MobiFlight.
 ---
 
-## Boards
+## General
 
 {{< cards >}}
 
 {{< card link="/guides/flashing-ambiguous-boards/" title="Flashing ambiguous boards" icon="cpu-chip" >}}
+
+{{< card link="https://github.com/MobiFlight/MobiFlight-Connector/wiki" title="Legacy guides" icon="information" >}}
 
 {{< /cards >}}
 
