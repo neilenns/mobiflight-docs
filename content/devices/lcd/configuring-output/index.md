@@ -5,7 +5,7 @@ ogimage: card-images/devices/lcd-20x4.png
 weight: 30
 ---
 
-LCDs are typically mapped to simulator variables that output numerical values. The following steps demonstrate how to use a display to show the autopilot heading in Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024. See the [advanced configuration] guide for steps to show more than one simulator value on the display at a time.
+LCDs are typically mapped to simulator variables that output numerical values. The following steps demonstrate how to use a display to show the COM1 active frequency heading in Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024. See the [advanced configuration](/devices/lcd/advanced-configuration/) guide for steps to show more than one simulator value on the display at a time.
 
 > [!TIP]
 > The steps for using an LCD with X-Plane are similar. Use the **X-Plane DataRef** type when configuring the **Sim Variable** tab.
@@ -50,7 +50,7 @@ On the **Display** tab, use the **Module** and **Use type of** dropdowns to sele
 
 ### Select the module to use for display
 
-Use the **Name / Number** dropdown to select the [module](/devices/seven-segment-display/adding-device) that should display the output value. If more than one module is connected in series, use the number dropdown to specify which module in series will display the value.
+Use the **Display** dropdown to select the [module](/devices/lcd/adding-device) that should display the output value. If more than one module is connected in series, use the number dropdown to specify which module in series will display the value.
 
 {{< screenshot image="display-tab-device-selected.png" title="Screenshot of the display tab in the output dialog with LcdDisplay selected in the Display dropdown." >}}
 

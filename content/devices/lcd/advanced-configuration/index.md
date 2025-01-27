@@ -8,7 +8,7 @@ weight: 40
 LCDs are a convenient way to display multiple numeric values on one output device. The following steps demonstrate how to use a display to show multiple radio values from Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
 
 > [!NOTE]
-> This guide assumes prior knowledge of creating output configurations. To learn how to create a basic radio output configuration see the [7-segment display output configuration guide](/devices/seven-segment-display/configuring-output/).
+> This guide assumes prior knowledge of creating output configurations. To learn how to create a basic radio output configuration, see the [7-segment display output configuration guide](/devices/seven-segment-display/configuring-output/).
 
 {{% steps %}}
 
@@ -57,7 +57,7 @@ Use the **Display** dropdown to select the specific display to use.
 
 ### Format the display output
 
-Replace the **Text** section sample text the values to show on the display. Use the placeholder symbols from step four to indicate where the digits should be placed, and include a decimal at the appropriate location.
+Replace the **Text** section sample text with the values to show on the display. Use the placeholder symbols from step four to indicate where the digits should be placed, and include a decimal at the appropriate location.
 
 {{< screenshot image="display-tab-formatted-output.png" title="Screenshot of the display tab in the output dialog with the Text field filled with COM1 active: ###.###, COM1 stby: !!!.!!!, COM2 active: ???.???, COM2 stby: @@@.@@@." >}}
 
