@@ -7,7 +7,7 @@ next: /devices/lcd/wiring/
 
 {{< buy-in-shop url="https://shop.mobiflight.com/product/lcd-display" >}}
 
-LCDs using a 1602 I^2^C driver board are supported by MobiFlight. They are a convenient way to display more than one simulator variable at a time.
+LCDs using a 1602 I^2^C driver board are a convenient way to display more than one simulator variable at a time.
 
 {{< cards >}}
 {{< card title="LCD" subtitle="16 characters per row, two rows" image="card-images/devices/lcd-20x4.png" >}}
