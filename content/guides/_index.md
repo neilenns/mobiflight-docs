@@ -15,6 +15,8 @@ description: Step-by-step guides to accomplish specific tasks with MobiFlight.
 
 {{< cards >}}
 
+{{< card link="/devices/lcd/troubleshooting/" title="LCDs" icon="information" >}}
+
 {{< card link="/devices/seven-segment-display/troubleshooting/" title="7-segment displays" icon="information" >}}
 
 {{< card link="/devices/potentiometer/troubleshooting/" title="Potentiometers" icon="information" >}}
