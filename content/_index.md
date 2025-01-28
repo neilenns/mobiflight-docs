@@ -2,6 +2,8 @@
 title: MobiFlight documentation
 toc: false
 description: Documentation for MobiFlight
+cascade:
+  type: docs
 ---
 
 {{< cards >}}

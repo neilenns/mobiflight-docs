@@ -1,6 +1,8 @@
 ---
 title: Guides
 description: Step-by-step guides to accomplish specific tasks with MobiFlight.
+cascade:
+  type: docs
 ---
 
 ## General
