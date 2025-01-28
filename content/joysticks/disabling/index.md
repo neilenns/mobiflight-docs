@@ -4,6 +4,9 @@ description: Step-by-step guide for disabling joysticks in MobiFlight.
 weight: 40
 ---
 
+<!-- markdownlint-disable MD024 -->
+<!-- markdown lint doesn't understand third level headings when used as headings in steps within tabs -->
+
 You may want to disable MobiFlight's joystick support in certain situations. This can be done either for all joysticks or for specific devices. Disabling joystick support is useful when other software controls these devices and MobiFlight should ignore them.
 
 {{< tabs items="Disable all joysticks,Disable specific joysticks" >}}
