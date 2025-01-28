@@ -2,6 +2,7 @@
 title: Licenses
 description: Licenses for documentation content
 toc: false
+weight: 100
 ---
 
 ## Board image licenses
