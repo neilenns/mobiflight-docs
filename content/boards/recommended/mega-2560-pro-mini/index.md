@@ -11,11 +11,9 @@ The Mega 2560 Pro Mini offers the same 70 IO pins as the [Arduino Mega 2560 Rev3
 but in a smaller package. If you need many IO pins, this is the recommended board to use.
 
 > [!WARNING]
-> Many lower-cost Mega 2560 Rev3 boards, particularly those purchased from AliExpress, use the CH340G chip
-> for serial communication to the PC. These chips are frequently counterfeit and require
-> [additional driver installation](/guides/installing-drivers/).
+> Many lower-cost Mega 2560 Pro Mini boards, particularly those purchased from AliExpress, use the CH340G chip for serial communication to the PC. These chips are frequently counterfeit and require [additional driver installation](/guides/installing-drivers/).
 >
-> Boards purchased from the MobiFlight shop use genuine chips and do not need additional drivers.
+> Purchasing a Mega 2560 Pro Mini [from the MobiFlight Shop](https://shop.mobiflight.com/product/arduino-mega-2560-pro-mini-usb-c) ensures you will get a board with genuine chips.
 
 {{< cards >}}
 

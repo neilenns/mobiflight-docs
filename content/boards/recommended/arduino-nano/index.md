@@ -16,21 +16,14 @@ The Arduino Nano is a compact board that trades a smaller size for fewer IO pins
 {{</ cards >}}
 
 > [!WARNING]
-> Many lower-cost Nano boards, particularly those purchased from AliExpress, use the CH340G chip
-> for serial communication to the PC. These chips are frequently counterfeit and require
-> [additional driver installation](/guides/installing-drivers/).
+> Many lower-cost Nano boards, particularly those purchased from AliExpress, use the CH340G chip for serial communication to the PC. These chips are frequently counterfeit and require [additional driver installation](/guides/installing-drivers/).
+>
+> Purchasing an Arduino Nano [from the MobiFlight Shop](https://shop.mobiflight.com/product/arduino-nano-usb-c) ensures you will get a board with genuine chips.
 
 ## Specifications
 
 - 14 digital IO pins, 6 with PWM support.
 - 8 analog inputs (can be used as digital inputs).
-
-> [!WARNING]
-> Many lower-cost Nano boards, particularly when purchased from AliExpress, use the CH340G chip for
-> serial communication to the PC. These chips are frequently counterfeit and require
-> [additional steps to make the boards work with MobiFlight](https://www.badcasserole.com/arduino-nano-with-ch340-chips-connection-issues/). Purchasing an Arduino Nano
-> [from the MobiFlight Shop](https://shop.mobiflight.com/product/arduino-nano-usb-c) ensures
-> you will get a board with genuine chips.
 
 ## Pinout
 
