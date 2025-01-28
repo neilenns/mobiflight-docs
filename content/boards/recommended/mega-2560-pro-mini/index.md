@@ -10,6 +10,13 @@ weight: 10
 The Mega 2560 Pro Mini offers the same 70 IO pins as the [Arduino Mega 2560 Rev3](/boards/arduino-mega-2560),
 but in a smaller package. If you need many IO pins, this is the recommended board to use.
 
+> [!WARNING]
+> Many lower-cost Mega 2560 Rev3 boards, particularly those purchased from AliExpress, use the CH340G chip
+> for serial communication to the PC. These chips are frequently counterfeit and require
+> [additional driver installation](/guides/installing-drivers/).
+>
+> Boards purchased from the MobiFlight shop use genuine chips and do not need additional drivers.
+
 {{< cards >}}
 
 {{< card title="Mega 2560 Pro Mini" subtitle="ATmega2560 microcontroller" image="card-images/boards/mega-2560-pro-mini.png" >}}

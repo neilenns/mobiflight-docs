@@ -15,6 +15,11 @@ The Arduino Nano is a compact board that trades a smaller size for fewer IO pins
 
 {{</ cards >}}
 
+> [!WARNING]
+> Many lower-cost Nano boards, particularly those purchased from AliExpress, use the CH340G chip
+> for serial communication to the PC. These chips are frequently counterfeit and require
+> [additional driver installation](/guides/installing-drivers/).
+
 ## Specifications
 
 - 14 digital IO pins, 6 with PWM support.

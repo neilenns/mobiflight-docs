@@ -14,6 +14,11 @@ While it has historically been a popular board for MobiFlight projects, the newe
 
 {{</ cards >}}
 
+> [!WARNING]
+> Many lower-cost Mega 2560 Rev3 boards, particularly those purchased from AliExpress, use the CH340G chip
+> for serial communication to the PC. These chips are frequently counterfeit and require
+> [additional driver installation](/guides/installing-drivers/).
+
 ## Specifications
 
 - 54 digital IO pins, 15 with PWM support.
@@ -32,11 +37,6 @@ While it has historically been a popular board for MobiFlight projects, the newe
 | [Output shift register](/devices/output-shift-register/) |   6   | Six _chains_ of shift registers, 32 bits each (2x16 or 4x8 bit shift registers).                                                                                                                              |
 | [Servo](/devices/servo/)                                 |  12   |                                                                                                                                                                                                               |
 | [Stepper](/devices/stepper-motor)                        |  10   |                                                                                                                                                                                                               |
-
-> [!WARNING]
-> Many lower-cost Mega 2560 Rev3 boards, particularly when purchased from AliExpress, use the CH340G chip
-> for serial communication to the PC. These chips are frequently counterfeit and require
-> [additional steps to make the boards work with MobiFlight](https://www.badcasserole.com/arduino-nano-with-ch340-chips-connection-issues/).
 
 ## Pinout
 
