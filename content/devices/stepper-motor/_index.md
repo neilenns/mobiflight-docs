@@ -13,6 +13,6 @@ Stepper motors are an advanced device that, when used with MobiFlight, can displ
 
 ## Popular options
 
-There are a wide range of stepper motors and driver boards available, most of which work with MobiFlight. A [28BYJ-48 small stepper motor with a ULN2003 driver](https://www.amazon.com/s?k=28BYJ-48) is a popular option to get started experimenting with stepper motors in a cockpit build.
+There is a wide range of stepper motors and driver boards available, most of which work with MobiFlight. A [28BYJ-48 small stepper motor with a ULN2003 driver](https://www.amazon.com/s?k=28BYJ-48) is a popular option to get started experimenting with stepper motors in a cockpit build.
 
 The [TB6600 driver](https://www.amazon.com/s?k=tb6600) is a common option for driving larger [Nema 17 stepper motors](https://www.amazon.com/s?k=nema+17+stepper+motor), like those found in 3D printers and small CNC machines.
