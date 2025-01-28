@@ -1,7 +1,6 @@
 ---
 title: Configuring inputs
 description: Step-by-step guide for configuring joysticks as an input in MobiFlight.
-ogimage: card-images/devices/switch.png
 prev: /joysticks/
 weight: 30
 ---

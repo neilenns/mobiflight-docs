@@ -1,7 +1,6 @@
 ---
 title: Configuring outputs
 description: Step-by-step guide for configuring joysticks as an output in MobiFlight.
-ogimage: card-images/devices/switch.png
 weight: 30
 ---
 
