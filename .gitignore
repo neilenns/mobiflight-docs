@@ -3,6 +3,7 @@ resources/
 
 # KiCad backups
 **/*-backups
-**/*.backups
+**/*.bak
+
 # Node.js
 node_modules/
