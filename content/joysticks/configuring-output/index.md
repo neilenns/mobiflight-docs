@@ -1,7 +1,7 @@
 ---
 title: Configuring outputs
 description: Step-by-step guide for configuring joysticks as an output in MobiFlight.
-weight: 30
+weight: 20
 ---
 
 MobiFlight supports using joystick LEDs as output devices for a select set of joysticks, including the Honeycomb Bravo Throttle Quadrant, Octavi, and VKBsim controllers.

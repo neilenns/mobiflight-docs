@@ -2,7 +2,7 @@
 title: Configuring inputs
 description: Step-by-step guide for configuring joysticks as an input in MobiFlight.
 prev: /joysticks/
-weight: 30
+weight: 10
 ---
 
 ## Button, switch, encoder, and 4-way hat inputs

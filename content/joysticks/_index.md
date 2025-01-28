@@ -5,7 +5,7 @@ toc: false
 weight: 30
 next: /joysticks/configuring-input/
 cascade:
-type: docs
+  type: docs
 ---
 
 <!-- markdownlint-disable MD024 -->
