@@ -13,19 +13,19 @@ cascade:
 
 MobiFlight supports joysticks, yokes, throttle quadrants, and other devices that show in Windows as USB game controllers. No additional drivers are required.
 
-While all USB game controllers are supported, MobiFlight has specific knowledge of many popular devices and will display friendly names when configuring inputs and outputs. This includes the following products:
+For popular devices, MobiFlight displays friendly names during input and output configuration. These devices include:
 
-- Honeycomb [Alpha Flight Controls](https://flyhoneycomb.com/products/alpha-flight-controls)
-- Honeycomb [Bravo Throttle Quadrant](https://flyhoneycomb.com/collections/hardware/products/bravo-throttle-quadrant)
-- [Octavi](https://www.octavi.net/)
-- Thrustmaster [TCA Sidekick Airbus Edition](https://www.thrustmaster.com/en-us/products/tca-sidestick-airbus-edition/)
-- VKBsim [controllers](https://www.vkbcontrollers.com/)
-- WinWing [FCU](https://us.winwingsim.com/view/goods-details.html?id=550)
-- WinWing [EFIS Left](https://us.winwingsim.com/view/goods-details.html?id=845) and [EFIS Right](https://us.winwingsim.com/view/goods-details.html?id=865)
+- [Honeycomb Alpha Flight Controls yoke](https://flyhoneycomb.com/products/alpha-flight-controls)
+- [Honeycomb Bravo Throttle Quadrant controller](https://flyhoneycomb.com/collections/hardware/products/bravo-throttle-quadrant)
+- [Octavi flight simulation controls](https://www.octavi.net/)
+- [Thrustmaster TCA Sidestick Airbus Edition controller](https://www.thrustmaster.com/en-us/products/tca-sidestick-airbus-edition/)
+- [VKBsim flight simulation controllers](https://www.vkbcontrollers.com/)
+- [WinWing Flight Control Unit (FCU)](https://us.winwingsim.com/view/goods-details.html?id=550)
+- [WinWing EFIS Left display](https://us.winwingsim.com/view/goods-details.html?id=845) and [WinWing EFIS Right display](https://us.winwingsim.com/view/goods-details.html?id=865)
 
 ## Disabling joysticks
 
-In some situations it may be helpful to disable MobiFlight joystick support entirely, or for specific joysticks. This can be useful when other software is used to control those devices and MobiFlight should ignore them.
+You may want to disable MobiFlight's joystick support in certain situations. This can be done either for all joysticks or for specific devices. Disabling joystick support is useful when other software controls these devices and MobiFlight should ignore them.
 
 {{< tabs items="Disable all joysticks,Disable specific joysticks" >}}
 

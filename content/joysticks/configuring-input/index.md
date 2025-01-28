@@ -7,7 +7,7 @@ weight: 10
 
 ## Button, switch, encoder, and 4-way hat inputs
 
-These inputs are configured in MobiFlight [the same way as generic button and switch devices](/devices/button-switch/configuring-input).
+These inputs are configured in MobiFlight using [the button and switch configuration process](/devices/button-switch/configuring-input).
 
 When selecting the **Module** and **Device**, select the appropriate joystick and switch. Alternatively, press the **Scan for input** button and toggle the input to automatically detect and select the button.
 
@@ -15,7 +15,7 @@ When selecting the **Module** and **Device**, select the appropriate joystick an
 
 ## Slider and axis inputs
 
-Slider and axis inputs, such as throttle levers and yokes, are configured in MobiFlight [the same way as generic potentiometer devices](/devices/potentiometer/configuring-input).
+These inputs, including throttle levers and yokes, are configured in MobiFlight using [the potentiometer configuration process](/devices/potentiometer/configuring-input).
 
 When selecting the **Module** and **Device**, select the appropriate joystick and switch. Alternatively, press the **Scan for input** button and move the input to automatically detect and select the axis.
 
