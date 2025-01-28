@@ -3,7 +3,7 @@ title: Boards
 description: Details on supported boards and how to connect to MobiFlight
 ogimage: card-images/boards/mega-2560-pro-mini.png
 toc: false
-weight: 30
+weight: 20
 cascade:
   type: docs
 ---

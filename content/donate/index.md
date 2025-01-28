@@ -1,6 +1,8 @@
 ---
 title: Donate to MobiFlight
 description: How to support ongoing MobiFlight development
+sidebar:
+  exclude: true
 ---
 
 MobiFlight is an all-volunteer project. If you enjoy it, please consider donating to help support ongoing development.
