@@ -5,7 +5,7 @@ ogimage: card-images/devices/stepper-motor.png
 weight: 30
 ---
 
-Stepper motors are typically mapped to simulator variables that output numerical values. The following steps demonstrate how to use a 28BYJ-48 stepper motor with a ULN2003 driver to show the autopilot heading in Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
+Stepper motors are typically mapped to simulator variables that output numerical values. The following steps demonstrate how to use a 28BYJ-48 stepper motor with a ULN2003 driver to show the compass heading in Microsoft Flight Simulator 2020 and Microsoft Flight Simulator 2024.
 
 > [!TIP]
 > The steps for using a stepper motor with X-Plane are similar. Use the **X-Plane DataRef** type when configuring the **Sim Variable** tab.
@@ -14,7 +14,7 @@ Stepper motors are typically mapped to simulator variables that output numerical
 
 ### Create a new row in the outputs tab of the main window
 
-Double-click on the bottom row where the description says **Double-click row to add new config...** and enter a description for the output. For example, enter **Autopilot heading** for a stepper motor that will show the current autopilot heading.
+Double-click on the bottom row where the description says **Double-click row to add new config...** and enter a description for the output. For example, enter **Compass** for a stepper motor that will show the compass heading.
 
 {{< screenshot image="output-config-highlight-new.png" title="Screenshot of the output tab in the main window with the bottom row highlighted in red." >}}
 
@@ -26,15 +26,15 @@ Click the button with three dots in the **Edit** column for the row created in t
 
 ### Filter the output presets
 
-On the **Sim Variable** tab, use the **Filter Preset List** dropdowns to filter by **Microsoft**, **Generic**, and **Autopilot**.
+On the **Sim Variable** tab, use the **Filter Preset List** dropdowns to filter by **Microsoft**, **Generic**, and **Miscellaneous**.
 
-{{< screenshot image="sim-variable-filtered-list.png" title="Screenshot of the sim variable tab in the output dialog filtered by Microsoft / Generic / Radio." >}}
+{{< screenshot image="sim-variable-filtered-list.png" title="Screenshot of the sim variable tab in the output dialog filtered by Microsoft / Generic / Miscellaneous." >}}
 
-### Select the autopilot heading lock direction
+### Select the magnetic compass preset
 
-Use the **Select Preset** dropdown to select the **AUTOPILOT HEADING LOCK DIR** preset.
+Use the **Select Preset** dropdown to select the **MAGNETIC COMPASS** preset.
 
-{{< screenshot image="sim-variable-heading-lock.png" title="Screenshot of the sim variable tab in the output dialog with the AUTOPILOT HEADING LOCK DIR preset selected." >}}
+{{< screenshot image="sim-variable-magnetic-compass.png" title="Screenshot of the sim variable tab in the output dialog with the MAGNETIC COMPASS preset selected." >}}
 
 ### Select the board and device type for the output
 
@@ -50,7 +50,7 @@ Use the **Stepper** dropdown to select the [stepper motor](/devices/stepper-moto
 
 ### Specify the display scale
 
-Since autopilot headings are from 0--360, set the **Display scale** to **360** steps per revolution.
+Since compass values are from 0--360, set the **Display scale** to **360** steps per revolution.
 
 {{< screenshot image="display-tab-display-scale.png" title="Screenshot of the display tab in the output dialog with display scale set to 360." >}}
 
@@ -66,6 +66,6 @@ To set the zero position, use the **Move steps** slider and **Move** button to r
 
 Click the **OK** button to close the dialog, then spawn an airplane in Microsoft Flight Simulator.
 
-Make sure the MobiFlight **Run** button is clicked in the toolbar, then adjust the autopilot heading. The stepper motor should move to match the heading position in the simulator.
+Make sure the MobiFlight **Run** button is clicked in the toolbar. The stepper motor should move to match the compass heading in the simulator.
 
 {{% /steps %}}
