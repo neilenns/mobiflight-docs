@@ -4,7 +4,7 @@ description: Step-by-step guide to solving errors when flashing supported MobiFl
 ogimage: screenshots/flashing-error.png
 ---
 
-When connecting a new board, MobiFlight prompts to install the software on the board to make it work with MobiFlight. In some cases that installation fails and MobiFlight will display an error dialog.
+When connecting a new board, MobiFlight prompts to install the software on the board to make it work with MobiFlight. In some cases, that installation fails and MobiFlight will display an error dialog.
 
 {{< screenshot image="flashing-error.png" title="Screenshot of the flashing failed error dialog." >}}
 
@@ -14,7 +14,7 @@ Use the following steps to troubleshoot the issue.
 
 ### Verify the board is supported
 
-Check the [recommended and supported boards](/boards/) and confirm the board is supported by MobiFlight. Many unsupported boards have similar names to supported boards and will not work. For example, the Arduino Pro Micro (8MHz) is not supported but the Arduino Pro Micro (16MHz) is.
+Check the [recommended and supported boards](/boards/) and confirm the board is supported by MobiFlight. Many unsupported boards have similar names to supported boards and will not work. For example, the Pro Micro (8MHz) is not supported but the Pro Micro (16MHz) is.
 
 ### Install required drivers
 
