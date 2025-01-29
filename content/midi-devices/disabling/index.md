@@ -1,7 +1,7 @@
 ---
 title: Disabling MIDI devices
 description: Step-by-step guide for disabling MIDI devices in MobiFlight.
-weight: 80
+weight: 40
 ---
 
 <!-- markdownlint-disable MD024 -->
