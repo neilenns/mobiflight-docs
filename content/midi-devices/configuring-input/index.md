@@ -1,6 +1,6 @@
 ---
 title: Configuring inputs
-description: Step-by-step guide for configuring joysticks as an input in MobiFlight.
+description: Step-by-step guide for configuring MIDI devices as an input in MobiFlight.
 prev: /joysticks/
 weight: 60
 ---

@@ -1,6 +1,6 @@
 ---
 title: Configuring outputs
-description: Step-by-step guide for configuring joysticks as an output in MobiFlight.
+description: Step-by-step guide for configuring MIDI devices as an output in MobiFlight.
 weight: 70
 ---
 

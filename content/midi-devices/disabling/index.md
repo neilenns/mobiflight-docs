@@ -21,9 +21,9 @@ Go to the **Extras** menu and select **Settings**.
 
 {{< screenshot image="/extras-settings.png" title="Screenshot of the Extras menu with the Settings menu item selected." >}}
 
-### Disable joystick support
+### Disable MIDI device support
 
-On the **Peripherals** tab uncheck the **Enable MIDI support** checkbox.
+On the **Peripherals** tab, uncheck the **Enable MIDI support** checkbox.
 
 {{< screenshot image="disable-all.png" title="Screenshot of the Peripherals tab in Settings with Enable MIDI support unchecked." >}}
 
@@ -41,9 +41,9 @@ Go to the **Extras** menu and select **Settings**.
 
 {{< screenshot image="/extras-settings.png" title="Screenshot of the Extras menu with the Settings menu item selected." >}}
 
-### Disable specific joysticks
+### Disable specific MIDI devices
 
-On the **Peripherals** tab uncheck the specific MIDI devices to disable.
+On the **Peripherals** tab, uncheck the specific MIDI devices to disable.
 
 {{< screenshot image="disable-specific.png" title="Screenshot of the Peripherals tab in Settings with three FootSwitch joysticks disabled." >}}
 
