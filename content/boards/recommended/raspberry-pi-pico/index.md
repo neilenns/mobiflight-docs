@@ -22,6 +22,9 @@ The Raspberry Pi Pico 1 is a compact board with a moderate number of IO pins. It
 - 23 digital IO pins, 16 with PWM support.
 - 3 analog inputs (can be used as digital IO pins).
 
+> [!WARNING]
+> The Raspberry Pi Pico 1 uses 3.3V for its digital signals. Certain output devices, including the MAX7219 7-segment LED driver chip and all LCDs, require 5V digital signals. If you plan to use those devices with the Pico, you will need to add a level shifter to your build.
+
 | Device                                                   | Limit | Notes                                                                                                                                                                                                         |
 | -------------------------------------------------------- | :---: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Analog input](/devices/potentiometer/)                  |   3   |                                                                                                                                                                                                               |
@@ -36,8 +39,6 @@ The Raspberry Pi Pico 1 is a compact board with a moderate number of IO pins. It
 | [Servo](/devices/servo/)                                 |   8   |                                                                                                                                                                                                               |
 | [Stepper](/devices/stepper-motor)                        |   6   |                                                                                                                                                                                                               |
 
-> [!WARNING]
-> The Raspberry Pi Pico uses 3.3V for its digital signals. Certain output devices, including the MAX7219 7-segment LED driver chip and all LCDs, require 5V digital signals. If you plan to use those devices with the Pico, you will need to add a level shifter to your build.
 
 ## Pinout
 
