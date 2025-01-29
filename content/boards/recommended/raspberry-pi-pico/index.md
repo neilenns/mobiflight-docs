@@ -39,7 +39,6 @@ The Raspberry Pi Pico 1 is a compact board with a moderate number of IO pins. It
 | [Servo](/devices/servo/)                                 |   8   |                                                                                                                                                                                                               |
 | [Stepper](/devices/stepper-motor)                        |   6   |                                                                                                                                                                                                               |
 
-
 ## Pinout
 
 {{< pinout >}}
