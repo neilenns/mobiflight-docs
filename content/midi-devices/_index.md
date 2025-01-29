@@ -7,7 +7,7 @@ cascade:
   type: docs
 ---
 
-MobiFlight supports several popular MIDI devices. While no drivers are required, supported devices may additional configuration via the vendor's software to work correctly with MobiFlight.
+MobiFlight supports several popular MIDI devices. While no drivers are required, supported devices may require [additional configuration](/midi-devices/configuring-device/) via the vendor's software to work correctly with MobiFlight.
 
 ## Supported devices
 

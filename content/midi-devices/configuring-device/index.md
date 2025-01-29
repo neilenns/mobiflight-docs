@@ -9,7 +9,7 @@ weight: 10
 <!-- markdownlint-disable MD024 -->
 <!-- markdown lint doesn't understand third level headings when used as headings in steps within detail sections -->
 
-Most MIDI devices require configuration with a vendor-provided application prior to use with MobiFlight. See the section below for instructions on how to configure your specific device.
+Most MIDI devices require configuration with a vendor-provided application before use with MobiFlight. See the section below for instructions on how to configure your specific device.
 
 {{% details title="AKAI MDP218" closed="true" %}}
 

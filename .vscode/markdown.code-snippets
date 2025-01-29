@@ -72,7 +72,7 @@
 			"",
 			"$1",
 			"",
-			"{{< /tab >}}",
+			"{{< /tab >}}"
 		],
 		"description": "Snippet for inserting tab shortcode with content."
 	},
