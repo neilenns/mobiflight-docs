@@ -1,15 +1,15 @@
 ---
-title: Disabling joysticks
-description: Step-by-step guide for disabling joysticks in MobiFlight.
+title: Disabling MIDI devices
+description: Step-by-step guide for disabling MIDI devices in MobiFlight.
 weight: 40
 ---
 
 <!-- markdownlint-disable MD024 -->
 <!-- markdown lint doesn't understand third level headings when used as headings in steps within tabs -->
 
-You may want to disable MobiFlight's joystick support in certain situations. This can be done either for all joysticks or for specific devices. Disabling joystick support is useful when other software controls these devices and MobiFlight should ignore them.
+You may want to disable MobiFlight's MIDI support in certain situations. This can be done either for all MIDI devices or for specific devices. Disabling support is useful when other software controls these devices and MobiFlight should ignore them.
 
-{{< tabs items="Disable all joysticks,Disable specific joysticks" >}}
+{{< tabs items="Disable all devices,Disable specific devices" >}}
 
 {{< tab >}}
 
@@ -21,11 +21,11 @@ Go to the **Extras** menu and select **Settings**.
 
 {{< screenshot image="/extras-settings.png" title="Screenshot of the Extras menu with the Settings menu item selected." >}}
 
-### Disable joystick support
+### Disable MIDI device support
 
-On the **Peripherals** tab, uncheck the **Enable joystick support** checkbox.
+On the **Peripherals** tab, uncheck the **Enable MIDI support** checkbox.
 
-{{< screenshot image="disable-all.png" title="Screenshot of the Peripherals tab in Settings with Enable joystick support unchecked." >}}
+{{< screenshot image="disable-all.png" title="Screenshot of the Peripherals tab in Settings with Enable MIDI support unchecked." >}}
 
 {{% /steps %}}
 
@@ -41,9 +41,9 @@ Go to the **Extras** menu and select **Settings**.
 
 {{< screenshot image="/extras-settings.png" title="Screenshot of the Extras menu with the Settings menu item selected." >}}
 
-### Disable specific joysticks
+### Disable specific MIDI devices
 
-On the **Peripherals** tab, uncheck the specific joysticks to disable.
+On the **Peripherals** tab, uncheck the specific MIDI devices to disable.
 
 {{< screenshot image="disable-specific.png" title="Screenshot of the Peripherals tab in Settings with three FootSwitch joysticks disabled." >}}
 
