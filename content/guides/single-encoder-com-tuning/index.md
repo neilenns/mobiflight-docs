@@ -17,7 +17,7 @@ The following steps show how to configure this in MobiFlight, using a MobiFlight
 
 Name the configuration **COM1 KHz mode** and assign the **Device** to the encoder button. Set the **On Press** action to **MobiFlight - Variable** and the **Name** to **COM1 KHz mode**.
 
-In the **Value** field enter `($+1)%2`. This will cause the value of the variable to alternate between `0` and `1` on each button press.
+In the **Value** field, enter `($+1)%2`. This will cause the value of the variable to alternate between `0` and `1` on each button press.
 
 {{< screenshot image="input-variable.png" title="Screenshot of an input configuration mapped to the encoder button, configured as a MobiFlight - Variable action type." >}}
 
