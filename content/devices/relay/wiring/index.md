@@ -5,8 +5,9 @@ ogimage: card-images/devices/relay.png
 prev: /devices/relay/
 ---
 
-{{% details title="Relays" closed="true" %}}
+The following schematic illustrates how to wire a relay to close a main voltage circuit when a `1` output value is sent from MobiFlight. The circuit is open when a `0` output is sent.
 
-Here's how to wire a relay
+{{< schematic image="schematic.svg" title="Schematic for wiring a relay." >}}
 
-{{% /details %}}
+> [!WARNING]
+> Relays involve working with main voltage AC. Take appropriate precautions.
