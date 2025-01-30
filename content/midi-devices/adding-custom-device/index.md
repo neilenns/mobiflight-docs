@@ -16,13 +16,13 @@ Follow the steps in the [enabling logging guide](/guides/enabling-logging) to en
 
 Launch MobiFlight and take note of the **Midi device** name reported when the device is detected.
 
-Then, use each input on the board and take note of the name, **Note** or **CC** values received by MobiFlight.
+Then, use each input on the board and take note of the name, **Note** and **CC** values received by MobiFlight.
 
 {{< screenshot image="logs.png" title="Screenshot of the MobiFlight main window with logging enabled. The MPK mini play, Note 1_65, and CC 1_50 log entries are highlighted." >}}
 
 ### Create the configuration file
 
-Create a new text file ending with `.midi.json` and save it in the `%localappdata%\MobiFlight\MobiFlight Connector\MidiBoards` folder.
+Create a new text file ending with `.midi.json` and save it in the `%LOCALAPPDATA%\MobiFlight\MobiFlight Connector\MidiBoards` folder.
 
 Using the [`mpd218.midiboard.json`](https://github.com/MobiFlight/MobiFlight-Connector/blob/main/MidiBoards/mpd218.midiboard.json) file as an example, create a new configuration file using the values identified in the previous step.
 
