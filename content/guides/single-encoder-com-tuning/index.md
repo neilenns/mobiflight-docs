@@ -61,7 +61,7 @@ This will ensure the input configuration only runs when the **COM1 KHz mode** va
 
 ### Try it out
 
-Spawn an airplane in Microsoft Flight Simulator. Make sure the MobiFlight **Run** button is clicked in the toolbar, then try adjusting the COM1 standby frequency with the encoder. By default MHz should change, and pressing the encoder button should toggle to adjust KHz. Pressing the encoder button again will return to adjusting MHz.
+Spawn an airplane in Microsoft Flight Simulator. Make sure the MobiFlight **Run** button is clicked in the toolbar, then try adjusting the COM1 standby frequency with the encoder. By default, MHz should change, and pressing the encoder button should toggle to adjust KHz. Pressing the encoder button again will return to adjusting MHz.
 
 MobiFlight will indicate which input configuration is disabled by the precondition by showing a red exclamation point at the start of the row. In the following screenshot, MHz adjustment is active and KHz adjustment is disabled.
 
