@@ -6,7 +6,13 @@ prev: /devices/relay/
 ---
 
 > [!CAUTION]
-> Relays often control AC mains voltage, which can cause serious injury or death if handled improperly. Always disconnect power before working on circuits, use proper insulation, and follow local electrical safety regulations.
+> Relays are often used to control mains voltage. AC mains voltage can cause serious injury or death if handled improperly.
+>
+> - Always disconnect power before working on circuits.
+> - Use proper insulation.
+> - Be familiar with, and follow, relevant electrical safety regulations.
+>
+> If you're unsure of how to work with AC mains voltage safely, consult a qualified electrician.
 
 The following schematic illustrates how to wire a relay to close a main voltage circuit when a `1` output value is sent from MobiFlight. The circuit is open when a `0` output is sent.
 
