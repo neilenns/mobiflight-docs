@@ -54,7 +54,7 @@ Buttons and switches come in a near endless variety. Here are some other variati
 - [16mm round momentary switches with LED](https://www.aliexpress.us/item/3256801735242282.html) are useful for radio panels.
 - [6x6 LED lighted tactile buttons](https://www.aliexpress.us/item/3256802787412892.html) are commonly used in FMC custom PCB designs that require backlit buttons.
 - [6x6 tactile switches](https://www.aliexpress.com/w/wholesale-SKPMAME010.html) are SMD micro buttons with a long handle. They are available as a [JLCPCB part](https://jlcpcb.com/partdetail/Alpsalpine-SKPMAME010/C115348), making them a convenient option when using the JLCPCB SMT service.
-- [Korry look-alike square push buttons with integrated LED](https://www.aliexpress.us/item/3256803500293528.html) are panel mounted with a long travel.
+- [Korry look-alike square push buttons with integrated LED](https://www.aliexpress.us/item/3256803500293528.html) are panel mounted with long travel.
 - [Large (ON)-OFF-(ON) toggle switches with a square shaft](https://www.aliexpress.us/item/3256805652958358.html) have a removable handle. They are useful as a 3D printed up/down flap lever.
 - [Push-pull switches](https://www.aliexpress.us/item/3256806453888352.html) have a removable knob. They are useful as a fuel cutoff switch or alternate static air switch.
 - [Rotary switches](https://www.aliexpress.us/item/3256806795333343.html) are useful for prop plane magneto switches.
