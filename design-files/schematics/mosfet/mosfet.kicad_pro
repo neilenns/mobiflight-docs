@@ -236,10 +236,12 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "symbols"
+    ]
   },
   "meta": {
-    "filename": "relay.kicad_pro",
+    "filename": "mosfet.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -384,7 +386,7 @@
   },
   "sheets": [
     [
-      "18e1d86b-fda5-45f9-b42c-d9b2a8330fd4",
+      "ecffb02d-113e-424d-8e16-ee039f571572",
       "Root"
     ]
   ],
