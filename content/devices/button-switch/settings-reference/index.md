@@ -31,7 +31,7 @@ The **On Press** event fires immediately after the button is pressed.
 
 {{< tab >}}
 
-The **On Release** event fires when the button is released before the
+The **On Release** event fires when the button is released, as long as **On Long Release** is not configured. If **On Long Release** is configured, **On Release** will fire when teh button is held for less than the on long release duration.
 
 {{< screenshot image="on-RELEASE.png" title="Screenshot of the button On Release event tab with the Action Type menu opened." >}}
 
