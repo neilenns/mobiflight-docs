@@ -6,15 +6,9 @@ next: /devices/relay/wiring/
 ---
 
 > [!CAUTION]
-> AC mains voltage can cause serious injury or death if handled improperly. Whenever possible, use relays to switch low-voltage circuits (24V or below) to reduce risk.
->
-> - Always disconnect power before working on circuits.
-> - Use proper insulation.
-> - Be familiar with, and follow, relevant electrical safety regulations.
->
-> If you are unsure of how to work with AC mains voltage safely, consult a qualified electrician.
+> Do not work with voltages over 24V unless you are familiar with electrical safety standards. AC mains voltage can cause serious injury or death if handled improperly. If you are unsure of how to work with AC mains voltage safely, consult a qualified electrician.
 
-Relays are commonly used to switch electrical circuits running at more than +5V. They take an `on` or `off` signal as input to switch higher voltage on and off.
+Relays are commonly used to switch electrical circuits running at more than +5V. They take an `on` or `off` signal as input to switch higher voltage on and off. For controlling LED strips with MobiFlight use a [MOSFET](/devices/mosfet/) instead.
 
 {{< cards >}}
 {{< card title="Relays" image="card-images/devices/relay.png" >}}
